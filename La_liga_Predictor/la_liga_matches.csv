@@ -1,0 +1,912 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team
+2023-08-12,21:30,La Liga,Matchweek 1,Sat,Away,W,2,0,Athletic Club,0.9,0.4,54.0,48927.0,Dani Carvajal,4-1-2-1-2◆,Jesús Gil,Match Report,,14.0,8.0,16.0,2.0,0,0,Real Madrid
+2023-08-19,19:30,La Liga,Matchweek 2,Sat,Away,W,3,1,Almería,2.0,1.3,57.0,17561.0,Dani Carvajal,4-3-1-2,José Sánchez,Match Report,,25.0,9.0,17.0,1.0,0,0,Real Madrid
+2023-08-25,21:30,La Liga,Matchweek 3,Fri,Away,W,1,0,Celta Vigo,1.4,1.2,63.0,23057.0,Dani Carvajal,4-1-2-1-2◆,Isidro Díaz de Mera,Match Report,,9.0,2.0,19.4,0.0,0,1,Real Madrid
+2023-09-02,16:15,La Liga,Matchweek 4,Sat,Home,W,2,1,Getafe,2.8,0.4,76.0,66747.0,Luka Modrić,4-3-1-2,Mario Melero,Match Report,,26.0,12.0,17.7,0.0,0,0,Real Madrid
+2023-09-17,21:00,La Liga,Matchweek 5,Sun,Home,W,2,1,Real Sociedad,2.0,1.6,52.0,70092.0,Dani Carvajal,4-1-2-1-2◆,César Soto,Match Report,,17.0,8.0,15.9,1.0,0,0,Real Madrid
+2023-09-20,18:45,Champions Lg,Group stage,Wed,Home,W,1,0,de Union Berlin,3.7,0.2,75.0,65207.0,Nacho,4-3-1-2,Espen Eskås,Match Report,,32.0,7.0,16.2,1.0,0,0,Real Madrid
+2023-09-24,21:00,La Liga,Matchweek 6,Sun,Away,L,1,3,Atlético Madrid,1.0,1.4,63.0,69082.0,Luka Modrić,4-1-2-1-2◆,Javier Alberola,Match Report,,20.0,5.0,21.5,1.0,0,0,Real Madrid
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Home,W,2,0,Las Palmas,1.7,0.7,48.0,65017.0,Nacho,4-3-1-2,José Luis Munuera,Match Report,,21.0,9.0,16.4,0.0,0,0,Real Madrid
+2023-09-30,18:30,La Liga,Matchweek 8,Sat,Away,W,3,0,Girona,2.3,1.6,48.0,14184.0,Nacho,4-3-1-2,Juan Pulido,Match Report,,14.0,7.0,16.2,0.0,0,0,Real Madrid
+2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,W,3,2,it Napoli,1.4,1.9,50.0,51649.0,Nacho,4-3-1-2,Clément Turpin,Match Report,,18.0,5.0,16.4,0.0,0,0,Real Madrid
+2023-10-07,16:15,La Liga,Matchweek 9,Sat,Home,W,4,0,Osasuna,3.2,0.5,67.0,70864.0,Luka Modrić,4-3-1-2,Guillermo Cuadra,Match Report,,18.0,8.0,16.0,0.0,0,1,Real Madrid
+2023-10-21,18:30,La Liga,Matchweek 10,Sat,Away,D,1,1,Sevilla,1.6,1.5,51.0,41212.0,Dani Carvajal,4-1-2-1-2◆,Ricardo de Burgos,Match Report,,14.0,4.0,15.7,1.0,0,0,Real Madrid
+2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,2,1,pt Braga,0.9,1.5,52.0,29820.0,Nacho,4-3-1-2,Michael Oliver,Match Report,,13.0,6.0,21.2,0.0,0,0,Real Madrid
+2023-10-28,16:15,La Liga,Matchweek 11,Sat,Away,W,2,1,Barcelona,1.1,1.5,47.0,50112.0,Dani Carvajal,4-1-3-2,Jesús Gil,Match Report,,13.0,4.0,21.9,0.0,0,0,Real Madrid
+2023-11-05,21:00,La Liga,Matchweek 12,Sun,Home,D,0,0,Rayo Vallecano,2.2,0.1,63.0,70220.0,Luka Modrić,4-3-1-2,Juan Martínez,Match Report,,22.0,5.0,18.4,1.0,0,0,Real Madrid
+2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,pt Braga,3.2,1.4,48.0,68509.0,Nacho,4-3-1-2,Halil Umut Meler,Match Report,,18.0,7.0,14.7,0.0,0,0,Real Madrid
+2023-11-11,21:00,La Liga,Matchweek 13,Sat,Home,W,5,1,Valencia,1.7,1.7,56.0,72475.0,Nacho,4-4-2,José Sánchez,Match Report,,16.0,7.0,18.3,3.0,0,0,Real Madrid
+2023-11-26,18:30,La Liga,Matchweek 14,Sun,Away,W,3,0,Cádiz,1.6,1.2,61.0,20325.0,Nacho,4-2-2-2,Guillermo Cuadra,Match Report,,14.0,5.0,18.8,1.0,0,0,Real Madrid
+2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,W,4,2,it Napoli,2.8,1.4,53.0,73562.0,Dani Carvajal,4-2-2-2,François Letexier,Match Report,,20.0,9.0,13.6,0.0,0,0,Real Madrid
+2023-12-02,18:30,La Liga,Matchweek 15,Sat,Home,W,2,0,Granada,1.8,0.1,71.0,70685.0,Dani Carvajal,4-4-2,Pablo González,Match Report,,11.0,4.0,17.2,0.0,0,0,Real Madrid
+2023-12-09,16:15,La Liga,Matchweek 16,Sat,Away,D,1,1,Betis,1.0,1.3,63.0,52756.0,Luka Modrić,4-2-3-1,César Soto,Match Report,,12.0,2.0,18.8,1.0,0,0,Real Madrid
+2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,W,3,2,de Union Berlin,2.9,1.1,74.0,73420.0,Nacho,4-2-2-2,Rade Obrenović,Match Report,,22.0,8.0,17.2,0.0,0,1,Real Madrid
+2023-12-17,21:00,La Liga,Matchweek 17,Sun,Home,W,4,1,Villarreal,2.3,0.8,60.0,70500.0,Luka Modrić,4-4-2,Jorge Figueroa,Match Report,,22.0,9.0,16.9,1.0,0,0,Real Madrid
+2023-12-21,21:30,La Liga,Matchweek 18,Thu,Away,W,1,0,Alavés,0.6,0.6,60.0,19275.0,Nacho,4-3-1-2,Isidro Díaz de Mera,Match Report,,9.0,4.0,18.4,0.0,0,0,Real Madrid
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Home,W,1,0,Mallorca,1.7,0.6,67.0,72394.0,Luka Modrić,4-2-2-2,Alejandro Muñíz,Match Report,,17.0,5.0,18.8,3.0,0,0,Real Madrid
+2024-01-06,21:30,Copa del Rey,Round of 32,Sat,Away,W,3,1,Arandina,,,78.0,10000.0,Nacho,4-2-3-1,Víctor García,Match Report,,15.0,5.0,,,1,1,Real Madrid
+2024-01-10,22:00,Supercopa de España,Semi-finals,Wed,Home,W,5,3,Atlético Madrid,,,56.0,25000.0,Nacho,4-3-1-2,Alberola Rojas,Match Report,Required Extra Time,22.0,11.0,,,0,0,Real Madrid
+2024-01-14,22:00,Supercopa de España,Final,Sun,Home,W,4,1,Barcelona,,,43.0,23977.0,Nacho,4-3-1-2,Juan Martínez,Match Report,,18.0,9.0,,,1,1,Real Madrid
+2024-01-18,21:30,Copa del Rey,Round of 16,Thu,Away,L,2,4,Atlético Madrid,,,59.0,67623.0,Nacho,4-3-1-2,Guillermo Cuadra,Match Report,Required Extra Time,19.0,7.0,,,0,0,Real Madrid
+2024-01-21,16:15,La Liga,Matchweek 21,Sun,Home,W,3,2,Almería,2.2,0.9,73.0,72044.0,Nacho,4-3-1-2,Francisco Hernández,Match Report,,17.0,5.0,16.0,0.0,1,1,Real Madrid
+2024-01-27,15:15,La Liga,Matchweek 22,Sat,Away,W,2,1,Las Palmas,2.3,0.7,47.0,32037.0,Nacho,4-3-1-2,César Soto,Match Report,,13.0,5.0,13.2,1.0,0,0,Real Madrid
+2024-02-01,21:00,La Liga,Matchweek 20,Thu,Away,W,2,0,Getafe,2.0,0.8,58.0,15264.0,Nacho,4-3-1-2,Ricardo de Burgos,Match Report,,16.0,9.0,16.7,0.0,0,0,Real Madrid
+2024-02-04,21:00,La Liga,Matchweek 23,Sun,Home,D,1,1,Atlético Madrid,1.9,1.1,54.0,76732.0,Nacho,4-3-1-2,José Sánchez,Match Report,,17.0,4.0,16.0,0.0,0,0,Real Madrid
+2024-02-10,18:30,La Liga,Matchweek 24,Sat,Home,W,4,0,Girona,3.2,0.3,53.0,76585.0,Dani Carvajal,4-3-1-2,Juan Martínez,Match Report,,15.0,6.0,15.7,0.0,0,1,Real Madrid
+2024-02-13,21:00,Champions Lg,Round of 16,Tue,Away,W,1,0,de RB Leipzig,1.4,1.4,50.0,45028.0,Nacho,4-3-1-2,Irfan Peljto,Match Report,Leg 1 of 2,15.0,3.0,16.0,0.0,0,0,Real Madrid
+2024-02-18,14:00,La Liga,Matchweek 25,Sun,Away,D,1,1,Rayo Vallecano,1.1,1.1,59.0,14354.0,Nacho,4-2-3-1,Alejandro Muñíz,Match Report,,11.0,4.0,17.9,1.0,0,0,Real Madrid
+2024-02-25,21:00,La Liga,Matchweek 26,Sun,Home,W,1,0,Sevilla,1.0,0.8,64.0,74969.0,Nacho,4-3-3,Isidro Díaz de Mera,Match Report,,16.0,6.0,20.0,1.0,0,0,Real Madrid
+2024-03-02,21:00,La Liga,Matchweek 27,Sat,Away,D,2,2,Valencia,2.2,1.1,70.0,47427.0,Dani Carvajal,4-3-1-2,Jesús Gil,Match Report,,10.0,5.0,15.6,1.0,0,0,Real Madrid
+2024-03-06,21:00,Champions Lg,Round of 16,Wed,Home,D,1,1,de RB Leipzig,0.8,1.0,53.0,76126.0,Nacho,4-3-3,Davide Massa,Match Report,Leg 2 of 2; Real Madrid won,11.0,3.0,18.3,0.0,0,0,Real Madrid
+2024-03-10,18:30,La Liga,Matchweek 28,Sun,Home,W,4,0,Celta Vigo,3.4,0.8,62.0,73644.0,Nacho,4-3-1-2,Mario Melero,Match Report,,25.0,13.0,13.8,0.0,0,0,Real Madrid
+2024-03-16,16:15,La Liga,Matchweek 29,Sat,Away,W,4,2,Osasuna,2.9,0.7,64.0,22430.0,Dani Carvajal,4-3-3,Juan Martínez,Match Report,,17.0,9.0,18.6,0.0,0,0,Real Madrid
+2024-03-31,21:00,La Liga,Matchweek 30,Sun,Home,W,2,0,Athletic Club,1.1,0.3,58.0,72991.0,Nacho,4-2-2-2,Javier Alberola,Match Report,,9.0,4.0,18.8,0.0,0,0,Real Madrid
+2024-04-09,21:00,Champions Lg,Quarter-finals,Tue,Home,D,3,3,eng Manchester City,0.7,0.8,39.0,76680.0,Dani Carvajal,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,14.0,5.0,20.4,0.0,0,0,Real Madrid
+2024-04-13,18:30,La Liga,Matchweek 31,Sat,Away,W,1,0,Mallorca,1.5,0.6,56.0,23244.0,Nacho,4-2-3-1,José Sánchez,Match Report,,16.0,8.0,20.3,1.0,0,0,Real Madrid
+2024-04-17,20:00,Champions Lg,Quarter-finals,Wed,Away,D,1 (4),1 (3),eng Manchester City,1.4,2.7,33.0,52306.0,Nacho,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Real Madrid won; Real Madrid won on penalty kicks following extra time,8.0,3.0,19.2,0.0,0,0,Real Madrid
+2024-04-21,21:00,La Liga,Matchweek 32,Sun,Home,W,3,2,Barcelona,2.3,1.4,47.0,77981.0,Luka Modrić,4-1-2-1-2◆,César Soto,Match Report,,13.0,7.0,19.1,0.0,1,1,Real Madrid
+2024-04-26,21:00,La Liga,Matchweek 33,Fri,Away,W,1,0,Real Sociedad,0.4,0.6,44.0,37109.0,Nacho,4-2-3-1,José Luis Munuera,Match Report,,5.0,3.0,23.1,0.0,0,0,Real Madrid
+2024-04-30,21:00,Champions Lg,Semi-finals,Tue,Away,D,2,2,de Bayern Munich,1.9,1.6,49.0,75000.0,Nacho,4-4-2,Clément Turpin,Match Report,Leg 1 of 2,9.0,3.0,18.2,1.0,1,1,Real Madrid
+2024-05-04,16:15,La Liga,Matchweek 34,Sat,Home,W,3,0,Cádiz,2.3,0.9,70.0,72654.0,Nacho,4-3-3,Javier Villanueva,Match Report,,19.0,9.0,19.1,1.0,0,0,Real Madrid
+2024-05-08,21:00,Champions Lg,Semi-finals,Wed,Home,W,2,1,de Bayern Munich,2.8,0.4,57.0,76579.0,Nacho,4-4-2,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won,19.0,7.0,17.6,1.0,0,0,Real Madrid
+2024-05-11,18:30,La Liga,Matchweek 35,Sat,Away,W,4,0,Granada,1.5,1.0,58.0,20058.0,Luka Modrić,4-3-3,Pablo González,Match Report,,13.0,7.0,15.4,0.0,0,0,Real Madrid
+2024-05-14,21:30,La Liga,Matchweek 36,Tue,Home,W,5,0,Alavés,2.5,1.3,71.0,68954.0,Nacho,4-3-1-2,Mateo Busquets,Match Report,,22.0,11.0,16.0,1.0,0,0,Real Madrid
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,D,4,4,Villarreal,1.0,1.7,57.0,21671.0,Luka Modrić,4-2-3-1,Alejandro Hernández,Match Report,,12.0,6.0,17.9,0.0,0,0,Real Madrid
+2024-05-25,21:00,La Liga,Matchweek 38,Sat,Home,D,0,0,Betis,1.0,0.7,59.0,73614.0,Nacho,4-3-1-2,Isidro Díaz de Mera,Match Report,,13.0,4.0,18.8,1.0,0,0,Real Madrid
+2024-06-01,20:00,Champions Lg,Final,Sat,Away,W,2,0,de Dortmund,1.1,2.1,57.0,86212.0,Nacho,4-3-1-2,Slavko Vinčič,Match Report,,13.0,6.0,17.1,2.0,0,0,Real Madrid
+2023-08-13,21:30,La Liga,Matchweek 1,Sun,Away,D,0,0,Getafe,1.4,0.6,74.0,13410.0,Marc-André ter Stegen,4-2-3-1,César Soto,Match Report,,14.0,3.0,19.9,1.0,0,0,Barcelona
+2023-08-20,19:30,La Liga,Matchweek 2,Sun,Home,W,2,0,Cádiz,3.4,1.1,74.0,39603.0,Marc-André ter Stegen,3-4-3,Alejandro Muñíz,Match Report,,24.0,10.0,15.5,2.0,0,0,Barcelona
+2023-08-27,17:30,La Liga,Matchweek 3,Sun,Away,W,4,3,Villarreal,3.1,1.9,60.0,21679.0,Sergi Roberto,4-3-3,Alejandro Hernández,Match Report,,21.0,11.0,16.8,0.0,0,0,Barcelona
+2023-09-03,21:00,La Liga,Matchweek 4,Sun,Away,W,2,1,Osasuna,2.0,0.8,69.0,21966.0,Sergi Roberto,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,8.0,3.0,15.6,0.0,1,1,Barcelona
+2023-09-16,21:00,La Liga,Matchweek 5,Sat,Home,W,5,0,Betis,2.4,0.8,65.0,45055.0,Marc-André ter Stegen,4-3-3,José Sánchez,Match Report,,17.0,9.0,18.7,2.0,0,0,Barcelona
+2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,5,0,be Antwerp,2.8,0.3,70.0,40989.0,Marc-André ter Stegen,4-3-3,Radu Petrescu,Match Report,,22.0,9.0,13.8,0.0,0,0,Barcelona
+2023-09-23,18:30,La Liga,Matchweek 6,Sat,Home,W,3,2,Celta Vigo,1.6,1.5,74.0,43272.0,Marc-André ter Stegen,4-3-3,Mario Melero,Match Report,,15.0,6.0,20.8,0.0,0,0,Barcelona
+2023-09-26,21:30,La Liga,Matchweek 7,Tue,Away,D,2,2,Mallorca,1.9,0.8,69.0,19939.0,Marc-André ter Stegen,4-3-3,Alejandro Muñíz,Match Report,,10.0,4.0,15.5,0.0,0,0,Barcelona
+2023-09-29,21:00,La Liga,Matchweek 8,Fri,Home,W,1,0,Sevilla,2.4,1.1,58.0,41116.0,Marc-André ter Stegen,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,18.0,4.0,13.5,0.0,0,0,Barcelona
+2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,W,1,0,pt Porto,1.3,0.7,56.0,49722.0,Marc-André ter Stegen,4-3-3,Anthony Taylor,Match Report,,14.0,4.0,20.3,0.0,0,0,Barcelona
+2023-10-08,21:00,La Liga,Matchweek 9,Sun,Away,D,2,2,Granada,3.0,0.8,80.0,20354.0,Marc-André ter Stegen,4-3-3,César Soto,Match Report,,22.0,10.0,16.9,1.0,0,0,Barcelona
+2023-10-22,21:00,La Liga,Matchweek 10,Sun,Home,W,1,0,Athletic Club,1.3,0.4,62.0,38194.0,Marc-André ter Stegen,4-3-3,Juan Martínez,Match Report,,12.0,7.0,15.4,0.0,0,0,Barcelona
+2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,2,1,ua Shakhtar,2.6,0.9,54.0,41409.0,Marc-André ter Stegen,4-3-3,Ivan Kružliak,Match Report,,19.0,6.0,17.3,3.0,0,0,Barcelona
+2023-10-28,16:15,La Liga,Matchweek 11,Sat,Home,L,1,2,Real Madrid,1.5,1.1,53.0,50112.0,Marc-André ter Stegen,3-4-1-2,Jesús Gil,Match Report,,15.0,3.0,15.9,0.0,0,0,Barcelona
+2023-11-04,21:00,La Liga,Matchweek 12,Sat,Away,W,1,0,Real Sociedad,1.2,0.9,49.0,37555.0,Marc-André ter Stegen,3-4-1-2,Javier Alberola,Match Report,,12.0,4.0,19.4,1.0,0,0,Barcelona
+2023-11-07,19:45,Champions Lg,Group stage,Tue,Away,L,0,1,ua Shakhtar,0.9,0.9,67.0,49147.0,Marc-André ter Stegen,4-3-3,Irfan Peljto,Match Report,,13.0,1.0,18.2,0.0,0,0,Barcelona
+2023-11-12,16:15,La Liga,Matchweek 13,Sun,Home,W,2,1,Alavés,1.6,1.7,71.0,38183.0,Marc-André ter Stegen,4-2-3-1,Mateo Busquets,Match Report,,10.0,5.0,19.4,0.0,1,1,Barcelona
+2023-11-25,14:00,La Liga,Matchweek 14,Sat,Away,D,1,1,Rayo Vallecano,1.0,0.7,67.0,14148.0,Frenkie de Jong,4-2-3-1,José Luis Munuera,Match Report,,15.0,4.0,15.8,1.0,0,0,Barcelona
+2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,pt Porto,1.8,1.1,54.0,43533.0,Ronald Araújo,4-3-3,Daniele Orsato,Match Report,,21.0,7.0,16.3,0.0,0,0,Barcelona
+2023-12-03,21:00,La Liga,Matchweek 15,Sun,Home,W,1,0,Atlético Madrid,2.6,0.6,58.0,34568.0,Ronald Araújo,4-3-3,José Sánchez,Match Report,,13.0,2.0,14.1,0.0,0,0,Barcelona
+2023-12-10,21:00,La Liga,Matchweek 16,Sun,Home,L,2,4,Girona,3.7,2.5,54.0,42848.0,Ronald Araújo,4-3-3,Isidro Díaz de Mera,Match Report,,31.0,11.0,15.1,2.0,0,0,Barcelona
+2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,L,2,3,be Antwerp,1.1,1.7,69.0,13550.0,Sergi Roberto,4-3-3,Marco Guida,Match Report,,11.0,3.0,18.9,0.0,0,0,Barcelona
+2023-12-16,21:00,La Liga,Matchweek 17,Sat,Away,D,1,1,Valencia,3.2,0.5,63.0,46492.0,Ronald Araújo,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,16.0,7.0,14.0,0.0,0,0,Barcelona
+2023-12-20,19:00,La Liga,Matchweek 18,Wed,Home,W,3,2,Almería,3.4,1.6,65.0,34471.0,Sergi Roberto,4-3-3,Guillermo Cuadra,Match Report,,30.0,11.0,13.4,1.0,0,0,Barcelona
+2024-01-04,20:30,La Liga,Matchweek 19,Thu,Away,W,2,1,Las Palmas,2.4,0.7,56.0,31712.0,Sergi Roberto,4-3-3,Pablo González,Match Report,,14.0,4.0,17.2,0.0,1,1,Barcelona
+2024-01-07,21:00,Copa del Rey,Round of 32,Sun,Away,W,3,2,Barbastro,,,72.0,6000.0,Ronald Araújo,4-3-3,Juan Pulido,Match Report,,24.0,11.0,,,1,1,Barcelona
+2024-01-11,22:00,Supercopa de España,Semi-finals,Thu,Home,W,2,0,Osasuna,,,68.0,23932.0,Sergi Roberto,4-3-3,Alejandro Muñíz,Match Report,,20.0,7.0,,,0,0,Barcelona
+2024-01-14,22:00,Supercopa de España,Final,Sun,Away,L,1,4,Real Madrid,,,57.0,23977.0,Sergi Roberto,4-2-3-1,Juan Martínez,Match Report,,12.0,7.0,,,0,0,Barcelona
+2024-01-18,19:30,Copa del Rey,Round of 16,Thu,Away,W,3,1,Unionistas Sal,,,74.0,6246.0,Sergi Roberto,4-3-3,Francisco Hernández,Match Report,,14.0,7.0,,,0,0,Barcelona
+2024-01-21,18:30,La Liga,Matchweek 21,Sun,Away,W,4,2,Betis,3.0,1.1,63.0,53288.0,Ronald Araújo,4-3-3,Jesús Gil,Match Report,,11.0,4.0,15.1,0.0,0,0,Barcelona
+2024-01-24,21:30,Copa del Rey,Quarter-finals,Wed,Away,L,2,4,Athletic Club,,,61.0,50403.0,Ronald Araújo,4-3-3,José Sánchez,Match Report,Required Extra Time,7.0,4.0,,,0,0,Barcelona
+2024-01-27,18:30,La Liga,Matchweek 22,Sat,Home,L,3,5,Villarreal,2.2,2.1,70.0,46229.0,Ronald Araújo,4-3-3,José Luis Munuera,Match Report,,22.0,9.0,16.7,0.0,0,0,Barcelona
+2024-01-31,19:00,La Liga,Matchweek 20,Wed,Home,W,1,0,Osasuna,1.9,1.0,68.0,37888.0,Ronald Araújo,4-3-3,Jorge Figueroa,Match Report,,16.0,4.0,15.1,1.0,0,0,Barcelona
+2024-02-03,18:30,La Liga,Matchweek 23,Sat,Away,W,3,1,Alavés,1.2,1.0,64.0,19480.0,Ronald Araújo,4-3-3,Juan Martínez,Match Report,,8.0,5.0,12.5,0.0,0,0,Barcelona
+2024-02-11,21:00,La Liga,Matchweek 24,Sun,Home,D,3,3,Granada,2.3,1.4,65.0,41901.0,Marc-André ter Stegen,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,11.0,5.0,12.2,0.0,0,0,Barcelona
+2024-02-17,18:30,La Liga,Matchweek 25,Sat,Away,W,2,1,Celta Vigo,1.5,0.8,66.0,23096.0,Marc-André ter Stegen,4-3-3,Juan Pulido,Match Report,,13.0,3.0,19.1,1.0,1,1,Barcelona
+2024-02-21,21:00,Champions Lg,Round of 16,Wed,Away,D,1,1,it Napoli,0.7,0.9,50.0,49529.0,Marc-André ter Stegen,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,12.0,6.0,18.6,0.0,0,0,Barcelona
+2024-02-24,16:15,La Liga,Matchweek 26,Sat,Home,W,4,0,Getafe,3.1,0.5,67.0,36803.0,Marc-André ter Stegen,4-3-3,Alejandro Muñíz,Match Report,,17.0,9.0,13.6,0.0,0,0,Barcelona
+2024-03-03,21:00,La Liga,Matchweek 27,Sun,Away,D,0,0,Athletic Club,0.7,0.4,60.0,50295.0,Marc-André ter Stegen,4-3-3,Alejandro Hernández,Match Report,,8.0,1.0,22.5,0.0,0,0,Barcelona
+2024-03-08,21:00,La Liga,Matchweek 28,Fri,Home,W,1,0,Mallorca,2.0,0.6,63.0,38225.0,Marc-André ter Stegen,4-3-3,Javier Villanueva,Match Report,,19.0,5.0,21.4,0.0,0,1,Barcelona
+2024-03-12,21:00,Champions Lg,Round of 16,Tue,Home,W,3,1,it Napoli,2.7,1.3,48.0,50301.0,Marc-André ter Stegen,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,24.0,10.0,16.7,1.0,0,0,Barcelona
+2024-03-17,21:00,La Liga,Matchweek 29,Sun,Away,W,3,0,Atlético Madrid,1.5,0.8,59.0,68253.0,Sergi Roberto,4-3-3,José Sánchez,Match Report,,9.0,5.0,13.5,1.0,0,0,Barcelona
+2024-03-30,21:00,La Liga,Matchweek 30,Sat,Home,W,1,0,Las Palmas,1.7,0.3,69.0,46788.0,Sergi Roberto,4-3-3,Mateo Busquets,Match Report,,14.0,2.0,19.8,1.0,0,0,Barcelona
+2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,W,3,2,fr Paris S-G,1.9,1.2,41.0,47470.0,Sergi Roberto,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2,15.0,6.0,16.9,1.0,0,0,Barcelona
+2024-04-13,21:00,La Liga,Matchweek 31,Sat,Away,W,1,0,Cádiz,0.9,1.0,62.0,19607.0,Sergi Roberto,4-3-3,Juan Pulido,Match Report,,12.0,1.0,18.9,0.0,0,0,Barcelona
+2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1,4,fr Paris S-G,1.1,2.3,33.0,50309.0,Marc-André ter Stegen,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won,7.0,3.0,14.2,0.0,0,0,Barcelona
+2024-04-21,21:00,La Liga,Matchweek 32,Sun,Away,L,2,3,Real Madrid,1.4,2.3,53.0,77981.0,Marc-André ter Stegen,4-3-3,César Soto,Match Report,,15.0,6.0,16.7,2.0,0,0,Barcelona
+2024-04-29,21:00,La Liga,Matchweek 33,Mon,Home,W,4,2,Valencia,2.2,2.1,80.0,30167.0,Marc-André ter Stegen,4-3-3,Ricardo de Burgos,Match Report,,27.0,13.0,15.5,2.0,0,0,Barcelona
+2024-05-04,18:30,La Liga,Matchweek 34,Sat,Away,L,2,4,Girona,2.6,1.8,60.0,14090.0,Sergi Roberto,4-3-3,Alejandro Hernández,Match Report,,15.0,6.0,15.4,0.0,1,1,Barcelona
+2024-05-13,21:00,La Liga,Matchweek 35,Mon,Home,W,2,0,Real Sociedad,2.1,0.7,56.0,35829.0,Marc-André ter Stegen,4-3-3,Guillermo Cuadra,Match Report,,13.0,4.0,23.7,1.0,1,1,Barcelona
+2024-05-16,21:30,La Liga,Matchweek 36,Thu,Away,W,2,0,Almería,1.6,0.9,64.0,15543.0,Sergi Roberto,4-3-3,Javier Alberola,Match Report,,16.0,7.0,15.6,0.0,0,0,Barcelona
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,W,3,0,Rayo Vallecano,1.3,1.3,72.0,35823.0,Sergi Roberto,4-2-3-1,Jesús Gil,Match Report,,14.0,6.0,16.9,1.0,0,0,Barcelona
+2024-05-26,21:00,La Liga,Matchweek 38,Sun,Away,W,2,1,Sevilla,1.3,1.5,61.0,34888.0,Marc-André ter Stegen,4-3-3,Javier Villanueva,Match Report,,11.0,6.0,13.7,0.0,0,0,Barcelona
+2023-08-12,17:00,La Liga,Matchweek 1,Sat,Away,D,1,1,Real Sociedad,0.8,1.0,52.0,30848.0,Cristhian Stuani,4-1-4-1,Francisco Hernández,Match Report,,6.0,1.0,12.2,0.0,0,0,Girona
+2023-08-20,19:00,La Liga,Matchweek 2,Sun,Home,W,3,0,Getafe,1.4,0.7,63.0,11784.0,Cristhian Stuani,4-1-4-1,Jorge Figueroa,Match Report,,7.0,6.0,16.1,1.0,0,0,Girona
+2023-08-26,21:30,La Liga,Matchweek 3,Sat,Away,W,2,1,Sevilla,1.7,1.7,48.0,29304.0,Cristhian Stuani,4-1-4-1,Jesús Gil,Match Report,,8.0,3.0,17.6,0.0,0,0,Girona
+2023-09-03,14:00,La Liga,Matchweek 4,Sun,Home,W,1,0,Las Palmas,1.0,1.1,46.0,11619.0,Cristhian Stuani,4-1-4-1,Mateo Busquets,Match Report,,11.0,6.0,16.2,0.0,0,0,Girona
+2023-09-18,21:00,La Liga,Matchweek 5,Mon,Away,W,4,2,Granada,2.8,1.6,57.0,17323.0,Aleix García,4-1-4-1,Isidro Díaz de Mera,Match Report,,13.0,6.0,17.7,1.0,0,0,Girona
+2023-09-23,14:00,La Liga,Matchweek 6,Sat,Home,W,5,3,Mallorca,3.2,1.8,56.0,11511.0,Aleix García,4-1-4-1,Pablo González,Match Report,,22.0,8.0,16.6,0.0,1,1,Girona
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Away,W,2,1,Villarreal,2.1,1.8,47.0,17188.0,Aleix García,4-1-4-1,José Sánchez,Match Report,,17.0,5.0,16.6,0.0,0,0,Girona
+2023-09-30,18:30,La Liga,Matchweek 8,Sat,Home,L,0,3,Real Madrid,1.6,2.3,52.0,14184.0,Aleix García,4-1-4-1,Juan Pulido,Match Report,,13.0,3.0,19.7,0.0,0,0,Girona
+2023-10-07,14:00,La Liga,Matchweek 9,Sat,Away,W,1,0,Cádiz,1.2,0.4,73.0,16438.0,Aleix García,3-4-3,Juan Martínez,Match Report,,20.0,5.0,22.2,0.0,0,0,Girona
+2023-10-22,16:15,La Liga,Matchweek 10,Sun,Home,W,5,2,Almería,1.9,1.0,66.0,12884.0,Aleix García,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,19.0,8.0,18.1,1.0,0,0,Girona
+2023-10-27,21:00,La Liga,Matchweek 11,Fri,Home,W,1,0,Celta Vigo,0.6,0.2,65.0,12671.0,Aleix García,3-4-3,Isidro Díaz de Mera,Match Report,,12.0,2.0,17.1,0.0,0,0,Girona
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,W,2,1,CD San Roque de Lepe,,,70.0,3000.0,Cristhian Stuani,4-3-3,Francisco Hernández,Match Report,,15.0,2.0,,,0,0,Girona
+2023-11-04,14:00,La Liga,Matchweek 12,Sat,Away,W,4,2,Osasuna,2.2,1.4,50.0,20100.0,Aleix García,3-4-3,José Luis Munuera,Match Report,,11.0,4.0,14.9,1.0,0,0,Girona
+2023-11-11,14:00,La Liga,Matchweek 13,Sat,Away,W,2,1,Rayo Vallecano,4.5,1.7,54.0,13177.0,Aleix García,3-4-3,Pablo González,Match Report,,19.0,6.0,11.5,0.0,0,0,Girona
+2023-11-27,21:00,La Liga,Matchweek 14,Mon,Home,D,1,1,Athletic Club,1.3,1.5,60.0,13123.0,Cristhian Stuani,4-4-1-1,Mario Melero,Match Report,,13.0,2.0,15.6,0.0,0,0,Girona
+2023-12-02,14:00,La Liga,Matchweek 15,Sat,Home,W,2,1,Valencia,1.6,1.0,75.0,13343.0,Aleix García,3-4-3,Javier Villanueva,Match Report,,9.0,5.0,13.5,0.0,0,0,Girona
+2023-12-07,21:00,Copa del Rey,Second round,Thu,Away,W,5,2,Orihuela,,,70.0,3000.0,Cristhian Stuani,3-5-2,Mateo Busquets,Match Report,,20.0,9.0,,,0,0,Girona
+2023-12-10,21:00,La Liga,Matchweek 16,Sun,Away,W,4,2,Barcelona,2.5,3.7,46.0,42848.0,Aleix García,3-4-3,Isidro Díaz de Mera,Match Report,,15.0,7.0,13.4,0.0,0,0,Girona
+2023-12-18,21:00,La Liga,Matchweek 17,Mon,Home,W,3,0,Alavés,1.7,0.7,66.0,11812.0,Aleix García,3-4-3,Francisco Hernández,Match Report,,8.0,3.0,16.2,0.0,1,1,Girona
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Away,D,1,1,Betis,1.7,1.5,53.0,51394.0,Aleix García,4-2-3-1,Ricardo de Burgos,Match Report,,11.0,3.0,18.3,0.0,1,1,Girona
+2024-01-03,21:30,La Liga,Matchweek 19,Wed,Home,W,4,3,Atlético Madrid,2.3,2.3,52.0,13804.0,Valery Fernández,4-4-1-1,Alejandro Hernández,Match Report,,17.0,9.0,15.8,0.0,0,0,Girona
+2024-01-06,18:00,Copa del Rey,Round of 32,Sat,Away,W,2,0,Elche,,,54.0,15518.0,Cristhian Stuani,4-2-3-1,Alberola Rojas,Match Report,,10.0,6.0,,,0,0,Girona
+2024-01-14,14:00,La Liga,Matchweek 20,Sun,Away,D,0,0,Almería,0.3,1.7,54.0,12111.0,Juanpe,4-4-1-1,Mateo Busquets,Match Report,,5.0,1.0,20.1,1.0,0,0,Girona
+2024-01-17,21:30,Copa del Rey,Round of 16,Wed,Home,W,3,1,Rayo Vallecano,,,55.0,7911.0,Cristhian Stuani,4-2-3-1,Jorge Figueroa,Match Report,,18.0,8.0,,,1,1,Girona
+2024-01-21,21:00,La Liga,Matchweek 21,Sun,Home,W,5,1,Sevilla,2.3,0.7,55.0,13092.0,Juanpe,4-4-2,Pablo González,Match Report,,12.0,8.0,12.7,0.0,0,0,Girona
+2024-01-24,19:30,Copa del Rey,Quarter-finals,Wed,Away,L,2,3,Mallorca,,,75.0,19950.0,Cristhian Stuani,4-2-3-1,José Luis Munuera,Match Report,,19.0,5.0,,,1,1,Girona
+2024-01-28,14:00,La Liga,Matchweek 22,Sun,Away,W,1,0,Celta Vigo,0.9,0.6,60.0,20684.0,Aleix García,4-2-3-1,Mario Melero,Match Report,,15.0,6.0,19.2,1.0,0,0,Girona
+2024-02-03,21:00,La Liga,Matchweek 23,Sat,Home,D,0,0,Real Sociedad,0.7,0.6,49.0,13755.0,Aleix García,4-2-3-1,Jesús Gil,Match Report,,11.0,3.0,18.2,3.0,0,0,Girona
+2024-02-10,18:30,La Liga,Matchweek 24,Sat,Away,L,0,4,Real Madrid,0.3,3.2,47.0,76585.0,Juanpe,4-2-3-1,Juan Martínez,Match Report,,5.0,0.0,25.4,0.0,0,0,Girona
+2024-02-19,21:00,La Liga,Matchweek 25,Mon,Away,L,2,3,Athletic Club,2.1,1.8,69.0,46220.0,Juanpe,4-2-3-1,José Sánchez,Match Report,,12.0,5.0,14.2,0.0,0,0,Girona
+2024-02-26,21:00,La Liga,Matchweek 26,Mon,Home,W,3,0,Rayo Vallecano,2.2,0.5,54.0,8923.0,Aleix García,4-2-3-1,Ricardo de Burgos,Match Report,,14.0,8.0,12.2,1.0,0,0,Girona
+2024-03-03,18:30,La Liga,Matchweek 27,Sun,Away,L,0,1,Mallorca,1.0,1.2,60.0,17769.0,Juanpe,4-2-3-1,Francisco Hernández,Match Report,,15.0,4.0,16.0,1.0,0,0,Girona
+2024-03-09,21:00,La Liga,Matchweek 28,Sat,Home,W,2,0,Osasuna,1.9,0.2,60.0,11598.0,Aleix García,3-4-3,Mateo Busquets,Match Report,,11.0,6.0,14.1,0.0,0,0,Girona
+2024-03-16,18:30,La Liga,Matchweek 29,Sat,Away,L,0,1,Getafe,1.8,1.2,59.0,12912.0,Juanpe,4-2-3-1,José Luis Munuera,Match Report,,13.0,3.0,13.1,0.0,0,0,Girona
+2024-03-31,16:15,La Liga,Matchweek 30,Sun,Home,W,3,2,Betis,2.6,0.5,57.0,12774.0,Aleix García,3-4-3,Jesús Gil,Match Report,,8.0,4.0,14.6,0.0,1,1,Girona
+2024-04-13,14:00,La Liga,Matchweek 31,Sat,Away,L,1,3,Atlético Madrid,2.4,2.3,59.0,64214.0,Aleix García,4-5-1,Ricardo de Burgos,Match Report,,12.0,5.0,18.6,0.0,0,0,Girona
+2024-04-20,21:00,La Liga,Matchweek 32,Sat,Home,W,4,1,Cádiz,2.1,1.6,57.0,12665.0,Aleix García,4-2-3-1,Javier Alberola,Match Report,,10.0,5.0,14.4,0.0,0,0,Girona
+2024-04-27,13:00,La Liga,Matchweek 33,Sat,Away,W,2,0,Las Palmas,1.9,1.6,39.0,18734.0,Aleix García,4-2-3-1,Jorge Figueroa,Match Report,,4.0,1.0,19.4,0.0,1,2,Girona
+2024-05-04,18:30,La Liga,Matchweek 34,Sat,Home,W,4,2,Barcelona,1.8,2.6,40.0,14090.0,Aleix García,4-2-3-1,Alejandro Hernández,Match Report,,9.0,6.0,13.9,0.0,0,0,Girona
+2024-05-10,21:00,La Liga,Matchweek 35,Fri,Away,D,2,2,Alavés,1.7,1.7,64.0,17906.0,Arnau Martinez,4-2-3-1,José Luis Munuera,Match Report,,15.0,5.0,17.0,0.0,0,0,Girona
+2024-05-14,22:00,La Liga,Matchweek 36,Tue,Home,L,0,1,Villarreal,1.6,0.6,67.0,11440.0,Aleix García,4-2-3-1,José Sánchez,Match Report,,22.0,4.0,17.2,0.0,0,0,Girona
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,3,1,Valencia,2.6,3.2,63.0,36138.0,Aleix García,4-2-3-1,Guillermo Cuadra,Match Report,,18.0,5.0,19.6,1.0,0,0,Girona
+2024-05-24,21:00,La Liga,Matchweek 38,Fri,Home,W,7,0,Granada,4.6,1.0,70.0,12813.0,Aleix García,4-3-3,Alejandro Muñíz,Match Report,,14.0,7.0,17.6,1.0,2,2,Girona
+2023-08-14,21:30,La Liga,Matchweek 1,Mon,Home,W,3,1,Granada,2.4,0.9,46.0,56164.0,Koke,3-5-2,Juan Pulido,Match Report,,14.0,6.0,14.4,0.0,0,0,Atletico Madrid
+2023-08-20,21:30,La Liga,Matchweek 2,Sun,Away,D,0,0,Betis,0.5,0.7,47.0,51782.0,Jan Oblak,5-3-2,Ricardo de Burgos,Match Report,,5.0,1.0,13.7,0.0,0,0,Atletico Madrid
+2023-08-28,21:30,La Liga,Matchweek 3,Mon,Away,W,7,0,Rayo Vallecano,3.4,0.6,44.0,13966.0,Jan Oblak,5-3-2,José Luis Munuera,Match Report,,17.0,10.0,16.0,0.0,0,0,Atletico Madrid
+2023-09-16,16:15,La Liga,Matchweek 5,Sat,Away,L,0,3,Valencia,0.6,1.3,63.0,45363.0,Jan Oblak,5-3-2,Jesús Gil,Match Report,,11.0,3.0,17.8,1.0,0,0,Atletico Madrid
+2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,it Lazio,0.9,1.2,51.0,46168.0,Jan Oblak,5-3-2,Slavko Vinčič,Match Report,,9.0,4.0,19.1,0.0,0,0,Atletico Madrid
+2023-09-24,21:00,La Liga,Matchweek 6,Sun,Home,W,3,1,Real Madrid,1.4,1.0,37.0,69082.0,Koke,5-3-2,Javier Alberola,Match Report,,10.0,4.0,14.6,0.0,0,0,Atletico Madrid
+2023-09-28,21:30,La Liga,Matchweek 7,Thu,Away,W,2,0,Osasuna,1.5,1.0,45.0,20192.0,Koke,5-3-2,Juan Martínez,Match Report,,5.0,3.0,12.9,0.0,0,0,Atletico Madrid
+2023-10-01,21:00,La Liga,Matchweek 8,Sun,Home,W,3,2,Cádiz,2.7,0.8,69.0,53421.0,Koke,3-5-2,Javier Villanueva,Match Report,,18.0,9.0,15.5,1.0,0,0,Atletico Madrid
+2023-10-04,18:45,Champions Lg,Group stage,Wed,Home,W,3,2,nl Feyenoord,0.8,2.4,48.0,61742.0,Koke,3-5-2,François Letexier,Match Report,,7.0,3.0,23.8,0.0,0,0,Atletico Madrid
+2023-10-08,16:15,La Liga,Matchweek 9,Sun,Home,W,2,1,Real Sociedad,2.2,1.2,38.0,65607.0,Koke,3-5-2,José Luis Munuera,Match Report,,13.0,4.0,15.0,0.0,1,1,Atletico Madrid
+2023-10-21,21:00,La Liga,Matchweek 10,Sat,Away,W,3,0,Celta Vigo,1.8,0.9,64.0,20282.0,Koke,3-5-2,Guillermo Cuadra,Match Report,,11.0,6.0,17.4,0.0,1,1,Atletico Madrid
+2023-10-25,20:00,Champions Lg,Group stage,Wed,Away,D,2,2,sct Celtic,2.1,0.9,47.0,55844.0,Koke,3-5-2,Felix Zwayer,Match Report,,14.0,5.0,18.5,0.0,0,1,Atletico Madrid
+2023-10-29,21:00,La Liga,Matchweek 11,Sun,Home,W,2,1,Alavés,1.3,0.5,63.0,50009.0,Koke,3-5-2,Alejandro Muñíz,Match Report,,11.0,7.0,11.8,0.0,0,0,Atletico Madrid
+2023-11-03,20:00,La Liga,Matchweek 12,Fri,Away,L,1,2,Las Palmas,1.2,0.4,48.0,30080.0,Koke,5-3-2,Mario Melero,Match Report,,13.0,5.0,16.2,0.0,0,0,Atletico Madrid
+2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,6,0,sct Celtic,2.9,0.0,65.0,60863.0,Koke,5-3-2,Ivan Kružliak,Match Report,,27.0,12.0,14.9,0.0,0,0,Atletico Madrid
+2023-11-12,21:00,La Liga,Matchweek 13,Sun,Home,W,3,1,Villarreal,3.9,0.8,50.0,56632.0,Koke,3-5-2,Francisco Hernández,Match Report,,25.0,10.0,14.6,0.0,0,0,Atletico Madrid
+2023-11-25,21:00,La Liga,Matchweek 14,Sat,Home,W,1,0,Mallorca,1.7,1.1,68.0,58119.0,Koke,3-4-3,Juan Martínez,Match Report,,20.0,3.0,17.6,0.0,0,0,Atletico Madrid
+2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,W,3,1,nl Feyenoord,1.3,1.1,49.0,43992.0,Koke,5-3-2,Anthony Taylor,Match Report,,9.0,3.0,14.7,0.0,0,0,Atletico Madrid
+2023-12-03,21:00,La Liga,Matchweek 15,Sun,Away,L,0,1,Barcelona,0.6,2.6,42.0,34568.0,Koke,5-3-2,José Sánchez,Match Report,,8.0,3.0,16.2,2.0,0,0,Atletico Madrid
+2023-12-10,14:00,La Liga,Matchweek 16,Sun,Home,W,2,1,Almería,2.2,1.3,57.0,55473.0,Koke,3-4-3,Ricardo de Burgos,Match Report,,13.0,4.0,17.5,1.0,0,0,Atletico Madrid
+2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,it Lazio,1.3,0.9,57.0,63574.0,Jan Oblak,3-5-2,Serdar Gözübüyük,Match Report,,16.0,4.0,16.5,1.0,0,0,Atletico Madrid
+2023-12-16,16:15,La Liga,Matchweek 17,Sat,Away,L,0,2,Athletic Club,0.4,2.4,62.0,48781.0,Koke,3-5-2,Jesús Gil,Match Report,,7.0,3.0,18.6,0.0,0,0,Atletico Madrid
+2023-12-19,21:30,La Liga,Matchweek 18,Tue,Home,D,3,3,Getafe,2.0,2.0,42.0,46401.0,Koke,3-5-2,José Luis Munuera,Match Report,,7.0,3.0,15.5,0.0,1,1,Atletico Madrid
+2023-12-23,16:15,La Liga,Matchweek 4,Sat,Home,W,1,0,Sevilla,0.9,0.3,50.0,64308.0,Koke,5-4-1,César Soto,Match Report,,12.0,4.0,16.9,0.0,0,0,Atletico Madrid
+2024-01-03,21:30,La Liga,Matchweek 19,Wed,Away,L,3,4,Girona,2.3,2.3,48.0,13804.0,Koke,3-1-4-2,Alejandro Hernández,Match Report,,18.0,12.0,12.0,0.0,0,0,Atletico Madrid
+2024-01-06,16:00,Copa del Rey,Round of 32,Sat,Away,W,3,1,Lugo,,,61.0,8168.0,Jan Oblak,3-5-2,Pablo González,Match Report,,12.0,3.0,,,0,0,Atletico Madrid
+2024-01-10,22:00,Supercopa de España,Semi-finals,Wed,Away,L,3,5,Real Madrid,,,44.0,25000.0,Koke,3-5-2,Alberola Rojas,Match Report,Required Extra Time,11.0,6.0,,,0,0,Atletico Madrid
+2024-01-18,21:30,Copa del Rey,Round of 16,Thu,Home,W,4,2,Real Madrid,,,41.0,67623.0,Koke,3-5-2,Guillermo Cuadra,Match Report,Required Extra Time,18.0,12.0,,,0,0,Atletico Madrid
+2024-01-22,21:00,La Liga,Matchweek 21,Mon,Away,W,1,0,Granada,1.2,0.6,47.0,18704.0,Jan Oblak,3-5-2,Juan Martínez,Match Report,,10.0,5.0,15.3,0.0,0,0,Atletico Madrid
+2024-01-25,21:00,Copa del Rey,Quarter-finals,Thu,Home,W,1,0,Sevilla,,,57.0,60169.0,Koke,3-5-2,Jesús Gil,Match Report,,11.0,5.0,,,0,1,Atletico Madrid
+2024-01-28,21:00,La Liga,Matchweek 22,Sun,Home,W,2,0,Valencia,2.4,0.5,54.0,59493.0,Koke,3-5-2,Ricardo de Burgos,Match Report,,12.0,8.0,13.7,1.0,0,0,Atletico Madrid
+2024-01-31,21:00,La Liga,Matchweek 20,Wed,Home,W,2,1,Rayo Vallecano,1.0,0.4,54.0,47003.0,Jan Oblak,3-5-2,César Soto,Match Report,,8.0,3.0,13.4,0.0,0,0,Atletico Madrid
+2024-02-04,21:00,La Liga,Matchweek 23,Sun,Away,D,1,1,Real Madrid,1.1,1.9,46.0,76732.0,Koke,3-5-2,José Sánchez,Match Report,,10.0,5.0,11.7,0.0,0,0,Atletico Madrid
+2024-02-07,21:30,Copa del Rey,Semi-finals,Wed,Home,L,0,1,Athletic Club,,,68.0,65029.0,Koke,3-5-2,Alejandro Hernández,Match Report,Leg 1 of 2,20.0,5.0,,,0,0,Atletico Madrid
+2024-02-11,18:30,La Liga,Matchweek 24,Sun,Away,L,0,1,Sevilla,1.5,1.0,61.0,31528.0,Koke,3-5-2,Javier Villanueva,Match Report,,16.0,4.0,18.6,0.0,0,0,Atletico Madrid
+2024-02-17,14:00,La Liga,Matchweek 25,Sat,Home,W,5,0,Las Palmas,3.5,0.7,36.0,61196.0,Koke,5-3-2,Jorge Figueroa,Match Report,,12.0,6.0,18.8,1.0,1,1,Atletico Madrid
+2024-02-20,21:00,Champions Lg,Round of 16,Tue,Away,L,0,1,it Inter,0.6,2.3,44.0,73709.0,Koke,3-5-2,István Kovács,Match Report,Leg 1 of 2,7.0,0.0,19.1,0.0,0,0,Atletico Madrid
+2024-02-24,21:00,La Liga,Matchweek 26,Sat,Away,D,2,2,Almería,1.5,0.5,60.0,14472.0,Koke,3-5-2,Javier Alberola,Match Report,,18.0,9.0,18.7,2.0,0,0,Atletico Madrid
+2024-02-29,21:30,Copa del Rey,Semi-finals,Thu,Away,L,0,3,Athletic Club,,,60.0,52061.0,Koke,5-3-2,Juan Martínez,Match Report,Leg 2 of 2; Athletic Club won,17.0,6.0,,,0,0,Atletico Madrid
+2024-03-03,16:15,La Liga,Matchweek 27,Sun,Home,W,2,1,Betis,3.0,0.6,42.0,61901.0,Koke,3-5-2,César Soto,Match Report,,16.0,11.0,16.3,0.0,0,1,Atletico Madrid
+2024-03-09,16:15,La Liga,Matchweek 28,Sat,Away,L,0,2,Cádiz,0.9,1.1,60.0,15917.0,Koke,5-3-2,Pablo González,Match Report,,8.0,4.0,21.5,0.0,0,0,Atletico Madrid
+2024-03-13,21:00,Champions Lg,Round of 16,Wed,Home,W,2 (3),1 (2),it Inter,2.7,1.6,48.0,69196.0,Koke,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Atlético Madrid won; Atlético Madrid won on penalty kicks following extra time,23.0,9.0,15.5,1.0,0,0,Atletico Madrid
+2024-03-17,21:00,La Liga,Matchweek 29,Sun,Home,L,0,3,Barcelona,0.8,1.5,41.0,68253.0,Jan Oblak,3-4-3,José Sánchez,Match Report,,13.0,3.0,19.6,0.0,0,0,Atletico Madrid
+2024-04-01,21:00,La Liga,Matchweek 30,Mon,Away,W,2,1,Villarreal,1.3,0.8,48.0,19679.0,Koke,5-3-2,Mario Melero,Match Report,,14.0,8.0,17.6,0.0,0,0,Atletico Madrid
+2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,W,2,1,de Dortmund,2.2,0.9,34.0,68641.0,Koke,3-5-2,Marco Guida,Match Report,Leg 1 of 2,14.0,9.0,14.5,0.0,0,0,Atletico Madrid
+2024-04-13,14:00,La Liga,Matchweek 31,Sat,Home,W,3,1,Girona,2.3,2.4,41.0,64214.0,Koke,4-4-2,Ricardo de Burgos,Match Report,,16.0,3.0,17.1,0.0,1,1,Atletico Madrid
+2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,L,2,4,de Dortmund,1.9,1.5,48.0,81365.0,Koke,3-5-2,Slavko Vinčič,Match Report,Leg 2 of 2; Dortmund won,10.0,3.0,13.7,0.0,0,0,Atletico Madrid
+2024-04-21,18:30,La Liga,Matchweek 32,Sun,Away,L,0,2,Alavés,0.9,0.4,68.0,18719.0,Koke,3-5-2,Jesús Gil,Match Report,,15.0,4.0,16.9,0.0,0,0,Atletico Madrid
+2024-04-27,21:00,La Liga,Matchweek 33,Sat,Home,W,3,1,Athletic Club,0.8,1.0,42.0,64612.0,Koke,3-5-2,Juan Martínez,Match Report,,8.0,3.0,18.4,0.0,0,0,Atletico Madrid
+2024-05-04,21:00,La Liga,Matchweek 34,Sat,Away,W,1,0,Mallorca,0.7,0.2,41.0,20519.0,Koke,3-4-3,Javier Alberola,Match Report,,9.0,4.0,20.5,0.0,0,0,Atletico Madrid
+2024-05-12,16:15,La Liga,Matchweek 35,Sun,Home,W,1,0,Celta Vigo,1.4,0.4,56.0,63014.0,Koke,3-4-3,Jorge Figueroa,Match Report,,21.0,8.0,18.5,0.0,0,0,Atletico Madrid
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Away,W,3,0,Getafe,1.3,0.6,55.0,13027.0,Koke,5-4-1,Mario Melero,Match Report,,7.0,3.0,12.4,0.0,0,0,Atletico Madrid
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,L,1,4,Osasuna,1.6,1.8,56.0,58401.0,Koke,5-4-1,Pablo González,Match Report,,14.0,2.0,15.7,0.0,0,0,Atletico Madrid
+2024-05-25,16:15,La Liga,Matchweek 38,Sat,Away,W,2,0,Real Sociedad,2.2,0.6,41.0,30678.0,Koke,3-4-3,José Sánchez,Match Report,,10.0,4.0,14.2,0.0,0,0,Atletico Madrid
+2023-08-12,21:30,La Liga,Matchweek 1,Sat,Home,L,0,2,Real Madrid,0.4,0.9,46.0,48927.0,Iker Muniain,4-2-3-1,Jesús Gil,Match Report,,7.0,1.0,15.3,0.0,0,0,Athletic Club
+2023-08-19,21:30,La Liga,Matchweek 2,Sat,Away,W,2,0,Osasuna,1.5,1.3,37.0,20704.0,Óscar de Marcos,4-2-3-1,José Luis Munuera,Match Report,,8.0,2.0,16.0,1.0,0,0,Athletic Club
+2023-08-27,21:30,La Liga,Matchweek 3,Sun,Home,W,4,2,Betis,2.9,0.4,48.0,44340.0,Iker Muniain,4-2-3-1,César Soto,Match Report,,12.0,4.0,19.7,0.0,2,2,Athletic Club
+2023-09-03,16:15,La Liga,Matchweek 4,Sun,Away,D,0,0,Mallorca,0.6,0.4,67.0,17043.0,Iñaki Williams,4-2-3-1,Jorge Figueroa,Match Report,,11.0,3.0,16.6,0.0,0,0,Athletic Club
+2023-09-16,14:00,La Liga,Matchweek 5,Sat,Home,W,3,0,Cádiz,2.9,0.3,65.0,42881.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,,20.0,8.0,13.4,0.0,0,0,Athletic Club
+2023-09-22,21:00,La Liga,Matchweek 6,Fri,Away,W,2,0,Alavés,1.7,1.1,56.0,19421.0,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,Match Report,,11.0,3.0,15.6,1.0,0,0,Athletic Club
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Home,D,2,2,Getafe,0.7,1.4,49.0,43091.0,Óscar de Marcos,4-2-3-1,Isidro Díaz de Mera,Match Report,,8.0,4.0,18.2,0.0,0,0,Athletic Club
+2023-09-30,21:00,La Liga,Matchweek 8,Sat,Away,L,0,3,Real Sociedad,1.8,1.4,49.0,38229.0,Iker Muniain,4-2-3-1,Jesús Gil,Match Report,,18.0,3.0,14.9,0.0,0,0,Athletic Club
+2023-10-06,21:00,La Liga,Matchweek 9,Fri,Home,W,3,0,Almería,1.9,0.1,59.0,43677.0,Óscar de Marcos,4-2-3-1,Víctor García,Match Report,,23.0,9.0,13.4,0.0,0,0,Athletic Club
+2023-10-22,21:00,La Liga,Matchweek 10,Sun,Away,L,0,1,Barcelona,0.4,1.3,38.0,38194.0,Óscar de Marcos,4-2-3-1,Juan Martínez,Match Report,,10.0,3.0,17.1,0.0,0,0,Athletic Club
+2023-10-29,18:30,La Liga,Matchweek 11,Sun,Home,D,2,2,Valencia,1.9,1.9,57.0,46563.0,Óscar de Marcos,4-2-3-1,Jorge Figueroa,Match Report,,12.0,7.0,15.5,0.0,0,0,Athletic Club
+2023-11-01,21:30,Copa del Rey,First round,Wed,Away,W,2,1,Rubí,,,75.0,4000.0,Iker Muniain,4-2-3-1,César Soto,Match Report,,28.0,8.0,,,0,0,Athletic Club
+2023-11-05,18:30,La Liga,Matchweek 12,Sun,Away,W,3,2,Villarreal,2.3,2.1,43.0,18709.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,,17.0,7.0,18.2,0.0,0,0,Athletic Club
+2023-11-10,21:00,La Liga,Matchweek 13,Fri,Home,W,4,3,Celta Vigo,4.6,2.1,58.0,44435.0,Óscar de Marcos,4-2-3-1,Juan Pulido,Match Report,,20.0,11.0,13.2,0.0,1,1,Athletic Club
+2023-11-27,21:00,La Liga,Matchweek 14,Mon,Away,D,1,1,Girona,1.5,1.3,40.0,13123.0,Óscar de Marcos,4-2-3-1,Mario Melero,Match Report,,13.0,6.0,15.8,0.0,0,0,Athletic Club
+2023-12-02,16:15,La Liga,Matchweek 15,Sat,Home,W,4,0,Rayo Vallecano,1.3,0.5,51.0,44689.0,Óscar de Marcos,4-2-3-1,Francisco Hernández,Match Report,,9.0,4.0,14.0,0.0,0,0,Athletic Club
+2023-12-07,21:00,Copa del Rey,Second round,Thu,Away,W,3,0,Cayón,,,68.0,12295.0,Iker Muniain,4-2-3-1,Javier Villanueva,Match Report,,28.0,15.0,,,1,1,Athletic Club
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Away,D,1,1,Granada,1.1,0.7,52.0,12849.0,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,19.0,4.0,16.7,0.0,0,0,Athletic Club
+2023-12-16,16:15,La Liga,Matchweek 17,Sat,Home,W,2,0,Atlético Madrid,2.4,0.4,38.0,48781.0,Iñaki Williams,4-2-3-1,Jesús Gil,Match Report,,15.0,7.0,17.1,0.0,0,1,Athletic Club
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Home,W,1,0,Las Palmas,3.4,0.3,50.0,39471.0,Iñaki Williams,4-2-3-1,Juan Martínez,Match Report,,18.0,8.0,13.4,0.0,0,1,Athletic Club
+2024-01-04,19:15,La Liga,Matchweek 19,Thu,Away,W,2,0,Sevilla,1.3,0.7,39.0,28366.0,Iñigo Lekue,4-2-3-1,José Sánchez,Match Report,,15.0,5.0,14.2,0.0,0,0,Athletic Club
+2024-01-07,19:00,Copa del Rey,Round of 32,Sun,Away,W,3,0,Eibar,,,51.0,7499.0,Iker Muniain,4-2-3-1,Alejandro Hernández,Match Report,,11.0,4.0,,,0,0,Athletic Club
+2024-01-13,18:30,La Liga,Matchweek 20,Sat,Home,W,2,1,Real Sociedad,1.6,1.1,49.0,51475.0,Iñigo Lekue,4-2-3-1,José Luis Munuera,Match Report,,10.0,3.0,12.7,1.0,0,0,Athletic Club
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Home,W,2,0,Alavés,,,64.0,45233.0,Iker Muniain,4-2-3-1,César Soto,Match Report,,13.0,6.0,,,0,0,Athletic Club
+2024-01-20,18:30,La Liga,Matchweek 21,Sat,Away,L,0,1,Valencia,0.5,0.9,60.0,45344.0,Iñigo Lekue,4-2-3-1,Juan Pulido,Match Report,,6.0,3.0,15.6,0.0,0,0,Athletic Club
+2024-01-24,21:30,Copa del Rey,Quarter-finals,Wed,Home,W,4,2,Barcelona,,,39.0,50403.0,Iñigo Lekue,4-2-3-1,José Sánchez,Match Report,Required Extra Time,29.0,7.0,,,0,0,Athletic Club
+2024-01-28,16:15,La Liga,Matchweek 22,Sun,Away,D,0,0,Cádiz,0.2,0.4,57.0,18839.0,Óscar de Marcos,4-2-3-1,Mateo Busquets,Match Report,,8.0,0.0,22.8,1.0,0,0,Athletic Club
+2024-02-02,21:00,La Liga,Matchweek 23,Fri,Home,W,4,0,Mallorca,1.7,0.4,62.0,47061.0,Óscar de Marcos,4-2-3-1,Jorge Figueroa,Match Report,,13.0,6.0,15.7,0.0,0,0,Athletic Club
+2024-02-07,21:30,Copa del Rey,Semi-finals,Wed,Away,W,1,0,Atlético Madrid,,,32.0,65029.0,Iñaki Williams,4-2-3-1,Alejandro Hernández,Match Report,Leg 1 of 2,9.0,3.0,,,1,1,Athletic Club
+2024-02-12,21:00,La Liga,Matchweek 24,Mon,Away,D,0,0,Almería,0.7,0.9,61.0,12863.0,Óscar de Marcos,4-2-3-1,Víctor García,Match Report,,12.0,4.0,18.9,0.0,0,0,Athletic Club
+2024-02-19,21:00,La Liga,Matchweek 25,Mon,Home,W,3,2,Girona,1.8,2.1,31.0,46220.0,Iñaki Williams,4-2-3-1,José Sánchez,Match Report,,14.0,7.0,12.8,0.0,0,0,Athletic Club
+2024-02-25,16:15,La Liga,Matchweek 26,Sun,Away,L,1,3,Betis,0.2,1.2,43.0,53537.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,,3.0,1.0,13.1,0.0,0,0,Athletic Club
+2024-02-29,21:30,Copa del Rey,Semi-finals,Thu,Home,W,3,0,Atlético Madrid,,,40.0,52061.0,Óscar de Marcos,4-2-3-1,Juan Martínez,Match Report,Leg 2 of 2; Athletic Club won,10.0,7.0,,,0,0,Athletic Club
+2024-03-03,21:00,La Liga,Matchweek 27,Sun,Home,D,0,0,Barcelona,0.4,0.7,40.0,50295.0,Iñaki Williams,4-2-3-1,Alejandro Hernández,Match Report,,8.0,2.0,18.1,0.0,0,0,Athletic Club
+2024-03-10,15:15,La Liga,Matchweek 28,Sun,Away,W,2,0,Las Palmas,1.1,1.2,30.0,27316.0,Óscar de Marcos,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,7.0,2.0,15.2,0.0,0,0,Athletic Club
+2024-03-16,21:00,La Liga,Matchweek 29,Sat,Home,W,2,0,Alavés,1.7,1.3,59.0,48257.0,Óscar de Marcos,4-2-3-1,Alejandro Muñíz,Match Report,,16.0,4.0,16.9,0.0,0,0,Athletic Club
+2024-03-31,21:00,La Liga,Matchweek 30,Sun,Away,L,0,2,Real Madrid,0.3,1.1,42.0,72991.0,Óscar de Marcos,4-2-3-1,Javier Alberola,Match Report,,7.0,3.0,16.8,0.0,0,0,Athletic Club
+2024-04-06,22:00,Copa del Rey,Final,Sat,Home,D,1 (4),1 (2),Mallorca,,,69.0,57619.0,Óscar de Marcos,4-2-3-1,José Luis Munuera,Match Report,Athletic Club won on penalty kicks following extra time,30.0,7.0,,,0,0,Athletic Club
+2024-04-14,18:30,La Liga,Matchweek 31,Sun,Home,D,1,1,Villarreal,0.7,2.1,53.0,50061.0,Óscar de Marcos,4-2-3-1,Guillermo Cuadra,Match Report,,13.0,6.0,20.9,2.0,0,0,Athletic Club
+2024-04-19,21:00,La Liga,Matchweek 32,Fri,Home,D,1,1,Granada,1.5,0.2,67.0,45917.0,Óscar de Marcos,4-2-3-1,Javier Villanueva,Match Report,,17.0,5.0,16.8,0.0,0,0,Athletic Club
+2024-04-27,21:00,La Liga,Matchweek 33,Sat,Away,L,1,3,Atlético Madrid,1.0,0.8,58.0,64612.0,Iñaki Williams,4-2-3-1,Juan Martínez,Match Report,,7.0,1.0,12.9,0.0,0,0,Athletic Club
+2024-05-03,21:00,La Liga,Matchweek 34,Fri,Away,W,2,0,Getafe,0.6,4.5,36.0,12149.0,Óscar de Marcos,4-2-3-1,Jesús Gil,Match Report,,7.0,2.0,17.2,0.0,0,0,Athletic Club
+2024-05-11,21:00,La Liga,Matchweek 35,Sat,Home,D,2,2,Osasuna,1.4,1.0,67.0,45273.0,Iker Muniain,4-2-3-1,José Sánchez,Match Report,,15.0,6.0,14.9,0.0,0,0,Athletic Club
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Away,L,1,2,Celta Vigo,0.2,0.7,47.0,21301.0,Iñigo Lekue,4-2-3-1,Víctor García,Match Report,,7.0,2.0,20.8,1.0,0,0,Athletic Club
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,W,2,0,Sevilla,1.6,0.9,53.0,44717.0,Iker Muniain,4-2-3-1,Juan Pulido,Match Report,,15.0,6.0,15.7,0.0,0,0,Athletic Club
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Away,W,1,0,Rayo Vallecano,0.9,1.1,37.0,13090.0,Iñigo Lekue,4-2-3-1,José Luis Munuera,Match Report,,7.0,1.0,18.0,0.0,0,0,Athletic Club
+2023-08-12,17:00,La Liga,Matchweek 1,Sat,Home,D,1,1,Girona,1.0,0.8,48.0,30848.0,Mikel Oyarzabal,4-3-3,Francisco Hernández,Match Report,,15.0,2.0,20.0,1.0,0,0,Real Sociedad
+2023-08-19,17:00,La Liga,Matchweek 2,Sat,Home,D,1,1,Celta Vigo,0.7,1.0,53.0,30354.0,Igor Zubeldia,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,11.0,2.0,17.3,1.0,0,0,Real Sociedad
+2023-08-25,18:30,La Liga,Matchweek 3,Fri,Away,D,0,0,Las Palmas,1.0,0.9,48.0,25335.0,Mikel Merino,4-2-3-1,Guillermo Cuadra,Match Report,,8.0,1.0,13.0,0.0,0,0,Real Sociedad
+2023-09-02,14:00,La Liga,Matchweek 4,Sat,Home,W,5,3,Granada,2.3,0.8,61.0,27808.0,Mikel Oyarzabal,4-3-3,Javier Villanueva,Match Report,,15.0,6.0,20.3,0.0,0,0,Real Sociedad
+2023-09-17,21:00,La Liga,Matchweek 5,Sun,Away,L,1,2,Real Madrid,1.6,2.0,48.0,70092.0,Mikel Oyarzabal,4-3-3,César Soto,Match Report,,15.0,5.0,17.6,0.0,0,0,Real Sociedad
+2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,it Inter,1.3,0.5,44.0,36591.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,,14.0,5.0,15.9,1.0,0,0,Real Sociedad
+2023-09-24,14:00,La Liga,Matchweek 6,Sun,Home,W,4,3,Getafe,2.0,1.4,61.0,29568.0,Igor Zubeldia,4-4-2,Juan Pulido,Match Report,,9.0,5.0,19.2,1.0,1,1,Real Sociedad
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Away,W,1,0,Valencia,0.2,0.4,62.0,44200.0,Mikel Oyarzabal,4-3-3,Alejandro Hernández,Match Report,,2.0,1.0,18.5,0.0,0,0,Real Sociedad
+2023-09-30,21:00,La Liga,Matchweek 8,Sat,Home,W,3,0,Athletic Club,1.4,1.8,51.0,38229.0,Mikel Merino,4-4-2,Jesús Gil,Match Report,,8.0,5.0,18.0,1.0,0,0,Real Sociedad
+2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,2,0,at RB Salzburg,1.2,0.6,52.0,28227.0,Mikel Oyarzabal,4-4-2,Bartosz Frankowski,Match Report,,15.0,5.0,20.7,0.0,0,0,Real Sociedad
+2023-10-08,16:15,La Liga,Matchweek 9,Sun,Away,L,1,2,Atlético Madrid,1.2,2.2,62.0,65607.0,Mikel Oyarzabal,4-3-3,José Luis Munuera,Match Report,,13.0,4.0,23.1,1.0,0,0,Real Sociedad
+2023-10-21,14:00,La Liga,Matchweek 10,Sat,Home,W,1,0,Mallorca,1.3,1.9,56.0,31279.0,Mikel Oyarzabal,4-4-2,Jorge Figueroa,Match Report,,14.0,6.0,16.5,1.0,0,0,Real Sociedad
+2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,pt Benfica,0.9,0.5,62.0,56002.0,Mikel Oyarzabal,4-3-3,Clément Turpin,Match Report,,12.0,2.0,16.6,0.0,0,0,Real Sociedad
+2023-10-29,16:15,La Liga,Matchweek 11,Sun,Away,D,2,2,Rayo Vallecano,2.0,1.0,45.0,12790.0,Mikel Oyarzabal,4-1-4-1,Mateo Busquets,Match Report,,14.0,2.0,19.7,1.0,1,1,Real Sociedad
+2023-11-01,18:30,Copa del Rey,First round,Wed,Away,W,1,0,Buñol,,,71.0,4000.0,Aritz Elustondo,4-3-3,Guillermo Cuadra,Match Report,,21.0,6.0,,,0,0,Real Sociedad
+2023-11-04,21:00,La Liga,Matchweek 12,Sat,Home,L,0,1,Barcelona,0.9,1.2,51.0,37555.0,Mikel Oyarzabal,4-3-3,Javier Alberola,Match Report,,13.0,6.0,16.7,0.0,0,0,Real Sociedad
+2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,pt Benfica,3.3,0.8,52.0,36815.0,Mikel Oyarzabal,4-3-3,Anthony Taylor,Match Report,,16.0,6.0,14.2,0.0,0,1,Real Sociedad
+2023-11-11,16:15,La Liga,Matchweek 13,Sat,Away,W,3,1,Almería,2.4,0.4,53.0,13016.0,Mikel Oyarzabal,4-1-3-2,Isidro Díaz de Mera,Match Report,,17.0,5.0,16.6,2.0,1,1,Real Sociedad
+2023-11-26,16:15,La Liga,Matchweek 14,Sun,Home,W,2,1,Sevilla,0.7,0.6,49.0,33879.0,Mikel Merino,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,8.0,19.9,2.0,0,0,Real Sociedad
+2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,at RB Salzburg,1.3,0.6,71.0,34419.0,Mikel Oyarzabal,4-3-3,Mykola Balakin,Match Report,,21.0,7.0,18.6,1.0,0,0,Real Sociedad
+2023-12-02,21:00,La Liga,Matchweek 15,Sat,Away,D,1,1,Osasuna,1.7,0.7,71.0,20859.0,Mikel Merino,4-3-3,Juan Pulido,Match Report,,17.0,5.0,17.0,0.0,0,0,Real Sociedad
+2023-12-06,16:00,Copa del Rey,Second round,Wed,Away,W,1,0,Andratx,,,71.0,1233.0,Robin Le Normand,4-4-2,José Sánchez,Match Report,,10.0,4.0,,,0,0,Real Sociedad
+2023-12-09,18:30,La Liga,Matchweek 16,Sat,Away,W,3,0,Villarreal,1.5,2.2,47.0,19344.0,Aritz Elustondo,4-1-4-1,Mario Melero,Match Report,,16.0,5.0,14.8,0.0,0,0,Real Sociedad
+2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,it Inter,0.7,0.7,55.0,69010.0,Mikel Oyarzabal,4-1-4-1,Sandro Schärer,Match Report,,5.0,2.0,17.6,0.0,0,0,Real Sociedad
+2023-12-17,16:15,La Liga,Matchweek 17,Sun,Home,D,0,0,Betis,1.1,1.1,57.0,33172.0,Mikel Oyarzabal,4-3-3,Mateo Busquets,Match Report,,12.0,4.0,18.1,1.0,0,0,Real Sociedad
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Away,D,0,0,Cádiz,0.5,1.0,60.0,17693.0,Mikel Oyarzabal,4-1-4-1,Javier Villanueva,Match Report,,8.0,1.0,15.9,1.0,0,0,Real Sociedad
+2024-01-02,19:15,La Liga,Matchweek 19,Tue,Home,D,1,1,Alavés,1.2,1.0,53.0,34051.0,Mikel Oyarzabal,4-3-3,Víctor García,Match Report,,16.0,5.0,14.8,0.0,0,0,Real Sociedad
+2024-01-07,21:00,Copa del Rey,Round of 32,Sun,Away,W,1,0,Málaga,,,61.0,22111.0,Mikel Oyarzabal,4-3-3,Jesús Gil,Match Report,,16.0,5.0,,,0,0,Real Sociedad
+2024-01-13,18:30,La Liga,Matchweek 20,Sat,Away,L,1,2,Athletic Club,1.1,1.6,51.0,51475.0,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,Match Report,,9.0,1.0,18.1,1.0,0,0,Real Sociedad
+2024-01-17,21:00,Copa del Rey,Round of 16,Wed,Away,W,2,0,Osasuna,,,58.0,21116.0,Mikel Oyarzabal,4-3-3,Alejandro Hernández,Match Report,,15.0,6.0,,,1,2,Real Sociedad
+2024-01-20,21:00,La Liga,Matchweek 21,Sat,Away,W,1,0,Celta Vigo,0.8,0.3,51.0,20901.0,Igor Zubeldia,5-3-2,Jorge Figueroa,Match Report,,6.0,2.0,21.0,1.0,0,0,Real Sociedad
+2024-01-23,21:30,Copa del Rey,Quarter-finals,Tue,Away,W,2,1,Celta Vigo,,,54.0,20903.0,Mikel Oyarzabal,4-1-3-2,César Soto,Match Report,,10.0,3.0,,,0,0,Real Sociedad
+2024-01-27,14:00,La Liga,Matchweek 22,Sat,Home,D,0,0,Rayo Vallecano,0.2,0.1,51.0,32528.0,Igor Zubeldia,5-3-2,Alejandro Hernández,Match Report,,6.0,3.0,21.0,0.0,0,0,Real Sociedad
+2024-02-03,21:00,La Liga,Matchweek 23,Sat,Away,D,0,0,Girona,0.6,0.7,51.0,13755.0,Mikel Oyarzabal,4-4-1-1,Jesús Gil,Match Report,,11.0,2.0,20.7,0.0,0,0,Real Sociedad
+2024-02-06,21:00,Copa del Rey,Semi-finals,Tue,Away,D,0,0,Mallorca,,,69.0,22051.0,Mikel Merino,4-3-3,Alejandro Muñíz,Match Report,Leg 1 of 2,12.0,3.0,,,0,0,Real Sociedad
+2024-02-10,16:15,La Liga,Matchweek 24,Sat,Home,L,0,1,Osasuna,1.5,0.5,68.0,32905.0,Mikel Merino,4-3-3,Isidro Díaz de Mera,Match Report,,21.0,3.0,15.2,1.0,0,0,Real Sociedad
+2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,fr Paris S-G,0.7,1.2,38.0,46435.0,Mikel Merino,4-3-3,Marco Guida,Match Report,Leg 1 of 2,9.0,0.0,15.7,0.0,0,0,Real Sociedad
+2024-02-18,18:30,La Liga,Matchweek 25,Sun,Away,W,2,1,Mallorca,1.1,0.1,67.0,18153.0,Mikel Merino,4-3-3,Pablo González,Match Report,,19.0,5.0,17.7,0.0,0,0,Real Sociedad
+2024-02-23,21:00,La Liga,Matchweek 26,Fri,Home,L,1,3,Villarreal,1.5,1.0,70.0,30609.0,Robin Le Normand,4-1-4-1,Javier Villanueva,Match Report,,21.0,7.0,18.2,2.0,0,0,Real Sociedad
+2024-02-27,21:30,Copa del Rey,Semi-finals,Tue,Home,D,1 (4),1 (5),Mallorca,,,62.0,35781.0,Mikel Merino,4-3-3,Jesús Gil,Match Report,Leg 2 of 2; Mallorca won,26.0,9.0,,,0,1,Real Sociedad
+2024-03-02,14:00,La Liga,Matchweek 27,Sat,Away,L,2,3,Sevilla,1.5,2.0,61.0,35884.0,Igor Zubeldia,4-1-3-2,Mateo Busquets,Match Report,,12.0,3.0,21.9,2.0,1,1,Real Sociedad
+2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,L,1,2,fr Paris S-G,0.9,1.4,44.0,39336.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,14.0,7.0,16.9,0.0,0,0,Real Sociedad
+2024-03-09,18:30,La Liga,Matchweek 28,Sat,Away,W,3,2,Granada,2.1,1.7,63.0,9214.0,Mikel Oyarzabal,4-1-4-1,Juan Martínez,Match Report,,11.0,8.0,14.4,1.0,0,0,Real Sociedad
+2024-03-15,21:00,La Liga,Matchweek 29,Fri,Home,W,2,0,Cádiz,1.9,0.8,63.0,31000.0,Mikel Oyarzabal,4-3-3,César Soto,Match Report,,14.0,6.0,14.3,0.0,0,0,Real Sociedad
+2024-03-31,18:30,La Liga,Matchweek 30,Sun,Away,W,1,0,Alavés,0.9,0.3,59.0,18575.0,Mikel Oyarzabal,4-3-3,Francisco Hernández,Match Report,,12.0,3.0,15.7,0.0,0,0,Real Sociedad
+2024-04-14,21:00,La Liga,Matchweek 31,Sun,Home,D,2,2,Almería,1.5,1.6,50.0,26520.0,Mikel Oyarzabal,4-4-2,Isidro Díaz de Mera,Match Report,,17.0,4.0,16.4,0.0,0,0,Real Sociedad
+2024-04-21,14:00,La Liga,Matchweek 32,Sun,Away,D,1,1,Getafe,1.2,0.5,59.0,12228.0,Mikel Oyarzabal,4-3-3,Víctor García,Match Report,,7.0,3.0,14.7,0.0,0,0,Real Sociedad
+2024-04-26,21:00,La Liga,Matchweek 33,Fri,Home,L,0,1,Real Madrid,0.6,0.4,56.0,37109.0,Mikel Oyarzabal,4-1-4-1,José Luis Munuera,Match Report,,9.0,3.0,23.3,0.0,0,0,Real Sociedad
+2024-05-04,14:00,La Liga,Matchweek 34,Sat,Home,W,2,0,Las Palmas,0.6,0.5,52.0,29330.0,Mikel Oyarzabal,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,9.0,4.0,17.8,0.0,0,0,Real Sociedad
+2024-05-13,21:00,La Liga,Matchweek 35,Mon,Away,L,0,2,Barcelona,0.7,2.1,44.0,35829.0,Mikel Oyarzabal,3-4-3,Guillermo Cuadra,Match Report,,10.0,3.0,20.6,1.0,0,0,Real Sociedad
+2024-05-16,22:00,La Liga,Matchweek 36,Thu,Home,W,1,0,Valencia,1.3,0.8,57.0,25067.0,Mikel Merino,4-3-3,César Soto,Match Report,,10.0,5.0,19.8,0.0,0,0,Real Sociedad
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,2,0,Betis,0.4,1.7,33.0,58036.0,Mikel Oyarzabal,4-4-2,Juan Martínez,Match Report,,5.0,2.0,14.0,1.0,0,0,Real Sociedad
+2024-05-25,16:15,La Liga,Matchweek 38,Sat,Home,L,0,2,Atlético Madrid,0.6,2.2,59.0,30678.0,Aritz Elustondo,4-3-3,José Sánchez,Match Report,,14.0,2.0,20.0,1.0,0,0,Real Sociedad
+2023-08-13,19:30,La Liga,Matchweek 1,Sun,Away,W,2,1,Villarreal,1.1,0.9,37.0,17825.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,12.0,5.0,18.6,1.0,0,0,Real Betis
+2023-08-20,21:30,La Liga,Matchweek 2,Sun,Home,D,0,0,Atlético Madrid,0.7,0.5,53.0,51782.0,Germán Pezzella,4-2-3-1,Ricardo de Burgos,Match Report,,14.0,0.0,17.1,0.0,0,0,Real Betis
+2023-08-27,21:30,La Liga,Matchweek 3,Sun,Away,L,2,4,Athletic Club,0.4,2.9,52.0,44340.0,Germán Pezzella,4-2-3-1,César Soto,Match Report,,9.0,4.0,17.5,1.0,0,0,Real Betis
+2023-09-02,21:00,La Liga,Matchweek 4,Sat,Home,W,1,0,Rayo Vallecano,1.0,1.5,55.0,50619.0,Germán Pezzella,4-2-3-1,Alejandro Muñíz,Match Report,,14.0,5.0,16.3,1.0,0,0,Real Betis
+2023-09-16,21:00,La Liga,Matchweek 5,Sat,Away,L,0,5,Barcelona,0.8,2.4,35.0,45055.0,Marc Bartra,4-2-3-1,José Sánchez,Match Report,,11.0,2.0,18.9,0.0,0,0,Real Betis
+2023-09-21,20:00,Europa Lg,Group stage,Thu,Away,L,0,1,sct Rangers,0.8,2.0,53.0,45634.0,Germán Pezzella,4-2-3-1,Lawrence Visser,Match Report,,12.0,4.0,20.0,0.0,0,0,Real Betis
+2023-09-24,18:30,La Liga,Matchweek 6,Sun,Home,D,1,1,Cádiz,1.8,0.2,63.0,56087.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,21.0,7.0,16.4,2.0,0,0,Real Betis
+2023-09-28,19:00,La Liga,Matchweek 7,Thu,Away,D,1,1,Granada,0.9,1.8,61.0,18936.0,Andrés Guardado,4-2-3-1,Víctor García,Match Report,,13.0,3.0,17.1,0.0,0,0,Real Betis
+2023-10-01,21:00,La Liga,Matchweek 8,Sun,Home,W,3,0,Valencia,1.6,0.7,55.0,50163.0,Germán Pezzella,4-2-3-1,Ricardo de Burgos,Match Report,,15.0,7.0,13.4,0.0,0,0,Real Betis
+2023-10-05,18:45,Europa Lg,Group stage,Thu,Home,W,2,1,cz Sparta Prague,1.5,1.3,46.0,45037.0,Germán Pezzella,4-2-3-1,Duje Strukan,Match Report,,17.0,4.0,18.2,2.0,0,0,Real Betis
+2023-10-08,18:30,La Liga,Matchweek 9,Sun,Away,D,1,1,Alavés,0.9,1.3,60.0,18288.0,Germán Pezzella,4-2-3-1,Alejandro Hernández,Match Report,,6.0,2.0,14.5,0.0,0,0,Real Betis
+2023-10-21,16:15,La Liga,Matchweek 10,Sat,Away,D,1,1,Getafe,1.1,1.5,55.0,13926.0,Andrés Guardado,4-2-3-1,César Soto,Match Report,,13.0,3.0,16.1,0.0,0,0,Real Betis
+2023-10-26,19:45,Europa Lg,Group stage,Thu,Away,W,1,0,cy Aris Limassol FC,2.1,0.5,59.0,3945.0,Germán Pezzella,4-2-3-1,Filip Glova,Match Report,,17.0,5.0,15.0,0.0,0,0,Real Betis
+2023-10-29,14:00,La Liga,Matchweek 11,Sun,Home,W,2,1,Osasuna,1.2,0.4,51.0,49123.0,Germán Pezzella,4-2-3-1,José Sánchez,Match Report,,9.0,2.0,17.8,0.0,0,0,Real Betis
+2023-11-01,20:30,Copa del Rey,First round,Wed,Away,W,12,1,Hernán Cortés,,,71.0,11580.0,Andrés Guardado,,Isidro Díaz de Mera,Match Report,,40.0,24.0,,,1,2,Real Betis
+2023-11-04,16:15,La Liga,Matchweek 12,Sat,Home,W,2,0,Mallorca,2.2,0.6,57.0,50909.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,22.0,3.0,18.8,1.0,0,0,Real Betis
+2023-11-09,21:00,Europa Lg,Group stage,Thu,Home,W,4,1,cy Aris Limassol FC,2.2,0.9,55.0,41768.0,Andrés Guardado,4-2-3-1,Mohammed Al Hakim,Match Report,,14.0,8.0,18.8,0.0,0,1,Real Betis
+2023-11-12,18:30,La Liga,Matchweek 13,Sun,Away,D,1,1,Sevilla,1.8,0.7,39.0,42222.0,Germán Pezzella,4-2-3-1,Jesús Gil,Match Report,,14.0,6.0,12.1,0.0,0,0,Real Betis
+2023-11-26,21:00,La Liga,Matchweek 14,Sun,Home,W,1,0,Las Palmas,1.4,0.6,39.0,48132.0,Germán Pezzella,4-2-3-1,Víctor García,Match Report,,12.0,6.0,17.1,0.0,0,0,Real Betis
+2023-11-30,18:45,Europa Lg,Group stage,Thu,Away,L,0,1,cz Sparta Prague,0.8,0.6,57.0,18095.0,Andrés Guardado,4-2-3-1,Nikola Dabanović,Match Report,,11.0,5.0,20.9,0.0,0,0,Real Betis
+2023-12-03,16:15,La Liga,Matchweek 15,Sun,Away,D,0,0,Almería,0.5,2.4,38.0,14253.0,Germán Pezzella,4-4-1-1,Alejandro Muñíz,Match Report,,6.0,2.0,15.4,0.0,0,0,Real Betis
+2023-12-06,19:00,Copa del Rey,Second round,Wed,Away,W,2,1,Villanovense,,,75.0,8000.0,Andrés Guardado,4-2-3-1,Alberola Rojas,Match Report,,16.0,5.0,,,0,0,Real Betis
+2023-12-09,16:15,La Liga,Matchweek 16,Sat,Home,D,1,1,Real Madrid,1.3,1.0,37.0,52756.0,Germán Pezzella,4-2-3-1,César Soto,Match Report,,14.0,6.0,14.5,0.0,0,0,Real Betis
+2023-12-14,21:00,Europa Lg,Group stage,Thu,Home,L,2,3,sct Rangers,1.6,1.4,64.0,48380.0,Andrés Guardado,4-2-3-1,Srđan Jovanović,Match Report,,18.0,8.0,18.7,0.0,0,0,Real Betis
+2023-12-17,16:15,La Liga,Matchweek 17,Sun,Away,D,0,0,Real Sociedad,1.1,1.1,43.0,33172.0,Germán Pezzella,4-2-3-1,Mateo Busquets,Match Report,,12.0,3.0,15.7,0.0,0,0,Real Betis
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Home,D,1,1,Girona,1.5,1.7,47.0,51394.0,Andrés Guardado,4-2-3-1,Ricardo de Burgos,Match Report,,21.0,4.0,18.8,0.0,0,0,Real Betis
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Away,L,1,2,Celta Vigo,1.4,2.7,60.0,21105.0,Germán Pezzella,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,14.0,3.0,13.0,0.0,0,0,Real Betis
+2024-01-06,20:00,Copa del Rey,Round of 32,Sat,Away,L,0,1,Alavés,,,61.0,13567.0,Germán Pezzella,4-2-3-1,Javier Villanueva,Match Report,,12.0,2.0,,,0,0,Real Betis
+2024-01-13,21:00,La Liga,Matchweek 20,Sat,Home,W,1,0,Granada,1.8,0.5,57.0,50197.0,Andrés Guardado,4-2-3-1,Guillermo Cuadra,Match Report,,25.0,6.0,19.2,0.0,0,0,Real Betis
+2024-01-21,18:30,La Liga,Matchweek 21,Sun,Home,L,2,4,Barcelona,1.1,3.0,37.0,53288.0,Germán Pezzella,4-2-3-1,Jesús Gil,Match Report,,14.0,4.0,17.7,0.0,0,0,Real Betis
+2024-01-27,21:00,La Liga,Matchweek 22,Sat,Away,W,1,0,Mallorca,0.4,1.5,47.0,20051.0,Nabil Fekir,4-2-3-1,Javier Villanueva,Match Report,,8.0,2.0,19.3,0.0,0,0,Real Betis
+2024-02-04,18:30,La Liga,Matchweek 23,Sun,Home,D,1,1,Getafe,1.6,1.5,54.0,53336.0,Nabil Fekir,4-2-3-1,Juan Pulido,Match Report,,8.0,1.0,19.6,1.0,1,1,Real Betis
+2024-02-09,21:00,La Liga,Matchweek 24,Fri,Away,W,2,0,Cádiz,1.0,0.8,47.0,15346.0,Nabil Fekir,4-2-3-1,Ricardo de Burgos,Match Report,,14.0,5.0,17.2,1.0,0,0,Real Betis
+2024-02-15,21:00,Conf Lg,Knockout round play-offs,Thu,Home,L,0,1,hr Dinamo Zagreb,0.9,0.9,60.0,25091.0,Germán Pezzella,4-2-3-1,Mykola Balakin,Match Report,Leg 1 of 2,16.0,3.0,17.3,1.0,0,0,Real Betis
+2024-02-18,21:00,La Liga,Matchweek 25,Sun,Home,D,0,0,Alavés,0.8,0.5,62.0,43514.0,Nabil Fekir,4-2-3-1,Mateo Busquets,Match Report,,13.0,1.0,18.3,0.0,0,0,Real Betis
+2024-02-22,18:45,Conf Lg,Knockout round play-offs,Thu,Away,D,1,1,hr Dinamo Zagreb,0.8,1.5,62.0,18002.0,Nabil Fekir,4-2-3-1,Urs Schnyder,Match Report,Leg 2 of 2; Dinamo Zagreb won,9.0,2.0,18.6,2.0,0,0,Real Betis
+2024-02-25,16:15,La Liga,Matchweek 26,Sun,Home,W,3,1,Athletic Club,1.2,0.2,57.0,53537.0,Nabil Fekir,4-2-3-1,Guillermo Cuadra,Match Report,,13.0,5.0,23.4,2.0,0,0,Real Betis
+2024-03-03,16:15,La Liga,Matchweek 27,Sun,Away,L,1,2,Atlético Madrid,0.6,3.0,58.0,61901.0,Germán Pezzella,4-2-3-1,César Soto,Match Report,,12.0,6.0,17.9,0.0,0,0,Real Betis
+2024-03-10,21:00,La Liga,Matchweek 28,Sun,Home,L,2,3,Villarreal,1.0,1.4,54.0,47711.0,Nabil Fekir,4-2-3-1,Alejandro Hernández,Match Report,,13.0,4.0,18.2,1.0,0,0,Real Betis
+2024-03-17,18:30,La Liga,Matchweek 29,Sun,Away,L,0,2,Rayo Vallecano,0.8,0.7,61.0,13264.0,Nabil Fekir,4-2-3-1,Juan Pulido,Match Report,,11.0,1.0,14.8,0.0,0,0,Real Betis
+2024-03-31,16:15,La Liga,Matchweek 30,Sun,Away,L,2,3,Girona,0.5,2.6,43.0,12774.0,Nabil Fekir,4-1-4-1,Jesús Gil,Match Report,,7.0,4.0,20.5,0.0,0,0,Real Betis
+2024-04-12,21:00,La Liga,Matchweek 31,Fri,Home,W,2,1,Celta Vigo,1.2,1.6,47.0,48938.0,Germán Pezzella,4-2-3-1,Juan Martínez,Match Report,,15.0,3.0,16.4,1.0,0,0,Real Betis
+2024-04-20,18:30,La Liga,Matchweek 32,Sat,Away,W,2,1,Valencia,1.3,1.1,46.0,46371.0,Germán Pezzella,4-2-3-1,Mateo Busquets,Match Report,,12.0,6.0,15.9,2.0,0,0,Real Betis
+2024-04-28,21:00,La Liga,Matchweek 33,Sun,Home,D,1,1,Sevilla,1.8,1.4,50.0,55770.0,Germán Pezzella,4-2-3-1,José Sánchez,Match Report,,14.0,3.0,17.1,0.0,1,1,Real Betis
+2024-05-05,14:00,La Liga,Matchweek 34,Sun,Away,W,2,0,Osasuna,1.1,0.8,58.0,18300.0,Nabil Fekir,4-2-3-1,Víctor García,Match Report,,10.0,4.0,16.5,0.0,0,0,Real Betis
+2024-05-12,21:00,La Liga,Matchweek 35,Sun,Home,W,3,2,Almería,0.8,1.2,48.0,48622.0,Guido Rodríguez,4-2-3-1,Alejandro Muñíz,Match Report,,14.0,7.0,18.5,0.0,0,0,Real Betis
+2024-05-16,18:30,La Liga,Matchweek 36,Thu,Away,D,2,2,Las Palmas,1.3,2.3,43.0,22606.0,Guido Rodríguez,4-2-3-1,Javier Villanueva,Match Report,,6.0,4.0,16.2,1.0,0,0,Real Betis
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,L,0,2,Real Sociedad,1.7,0.4,67.0,58036.0,Nabil Fekir,4-2-3-1,Juan Martínez,Match Report,,17.0,8.0,18.5,0.0,0,1,Real Betis
+2024-05-25,21:00,La Liga,Matchweek 38,Sat,Away,D,0,0,Real Madrid,0.7,1.0,41.0,73614.0,Juan Miranda,4-4-1-1,Isidro Díaz de Mera,Match Report,,11.0,3.0,18.8,0.0,0,0,Real Betis
+2023-08-13,19:30,La Liga,Matchweek 1,Sun,Home,L,1,2,Betis,0.9,1.1,63.0,17825.0,Gerard Moreno,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,18.0,5.0,16.6,0.0,0,0,Villarreal
+2023-08-18,19:30,La Liga,Matchweek 2,Fri,Away,W,1,0,Mallorca,1.8,0.4,60.0,17775.0,Gerard Moreno,4-3-3,Javier Alberola,Match Report,,15.0,3.0,15.3,0.0,0,0,Villarreal
+2023-08-27,17:30,La Liga,Matchweek 3,Sun,Home,L,3,4,Barcelona,1.9,3.1,40.0,21679.0,Gerard Moreno,4-4-2,Alejandro Hernández,Match Report,,13.0,6.0,16.2,1.0,0,0,Villarreal
+2023-09-01,19:30,La Liga,Matchweek 4,Fri,Away,L,1,3,Cádiz,0.3,2.1,57.0,18557.0,Raúl Albiol,4-3-3,Juan Pulido,Match Report,,7.0,3.0,19.8,0.0,0,0,Villarreal
+2023-09-17,16:15,La Liga,Matchweek 5,Sun,Home,W,2,1,Almería,0.9,1.5,62.0,18467.0,Raúl Albiol,4-2-3-1,Francisco Hernández,Match Report,,10.0,4.0,11.8,0.0,0,0,Villarreal
+2023-09-21,19:45,Europa Lg,Group stage,Thu,Away,L,0,2,gr Panathinaikos,0.3,0.9,57.0,57003.0,Manu Trigueros,4-2-3-1,Craig Pawson,Match Report,,4.0,1.0,17.2,0.0,0,0,Villarreal
+2023-09-24,16:15,La Liga,Matchweek 6,Sun,Away,D,1,1,Rayo Vallecano,1.6,1.2,58.0,12865.0,Raúl Albiol,4-4-2,Jorge Figueroa,Match Report,,13.0,6.0,15.2,0.0,0,0,Villarreal
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Home,L,1,2,Girona,1.8,2.1,53.0,17188.0,Raúl Albiol,4-4-2,José Sánchez,Match Report,,13.0,2.0,17.3,0.0,1,1,Villarreal
+2023-09-30,14:00,La Liga,Matchweek 8,Sat,Away,D,0,0,Getafe,0.1,0.9,36.0,11255.0,Raúl Albiol,4-4-2,Mateo Busquets,Match Report,,3.0,0.0,13.9,0.0,0,0,Villarreal
+2023-10-05,21:00,Europa Lg,Group stage,Thu,Home,W,1,0,fr Rennes,0.3,1.9,48.0,17458.0,Manu Trigueros,4-2-3-1,Harald Lechner,Match Report,,7.0,2.0,20.9,1.0,0,0,Villarreal
+2023-10-08,14:00,La Liga,Matchweek 9,Sun,Home,L,1,2,Las Palmas,1.0,1.1,49.0,16249.0,Raúl Albiol,4-2-3-1,Alejandro Muñíz,Match Report,,9.0,4.0,13.2,0.0,0,0,Villarreal
+2023-10-22,18:30,La Liga,Matchweek 10,Sun,Home,D,1,1,Alavés,1.5,1.7,68.0,17498.0,Raúl Albiol,3-1-4-2,Jesús Gil,Match Report,,11.0,2.0,16.6,0.0,1,1,Villarreal
+2023-10-30,21:00,La Liga,Matchweek 11,Mon,Away,W,3,2,Granada,1.6,2.1,54.0,16638.0,Raúl Albiol,4-4-2,Javier Villanueva,Match Report,,5.0,4.0,16.3,0.0,1,1,Villarreal
+2023-11-02,19:00,Copa del Rey,First round,Thu,Away,W,5,0,Chiclana,,,76.0,5520.0,Manu Trigueros,4-2-3-1,Juan Pulido,Match Report,,19.0,13.0,,,1,1,Villarreal
+2023-11-05,18:30,La Liga,Matchweek 12,Sun,Home,L,2,3,Athletic Club,2.1,2.3,58.0,18709.0,Raúl Albiol,4-4-2,Guillermo Cuadra,Match Report,,17.0,6.0,16.3,0.0,0,0,Villarreal
+2023-11-09,19:45,Europa Lg,Group stage,Thu,Away,W,2,1,il Maccabi Haifa,3.4,1.7,64.0,,Manu Trigueros,4-2-3-1,Mykola Balakin,Match Report,,23.0,8.0,17.3,0.0,0,1,Villarreal
+2023-11-12,21:00,La Liga,Matchweek 13,Sun,Away,L,1,3,Atlético Madrid,0.8,3.9,50.0,56632.0,Raúl Albiol,4-4-2,Francisco Hernández,Match Report,,11.0,7.0,15.8,0.0,0,0,Villarreal
+2023-11-22,21:00,Copa del Rey,Second round,Wed,Away,W,2,1,Zamora,,,70.0,4600.0,Raúl Albiol,4-4-2,Miguel Ángel Ortiz Arias,Match Report,Required Extra Time,32.0,8.0,,,0,0,Villarreal
+2023-11-26,14:00,La Liga,Matchweek 14,Sun,Home,W,3,1,Osasuna,2.4,1.0,45.0,16389.0,Raúl Albiol,4-4-2,Ricardo de Burgos,Match Report,,10.0,3.0,10.6,0.0,0,0,Villarreal
+2023-11-30,21:00,Europa Lg,Group stage,Thu,Home,W,3,2,gr Panathinaikos,1.7,2.1,55.0,16993.0,Raúl Albiol,4-4-2,Ivan Kružliak,Match Report,,11.0,9.0,15.8,0.0,0,0,Villarreal
+2023-12-03,18:30,La Liga,Matchweek 15,Sun,Away,D,1,1,Sevilla,1.2,1.8,43.0,33898.0,Raúl Albiol,4-4-2,Isidro Díaz de Mera,Match Report,,5.0,4.0,14.9,0.0,0,0,Villarreal
+2023-12-06,21:00,Europa Lg,Group stage,Wed,Home,D,0,0,il Maccabi Haifa,0.6,0.2,64.0,9365.0,Manu Trigueros,4-4-2,Nick Walsh,Match Report,,16.0,5.0,19.0,0.0,0,0,Villarreal
+2023-12-09,18:30,La Liga,Matchweek 16,Sat,Home,L,0,3,Real Sociedad,2.2,1.5,53.0,19344.0,Raúl Albiol,4-4-2,Mario Melero,Match Report,,20.0,4.0,16.9,0.0,0,0,Villarreal
+2023-12-14,18:45,Europa Lg,Group stage,Thu,Away,W,3,2,fr Rennes,2.3,0.6,46.0,27761.0,Raúl Albiol,4-4-2,Atilla Karaoğlan,Match Report,,12.0,4.0,16.3,1.0,1,1,Villarreal
+2023-12-17,21:00,La Liga,Matchweek 17,Sun,Away,L,1,4,Real Madrid,0.8,2.3,40.0,70500.0,Raúl Albiol,4-4-2,Jorge Figueroa,Match Report,,3.0,1.0,18.0,0.0,0,0,Villarreal
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Home,W,3,2,Celta Vigo,2.4,1.3,49.0,14687.0,Raúl Albiol,4-4-2,César Soto,Match Report,,11.0,7.0,12.8,0.0,1,1,Villarreal
+2024-01-02,21:30,La Liga,Matchweek 19,Tue,Away,L,1,3,Valencia,0.5,2.8,54.0,44973.0,Raúl Albiol,4-3-3,Jesús Gil,Match Report,,8.0,4.0,15.8,0.0,0,0,Villarreal
+2024-01-08,16:30,Copa del Rey,Round of 32,Mon,Away,D,1 (6),1 (7),Unionistas Sal,,,57.0,5700.0,Gerard Moreno,4-2-3-1,Mateo Busquets,Match Report,Unionistas Sal won on penalty kicks following extra time,13.0,4.0,,,0,0,Villarreal
+2024-01-13,13:00,La Liga,Matchweek 20,Sat,Away,L,0,3,Las Palmas,2.0,0.8,46.0,24485.0,Gerard Moreno,4-4-2,Javier Villanueva,Match Report,,17.0,3.0,15.7,2.0,0,0,Villarreal
+2024-01-20,16:15,La Liga,Matchweek 21,Sat,Home,D,1,1,Mallorca,1.9,0.4,51.0,16479.0,Gerard Moreno,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,18.0,5.0,19.2,2.0,0,0,Villarreal
+2024-01-27,18:30,La Liga,Matchweek 22,Sat,Away,W,5,3,Barcelona,2.1,2.2,30.0,46229.0,Gerard Moreno,4-4-2,José Luis Munuera,Match Report,,9.0,6.0,13.5,0.0,0,0,Villarreal
+2024-02-04,14:00,La Liga,Matchweek 23,Sun,Home,D,0,0,Cádiz,1.2,0.7,59.0,17183.0,Raúl Albiol,4-4-2,Pablo González,Match Report,,19.0,4.0,18.9,1.0,0,0,Villarreal
+2024-02-10,14:00,La Liga,Matchweek 24,Sat,Away,D,1,1,Alavés,1.2,1.8,49.0,14523.0,Raúl Albiol,4-4-2,Mario Melero,Match Report,,13.0,3.0,16.1,0.0,0,0,Villarreal
+2024-02-16,21:00,La Liga,Matchweek 25,Fri,Home,D,1,1,Getafe,1.2,0.8,55.0,16869.0,Raúl Albiol,4-4-2,Javier Alberola,Match Report,,20.0,7.0,18.2,1.0,0,0,Villarreal
+2024-02-23,21:00,La Liga,Matchweek 26,Fri,Away,W,3,1,Real Sociedad,1.0,1.5,30.0,30609.0,Raúl Albiol,4-4-2,Javier Villanueva,Match Report,,6.0,4.0,11.8,0.0,0,0,Villarreal
+2024-03-03,14:00,La Liga,Matchweek 27,Sun,Home,W,5,1,Granada,2.0,0.5,48.0,15896.0,Gerard Moreno,4-4-2,Juan Pulido,Match Report,,16.0,10.0,17.6,1.0,0,0,Villarreal
+2024-03-07,21:00,Europa Lg,Round of 16,Thu,Away,L,0,4,fr Marseille,0.3,3.0,40.0,53396.0,Gerard Moreno,4-4-2,Serdar Gözübüyük,Match Report,Leg 1 of 2,5.0,0.0,13.8,1.0,0,0,Villarreal
+2024-03-10,21:00,La Liga,Matchweek 28,Sun,Away,W,3,2,Betis,1.4,1.0,46.0,47711.0,Gerard Moreno,4-4-2,Alejandro Hernández,Match Report,,6.0,4.0,11.0,0.0,0,0,Villarreal
+2024-03-14,18:45,Europa Lg,Round of 16,Thu,Home,W,3,1,fr Marseille,1.9,1.6,64.0,15378.0,Gerard Moreno,4-3-3,István Kovács,Match Report,Leg 2 of 2; Marseille won,25.0,8.0,15.6,0.0,0,0,Villarreal
+2024-03-17,16:15,La Liga,Matchweek 29,Sun,Home,W,1,0,Valencia,2.0,1.1,52.0,20647.0,Francis Coquelin,4-4-2,Jorge Figueroa,Match Report,,12.0,6.0,12.3,0.0,0,1,Villarreal
+2024-04-01,21:00,La Liga,Matchweek 30,Mon,Home,L,1,2,Atlético Madrid,0.8,1.3,52.0,19679.0,Raúl Albiol,4-3-3,Mario Melero,Match Report,,11.0,2.0,16.6,0.0,0,0,Villarreal
+2024-04-14,18:30,La Liga,Matchweek 31,Sun,Away,D,1,1,Athletic Club,2.1,0.7,47.0,50061.0,Raúl Albiol,4-4-2,Guillermo Cuadra,Match Report,,8.0,1.0,19.3,0.0,1,2,Villarreal
+2024-04-21,16:15,La Liga,Matchweek 32,Sun,Away,W,2,1,Almería,1.6,1.8,43.0,10601.0,Gerard Moreno,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,3.0,17.4,0.0,0,0,Villarreal
+2024-04-28,18:30,La Liga,Matchweek 33,Sun,Home,W,3,0,Rayo Vallecano,1.4,1.0,46.0,17869.0,Raúl Albiol,4-4-2,Pablo González,Match Report,,15.0,7.0,16.9,0.0,0,0,Villarreal
+2024-05-05,16:15,La Liga,Matchweek 34,Sun,Away,L,2,3,Celta Vigo,0.6,3.9,47.0,19548.0,Raúl Albiol,4-4-2,César Soto,Match Report,,11.0,3.0,19.6,0.0,0,0,Villarreal
+2024-05-11,16:15,La Liga,Matchweek 35,Sat,Home,W,3,2,Sevilla,3.1,1.7,59.0,16862.0,Daniel Parejo,4-4-2,Isidro Díaz de Mera,Match Report,,25.0,7.0,15.7,0.0,0,0,Villarreal
+2024-05-14,22:00,La Liga,Matchweek 36,Tue,Away,W,1,0,Girona,0.6,1.6,33.0,11440.0,Daniel Parejo,4-4-2,José Sánchez,Match Report,,11.0,3.0,19.2,0.0,0,0,Villarreal
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,D,4,4,Real Madrid,1.7,1.0,43.0,21671.0,Gerard Moreno,4-4-2,Alejandro Hernández,Match Report,,21.0,7.0,15.6,0.0,0,0,Villarreal
+2024-05-25,14:00,La Liga,Matchweek 38,Sat,Away,D,1,1,Osasuna,1.6,0.9,57.0,18385.0,Manu Trigueros,4-4-2,Mario Melero,Match Report,,11.0,3.0,17.3,0.0,0,0,Villarreal
+2023-08-11,22:00,La Liga,Matchweek 1,Fri,Away,W,2,1,Sevilla,1.1,0.7,45.0,34184.0,José Luis Gayà,4-4-2,José Sánchez,Match Report,,10.0,3.0,16.0,1.0,0,0,Valencia
+2023-08-18,21:30,La Liga,Matchweek 2,Fri,Home,W,1,0,Las Palmas,1.5,0.5,39.0,41053.0,José Luis Gayà,4-4-2,Javier Villanueva,Match Report,,8.0,3.0,17.3,0.0,1,1,Valencia
+2023-08-27,19:30,La Liga,Matchweek 3,Sun,Home,L,1,2,Osasuna,1.7,1.2,64.0,42474.0,José Luis Gayà,4-4-2,Juan Pulido,Match Report,,16.0,4.0,15.6,0.0,0,0,Valencia
+2023-09-02,18:30,La Liga,Matchweek 4,Sat,Away,L,0,1,Alavés,0.8,1.3,60.0,16641.0,José Luis Gayà,4-4-2,Pablo González,Match Report,,9.0,4.0,18.0,0.0,0,0,Valencia
+2023-09-16,16:15,La Liga,Matchweek 5,Sat,Home,W,3,0,Atlético Madrid,1.3,0.6,37.0,45363.0,José Luis Gayà,4-2-3-1,Jesús Gil,Match Report,,12.0,8.0,16.2,1.0,0,0,Valencia
+2023-09-23,21:00,La Liga,Matchweek 6,Sat,Away,D,2,2,Almería,0.8,2.6,39.0,14266.0,José Luis Gayà,4-2-3-1,Mateo Busquets,Match Report,,7.0,5.0,19.0,0.0,0,0,Valencia
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Home,L,0,1,Real Sociedad,0.4,0.2,38.0,44200.0,José Luis Gayà,4-2-3-1,Alejandro Hernández,Match Report,,9.0,2.0,27.2,2.0,0,0,Valencia
+2023-10-01,21:00,La Liga,Matchweek 8,Sun,Away,L,0,3,Betis,0.7,1.6,45.0,50163.0,Gabriel Paulista,4-2-3-1,Ricardo de Burgos,Match Report,,9.0,2.0,19.2,0.0,0,0,Valencia
+2023-10-07,18:30,La Liga,Matchweek 9,Sat,Away,D,1,1,Mallorca,0.5,0.6,51.0,17659.0,Gabriel Paulista,4-4-2,Francisco Hernández,Match Report,,11.0,3.0,24.6,2.0,0,0,Valencia
+2023-10-23,21:00,La Liga,Matchweek 10,Mon,Home,W,2,0,Cádiz,1.5,0.6,61.0,41647.0,José Luis Gayà,4-2-3-1,Pablo González,Match Report,,12.0,4.0,16.8,1.0,0,0,Valencia
+2023-10-29,18:30,La Liga,Matchweek 11,Sun,Away,D,2,2,Athletic Club,1.9,1.9,43.0,46563.0,José Luis Gayà,4-4-2,Jorge Figueroa,Match Report,,11.0,4.0,14.7,0.0,0,0,Valencia
+2023-11-02,20:00,Copa del Rey,First round,Thu,Away,W,2,0,UD Logroñés,,,52.0,8010.0,Jaume Doménech,4-3-3,Javier Villanueva,Match Report,,14.0,4.0,,,0,0,Valencia
+2023-11-05,16:15,La Liga,Matchweek 12,Sun,Home,W,1,0,Granada,1.2,0.5,51.0,44922.0,José Luis Gayà,4-4-2,Víctor García,Match Report,,10.0,1.0,25.1,1.0,1,1,Valencia
+2023-11-11,21:00,La Liga,Matchweek 13,Sat,Away,L,1,5,Real Madrid,1.7,1.7,44.0,72475.0,José Luis Gayà,4-2-3-1,José Sánchez,Match Report,,10.0,4.0,16.3,0.0,0,0,Valencia
+2023-11-25,16:15,La Liga,Matchweek 14,Sat,Home,D,0,0,Celta Vigo,0.5,0.8,55.0,43375.0,José Luis Gayà,4-4-2,César Soto,Match Report,,8.0,0.0,15.7,1.0,0,0,Valencia
+2023-12-02,14:00,La Liga,Matchweek 15,Sat,Away,L,1,2,Girona,1.0,1.6,25.0,13343.0,Gabriel Paulista,4-4-2,Javier Villanueva,Match Report,,9.0,3.0,16.7,0.0,0,0,Valencia
+2023-12-05,21:00,Copa del Rey,Second round,Tue,Away,W,1,0,Arosa,,,61.0,4253.0,Jaume Doménech,4-2-3-1,Isidro Díaz de Mera,Match Report,,9.0,4.0,,,0,0,Valencia
+2023-12-08,21:00,La Liga,Matchweek 16,Fri,Away,L,0,1,Getafe,0.1,0.7,33.0,11515.0,Gabriel Paulista,4-4-2,Guillermo Cuadra,Match Report,,3.0,0.0,22.4,1.0,0,0,Valencia
+2023-12-16,21:00,La Liga,Matchweek 17,Sat,Home,D,1,1,Barcelona,0.5,3.2,37.0,46492.0,Mouctar Diakhaby,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,4.0,20.1,1.0,0,0,Valencia
+2023-12-19,19:00,La Liga,Matchweek 18,Tue,Away,W,1,0,Rayo Vallecano,0.3,0.3,41.0,12290.0,Mouctar Diakhaby,4-4-2,Javier Alberola,Match Report,,8.0,3.0,22.8,0.0,0,0,Valencia
+2024-01-02,21:30,La Liga,Matchweek 19,Tue,Home,W,3,1,Villarreal,2.8,0.5,46.0,44973.0,José Luis Gayà,4-4-2,Jesús Gil,Match Report,,9.0,6.0,19.8,1.0,2,2,Valencia
+2024-01-07,19:00,Copa del Rey,Round of 32,Sun,Away,W,2,1,Cartagena,,,70.0,8000.0,Jaume Doménech,4-2-3-1,Jorge Figueroa,Match Report,Required Extra Time,17.0,4.0,,,0,0,Valencia
+2024-01-14,16:15,La Liga,Matchweek 20,Sun,Away,W,4,1,Cádiz,1.9,1.1,43.0,18622.0,José Luis Gayà,4-4-2,Isidro Díaz de Mera,Match Report,,9.0,5.0,20.5,0.0,0,0,Valencia
+2024-01-17,11:00,Copa del Rey,Round of 16,Wed,Home,L,1,3,Celta Vigo,,,63.0,44456.0,Jaume Doménech,4-4-2,Ricardo de Burgos,Match Report,,20.0,5.0,,,1,1,Valencia
+2024-01-20,18:30,La Liga,Matchweek 21,Sat,Home,W,1,0,Athletic Club,0.9,0.5,40.0,45344.0,José Luis Gayà,4-4-2,Juan Pulido,Match Report,,6.0,1.0,12.6,0.0,0,0,Valencia
+2024-01-28,21:00,La Liga,Matchweek 22,Sun,Away,L,0,2,Atlético Madrid,0.5,2.4,46.0,59493.0,José Luis Gayà,4-2-3-1,Ricardo de Burgos,Match Report,,10.0,3.0,18.7,1.0,0,0,Valencia
+2024-02-03,14:00,La Liga,Matchweek 23,Sat,Home,W,2,1,Almería,1.4,1.9,48.0,42877.0,José Luis Gayà,4-4-2,Alejandro Muñíz,Match Report,,6.0,2.0,19.1,0.0,0,1,Valencia
+2024-02-10,20:00,La Liga,Matchweek 24,Sat,Away,L,0,2,Las Palmas,0.5,1.3,28.0,25633.0,José Luis Gayà,4-4-2,Guillermo Cuadra,Match Report,,7.0,1.0,34.4,0.0,0,0,Valencia
+2024-02-17,21:00,La Liga,Matchweek 25,Sat,Home,D,0,0,Sevilla,1.0,0.0,54.0,44506.0,José Luis Gayà,4-4-2,César Soto,Match Report,,14.0,4.0,18.7,0.0,0,0,Valencia
+2024-03-02,21:00,La Liga,Matchweek 27,Sat,Home,D,2,2,Real Madrid,1.1,2.2,30.0,47427.0,José Luis Gayà,4-4-2,Jesús Gil,Match Report,,12.0,5.0,20.4,1.0,0,0,Valencia
+2024-03-09,14:00,La Liga,Matchweek 28,Sat,Home,W,1,0,Getafe,0.8,1.3,51.0,37961.0,José Luis Gayà,4-4-2,Juan Pulido,Match Report,,10.0,3.0,17.5,0.0,0,0,Valencia
+2024-03-17,16:15,La Liga,Matchweek 29,Sun,Away,L,0,1,Villarreal,1.1,2.0,48.0,20647.0,José Luis Gayà,4-4-2,Jorge Figueroa,Match Report,,14.0,7.0,17.7,0.0,0,0,Valencia
+2024-03-30,18:30,La Liga,Matchweek 30,Sat,Home,D,0,0,Mallorca,1.5,0.9,53.0,42567.0,Thierry Correia,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,14.0,4.0,16.6,1.0,0,0,Valencia
+2024-04-04,20:00,La Liga,Matchweek 26,Thu,Away,W,1,0,Granada,0.4,0.6,43.0,15107.0,Thierry Correia,4-4-2,Alejandro Hernández,Match Report,,6.0,2.0,13.8,0.0,0,0,Valencia
+2024-04-15,21:00,La Liga,Matchweek 31,Mon,Away,W,1,0,Osasuna,0.2,1.9,35.0,19480.0,Giorgi Mamardashvili,4-4-2,José Luis Munuera,Match Report,,4.0,3.0,17.9,0.0,0,0,Valencia
+2024-04-20,18:30,La Liga,Matchweek 32,Sat,Home,L,1,2,Betis,1.1,1.3,54.0,46371.0,Thierry Correia,4-4-2,Mateo Busquets,Match Report,,7.0,4.0,19.2,0.0,1,1,Valencia
+2024-04-29,21:00,La Liga,Matchweek 33,Mon,Away,L,2,4,Barcelona,2.1,2.2,20.0,30167.0,Thierry Correia,4-4-2,Ricardo de Burgos,Match Report,,4.0,2.0,19.2,0.0,1,1,Valencia
+2024-05-05,18:30,La Liga,Matchweek 34,Sun,Home,L,0,1,Alavés,0.9,0.8,58.0,44643.0,Jaume Doménech,4-4-2,Mario Melero,Match Report,,13.0,1.0,17.0,1.0,0,0,Valencia
+2024-05-12,18:30,La Liga,Matchweek 35,Sun,Home,D,0,0,Rayo Vallecano,1.3,0.6,51.0,42642.0,Thierry Correia,4-2-3-1,Juan Pulido,Match Report,,13.0,5.0,16.0,0.0,0,0,Valencia
+2024-05-16,22:00,La Liga,Matchweek 36,Thu,Away,L,0,1,Real Sociedad,0.8,1.3,43.0,25067.0,Thierry Correia,4-4-2,César Soto,Match Report,,7.0,3.0,17.8,0.0,0,0,Valencia
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,L,1,3,Girona,3.2,2.6,37.0,36138.0,Giorgi Mamardashvili,4-4-2,Guillermo Cuadra,Match Report,,19.0,5.0,19.5,0.0,1,1,Valencia
+2024-05-26,16:15,La Liga,Matchweek 38,Sun,Away,D,2,2,Celta Vigo,2.0,1.5,46.0,21878.0,Thierry Correia,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,0.0,16.6,0.0,1,1,Valencia
+2023-08-14,19:30,La Liga,Matchweek 1,Mon,Away,L,0,1,Cádiz,0.3,0.7,55.0,19306.0,Rubén Duarte,5-4-1,Isidro Díaz de Mera,Match Report,,10.0,2.0,22.1,0.0,0,0,Alaves
+2023-08-21,19:00,La Liga,Matchweek 2,Mon,Home,W,4,3,Sevilla,1.8,0.6,34.0,15308.0,Rubén Duarte,4-4-2,Guillermo Cuadra,Match Report,,14.0,7.0,16.1,1.0,0,0,Alaves
+2023-08-28,19:30,La Liga,Matchweek 3,Mon,Away,L,0,1,Getafe,0.7,2.2,53.0,11023.0,Rubén Duarte,4-3-3,Juan Martínez,Match Report,,16.0,1.0,18.9,0.0,0,0,Alaves
+2023-09-02,18:30,La Liga,Matchweek 4,Sat,Home,W,1,0,Valencia,1.3,0.8,40.0,16641.0,Rubén Duarte,4-2-3-1,Pablo González,Match Report,,6.0,0.0,15.9,0.0,0,1,Alaves
+2023-09-15,21:00,La Liga,Matchweek 5,Fri,Away,L,0,2,Rayo Vallecano,0.7,2.6,49.0,12116.0,Rubén Duarte,4-2-3-1,Víctor García,Match Report,,9.0,1.0,16.1,1.0,0,0,Alaves
+2023-09-22,21:00,La Liga,Matchweek 6,Fri,Home,L,0,2,Athletic Club,1.1,1.7,44.0,19421.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,Match Report,,15.0,5.0,15.4,0.0,0,0,Alaves
+2023-09-28,19:00,La Liga,Matchweek 7,Thu,Away,D,1,1,Celta Vigo,2.6,0.6,54.0,16852.0,Ander Guevara,4-2-3-1,César Soto,Match Report,,21.0,9.0,14.9,1.0,0,0,Alaves
+2023-10-01,16:15,La Liga,Matchweek 8,Sun,Home,L,0,2,Osasuna,1.5,1.1,46.0,19035.0,Rubén Duarte,4-2-3-1,Jorge Figueroa,Match Report,,17.0,3.0,18.7,1.0,0,0,Alaves
+2023-10-08,18:30,La Liga,Matchweek 9,Sun,Home,D,1,1,Betis,1.3,0.9,40.0,18288.0,Luis Rioja,4-2-3-1,Alejandro Hernández,Match Report,,15.0,5.0,16.7,2.0,0,0,Alaves
+2023-10-22,18:30,La Liga,Matchweek 10,Sun,Away,D,1,1,Villarreal,1.7,1.5,32.0,17498.0,Rubén Duarte,4-2-3-1,Jesús Gil,Match Report,,16.0,7.0,21.1,1.0,0,0,Alaves
+2023-10-29,21:00,La Liga,Matchweek 11,Sun,Away,L,1,2,Atlético Madrid,0.5,1.3,37.0,50009.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,Match Report,,8.0,1.0,17.4,0.0,0,0,Alaves
+2023-11-02,21:00,Copa del Rey,First round,Thu,Away,W,10,0,Deportivo Murcia,,,63.0,2500.0,Rubén Duarte,4-2-3-1,José Luis Munuera,Match Report,,29.0,16.0,,,0,0,Alaves
+2023-11-05,14:00,La Liga,Matchweek 12,Sun,Home,W,1,0,Almería,2.4,0.5,56.0,16380.0,Luis Rioja,4-2-3-1,Juan Pulido,Match Report,,22.0,3.0,16.4,0.0,0,1,Alaves
+2023-11-12,16:15,La Liga,Matchweek 13,Sun,Away,L,1,2,Barcelona,1.7,1.6,29.0,38183.0,Rubén Duarte,5-4-1,Mateo Busquets,Match Report,,8.0,1.0,14.0,0.0,0,0,Alaves
+2023-11-24,21:00,La Liga,Matchweek 14,Fri,Home,W,3,1,Granada,0.8,1.1,43.0,15705.0,Luis Rioja,4-2-3-1,Javier Alberola,Match Report,,8.0,5.0,18.6,0.0,0,0,Alaves
+2023-12-03,14:00,La Liga,Matchweek 15,Sun,Away,D,0,0,Mallorca,0.3,0.8,37.0,15090.0,Luis Rioja,4-2-3-1,Jorge Figueroa,Match Report,,7.0,4.0,23.6,1.0,0,0,Alaves
+2023-12-06,16:00,Copa del Rey,Second round,Wed,Away,W,1,0,Terrassa,,,45.0,7000.0,Rubén Duarte,4-2-3-1,Jesús Gil,Match Report,,20.0,6.0,,,0,0,Alaves
+2023-12-09,14:00,La Liga,Matchweek 16,Sat,Home,L,0,1,Las Palmas,1.9,0.4,41.0,15971.0,Luis Rioja,4-4-1-1,José Luis Munuera,Match Report,,19.0,3.0,16.9,1.0,0,0,Alaves
+2023-12-18,21:00,La Liga,Matchweek 17,Mon,Away,L,0,3,Girona,0.7,1.7,34.0,11812.0,Rubén Duarte,3-4-3,Francisco Hernández,Match Report,,12.0,2.0,21.5,0.0,0,0,Alaves
+2023-12-21,21:30,La Liga,Matchweek 18,Thu,Home,L,0,1,Real Madrid,0.6,0.6,40.0,19275.0,Rubén Duarte,4-2-3-1,Isidro Díaz de Mera,Match Report,,8.0,2.0,15.3,0.0,0,0,Alaves
+2024-01-02,19:15,La Liga,Matchweek 19,Tue,Away,D,1,1,Real Sociedad,1.0,1.2,47.0,34051.0,Luis Rioja,4-2-3-1,Víctor García,Match Report,,6.0,1.0,23.6,1.0,1,1,Alaves
+2024-01-06,20:00,Copa del Rey,Round of 32,Sat,Home,W,1,0,Betis,,,40.0,13567.0,Rubén Duarte,4-2-3-1,Javier Villanueva,Match Report,,17.0,2.0,,,0,0,Alaves
+2024-01-12,21:00,La Liga,Matchweek 20,Fri,Away,W,3,2,Sevilla,2.0,2.2,32.0,34225.0,Luis Rioja,4-2-3-1,Alejandro Hernández,Match Report,,16.0,8.0,14.8,0.0,0,0,Alaves
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Away,L,0,2,Athletic Club,,,36.0,45233.0,Rubén Duarte,4-4-2,César Soto,Match Report,,8.0,3.0,,,0,0,Alaves
+2024-01-19,21:00,La Liga,Matchweek 21,Fri,Home,W,1,0,Cádiz,2.0,0.3,49.0,15838.0,Rubén Duarte,4-2-3-1,Alejandro Muñíz,Match Report,,12.0,2.0,18.1,1.0,1,1,Alaves
+2024-01-26,21:00,La Liga,Matchweek 22,Fri,Away,W,3,0,Almería,1.8,1.4,36.0,13817.0,Rubén Duarte,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,10.0,2.0,17.8,0.0,1,1,Alaves
+2024-02-03,18:30,La Liga,Matchweek 23,Sat,Home,L,1,3,Barcelona,1.0,1.2,36.0,19480.0,Rubén Duarte,4-2-3-1,Juan Martínez,Match Report,,13.0,2.0,15.1,0.0,0,0,Alaves
+2024-02-10,14:00,La Liga,Matchweek 24,Sat,Home,D,1,1,Villarreal,1.8,1.2,51.0,14523.0,Luis Rioja,4-2-3-1,Mario Melero,Match Report,,17.0,4.0,15.4,0.0,0,0,Alaves
+2024-02-18,21:00,La Liga,Matchweek 25,Sun,Away,D,0,0,Betis,0.5,0.8,38.0,43514.0,Rubén Duarte,4-2-3-1,Mateo Busquets,Match Report,,13.0,4.0,22.9,2.0,0,0,Alaves
+2024-02-24,18:30,La Liga,Matchweek 26,Sat,Home,D,1,1,Mallorca,0.5,2.2,52.0,16102.0,Luis Rioja,4-2-3-1,Víctor García,Match Report,,9.0,1.0,17.1,1.0,0,0,Alaves
+2024-03-04,21:00,La Liga,Matchweek 27,Mon,Away,L,0,1,Osasuna,1.0,1.0,45.0,17215.0,Luis Rioja,4-3-3,Jorge Figueroa,Match Report,,10.0,4.0,14.5,0.0,0,0,Alaves
+2024-03-10,14:00,La Liga,Matchweek 28,Sun,Home,W,1,0,Rayo Vallecano,0.6,0.6,34.0,16519.0,Luis Rioja,4-2-3-1,José Luis Munuera,Match Report,,12.0,4.0,20.9,0.0,0,0,Alaves
+2024-03-16,21:00,La Liga,Matchweek 29,Sat,Away,L,0,2,Athletic Club,1.3,1.7,41.0,48257.0,Luis Rioja,4-2-3-1,Alejandro Muñíz,Match Report,,6.0,2.0,21.7,0.0,0,1,Alaves
+2024-03-31,18:30,La Liga,Matchweek 30,Sun,Home,L,0,1,Real Sociedad,0.3,0.9,41.0,18575.0,Luis Rioja,4-2-3-1,Francisco Hernández,Match Report,,3.0,0.0,18.6,0.0,0,0,Alaves
+2024-04-14,16:15,La Liga,Matchweek 31,Sun,Away,L,0,2,Granada,0.3,1.3,62.0,13398.0,Rubén Duarte,4-2-3-1,Víctor García,Match Report,,8.0,3.0,21.0,0.0,0,0,Alaves
+2024-04-21,18:30,La Liga,Matchweek 32,Sun,Home,W,2,0,Atlético Madrid,0.4,0.9,32.0,18719.0,Carlos Benavídez,4-2-3-1,Jesús Gil,Match Report,,8.0,3.0,21.0,0.0,0,0,Alaves
+2024-04-27,18:30,La Liga,Matchweek 33,Sat,Home,W,3,0,Celta Vigo,2.3,0.2,38.0,18039.0,Rubén Duarte,4-2-3-1,Juan Pulido,Match Report,,16.0,8.0,12.1,0.0,0,0,Alaves
+2024-05-05,18:30,La Liga,Matchweek 34,Sun,Away,W,1,0,Valencia,0.8,0.9,42.0,44643.0,Carlos Benavídez,4-2-3-1,Mario Melero,Match Report,,14.0,4.0,19.9,0.0,0,0,Alaves
+2024-05-10,21:00,La Liga,Matchweek 35,Fri,Home,D,2,2,Girona,1.7,1.7,36.0,17906.0,Carlos Benavídez,4-2-3-1,José Luis Munuera,Match Report,,14.0,8.0,12.6,0.0,0,0,Alaves
+2024-05-14,21:30,La Liga,Matchweek 36,Tue,Away,L,0,5,Real Madrid,1.3,2.5,29.0,68954.0,Rubén Duarte,4-2-3-1,Mateo Busquets,Match Report,,18.0,10.0,21.4,0.0,0,0,Alaves
+2024-05-18,21:00,La Liga,Matchweek 37,Sat,Home,W,1,0,Getafe,1.2,0.3,48.0,18709.0,Rubén Duarte,4-2-3-1,Jorge Figueroa,Match Report,,9.0,2.0,10.4,0.0,0,0,Alaves
+2024-05-26,15:15,La Liga,Matchweek 38,Sun,Away,D,1,1,Las Palmas,2.5,1.0,35.0,23043.0,Rubén Duarte,4-2-3-1,Francisco Hernández,Match Report,,13.0,3.0,22.1,1.0,0,1,Alaves
+2023-08-13,17:00,La Liga,Matchweek 1,Sun,Away,W,2,0,Celta Vigo,1.0,1.0,47.0,20269.0,David García,4-3-3,Pablo González,Match Report,,11.0,5.0,15.7,1.0,0,0,Osasuna
+2023-08-19,21:30,La Liga,Matchweek 2,Sat,Home,L,0,2,Athletic Club,1.3,1.5,63.0,20704.0,David García,4-3-3,José Luis Munuera,Match Report,,18.0,7.0,17.8,2.0,0,0,Osasuna
+2023-08-24,20:30,Conf Lg,Play-off round,Thu,Home,L,1,2,be Club Brugge,,,,21985.0,David García,4-3-3,Benoît Millot,Match Report,Leg 1 of 2,,,,,0,0,Osasuna
+2023-08-27,19:30,La Liga,Matchweek 3,Sun,Away,W,2,1,Valencia,1.2,1.7,36.0,42474.0,David García,4-3-3,Juan Pulido,Match Report,,6.0,1.0,13.8,0.0,1,1,Osasuna
+2023-08-31,20:30,Conf Lg,Play-off round,Thu,Away,D,2,2,be Club Brugge,,,,24206.0,David García,4-3-3,Daniel Stefański,Match Report,Leg 2 of 2; Club Brugge won,,,,,0,0,Osasuna
+2023-09-03,21:00,La Liga,Matchweek 4,Sun,Home,L,1,2,Barcelona,0.8,2.0,31.0,21966.0,Rubén García,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,11.0,3.0,18.3,0.0,0,0,Osasuna
+2023-09-17,14:00,La Liga,Matchweek 5,Sun,Away,L,2,3,Getafe,1.1,0.5,56.0,9808.0,David García,4-3-3,Alejandro Hernández,Match Report,,7.0,2.0,23.3,1.0,1,1,Osasuna
+2023-09-23,16:15,La Liga,Matchweek 6,Sat,Home,D,0,0,Sevilla,1.4,0.8,44.0,19670.0,David García,4-3-3,Javier Villanueva,Match Report,,16.0,2.0,16.8,0.0,0,0,Osasuna
+2023-09-28,21:30,La Liga,Matchweek 7,Thu,Home,L,0,2,Atlético Madrid,1.0,1.5,55.0,20192.0,David García,4-3-3,Juan Martínez,Match Report,,13.0,2.0,15.6,1.0,0,0,Osasuna
+2023-10-01,16:15,La Liga,Matchweek 8,Sun,Away,W,2,0,Alavés,1.1,1.5,54.0,19035.0,David García,4-3-3,Jorge Figueroa,Match Report,,10.0,3.0,20.7,1.0,0,0,Osasuna
+2023-10-07,16:15,La Liga,Matchweek 9,Sat,Away,L,0,4,Real Madrid,0.5,3.2,33.0,70864.0,David García,4-3-3,Guillermo Cuadra,Match Report,,7.0,1.0,24.4,0.0,0,0,Osasuna
+2023-10-20,21:00,La Liga,Matchweek 10,Fri,Home,W,2,0,Granada,2.1,0.6,58.0,19739.0,David García,4-3-3,Mateo Busquets,Match Report,,11.0,5.0,20.3,0.0,1,1,Osasuna
+2023-10-29,14:00,La Liga,Matchweek 11,Sun,Away,L,1,2,Betis,0.4,1.2,49.0,49123.0,David García,4-2-3-1,José Sánchez,Match Report,,7.0,1.0,20.7,0.0,0,0,Osasuna
+2023-11-04,14:00,La Liga,Matchweek 12,Sat,Home,L,2,4,Girona,1.4,2.2,50.0,20100.0,David García,4-2-3-1,José Luis Munuera,Match Report,,15.0,3.0,15.5,0.0,0,0,Osasuna
+2023-11-11,18:30,La Liga,Matchweek 13,Sat,Home,D,1,1,Las Palmas,1.0,0.4,46.0,20125.0,David García,4-2-3-1,Jorge Figueroa,Match Report,,11.0,3.0,12.3,0.0,0,0,Osasuna
+2023-11-26,14:00,La Liga,Matchweek 14,Sun,Away,L,1,3,Villarreal,1.0,2.4,55.0,16389.0,David García,4-2-3-1,Ricardo de Burgos,Match Report,,15.0,7.0,15.8,0.0,0,0,Osasuna
+2023-12-02,21:00,La Liga,Matchweek 15,Sat,Home,D,1,1,Real Sociedad,0.7,1.7,29.0,20859.0,David García,5-3-2,Juan Pulido,Match Report,,9.0,3.0,16.0,0.0,0,0,Osasuna
+2023-12-10,18:30,La Liga,Matchweek 16,Sun,Away,D,1,1,Cádiz,1.6,0.9,55.0,18356.0,Unai García,4-3-3,Juan Martínez,Match Report,,12.0,3.0,23.0,0.0,1,1,Osasuna
+2023-12-15,21:00,La Liga,Matchweek 17,Fri,Home,W,1,0,Rayo Vallecano,1.2,0.7,60.0,18586.0,David García,4-3-3,Javier Villanueva,Match Report,,10.0,4.0,14.1,0.0,0,0,Osasuna
+2023-12-21,21:30,La Liga,Matchweek 18,Thu,Away,L,2,3,Mallorca,1.6,1.1,58.0,14192.0,David García,4-3-3,Mario Melero,Match Report,,12.0,7.0,19.9,1.0,0,0,Osasuna
+2024-01-04,17:00,La Liga,Matchweek 19,Thu,Home,W,1,0,Almería,1.3,0.2,52.0,20391.0,David García,4-3-3,César Soto,Match Report,,14.0,2.0,14.3,0.0,0,0,Osasuna
+2024-01-07,16:00,Copa del Rey,Round of 32,Sun,Away,W,1,0,Castellón,,,49.0,14182.0,David García,4-2-3-1,José Sánchez,Match Report,Required Extra Time,33.0,11.0,,,0,0,Osasuna
+2024-01-11,22:00,Supercopa de España,Semi-finals,Thu,Away,L,0,2,Barcelona,,,32.0,23932.0,David García,5-3-2,Alejandro Muñíz,Match Report,,11.0,3.0,,,0,0,Osasuna
+2024-01-17,21:00,Copa del Rey,Round of 16,Wed,Home,L,0,2,Real Sociedad,,,42.0,21116.0,David García,3-4-3,Alejandro Hernández,Match Report,,6.0,1.0,,,0,0,Osasuna
+2024-01-21,14:00,La Liga,Matchweek 21,Sun,Home,W,3,2,Getafe,1.2,1.4,43.0,18811.0,David García,3-5-2,José Sánchez,Match Report,,13.0,7.0,21.4,0.0,0,0,Osasuna
+2024-01-28,18:30,La Liga,Matchweek 22,Sun,Away,D,1,1,Sevilla,1.2,0.8,56.0,36640.0,David García,3-5-2,Guillermo Cuadra,Match Report,,11.0,4.0,22.1,0.0,0,0,Osasuna
+2024-01-31,19:00,La Liga,Matchweek 20,Wed,Away,L,0,1,Barcelona,1.0,1.9,32.0,37888.0,Unai García,5-3-2,Jorge Figueroa,Match Report,,9.0,1.0,13.0,0.0,0,0,Osasuna
+2024-02-04,16:15,La Liga,Matchweek 23,Sun,Home,L,0,3,Celta Vigo,1.1,1.1,70.0,20030.0,David García,5-3-2,Javier Alberola,Match Report,,18.0,1.0,17.1,1.0,0,0,Osasuna
+2024-02-10,16:15,La Liga,Matchweek 24,Sat,Away,W,1,0,Real Sociedad,0.5,1.5,32.0,32905.0,David García,5-3-2,Isidro Díaz de Mera,Match Report,,9.0,2.0,25.9,2.0,0,0,Osasuna
+2024-02-17,16:15,La Liga,Matchweek 25,Sat,Home,W,2,0,Cádiz,2.0,0.5,56.0,19525.0,David García,4-3-3,Francisco Hernández,Match Report,,11.0,4.0,16.1,1.0,0,0,Osasuna
+2024-02-25,17:30,La Liga,Matchweek 26,Sun,Away,D,1,1,Las Palmas,0.7,0.7,29.0,25075.0,Unai García,3-5-2,José Luis Munuera,Match Report,,6.0,2.0,11.7,0.0,0,0,Osasuna
+2024-03-04,21:00,La Liga,Matchweek 27,Mon,Home,W,1,0,Alavés,1.0,1.0,55.0,17215.0,David García,4-2-3-1,Jorge Figueroa,Match Report,,15.0,4.0,16.9,0.0,0,0,Osasuna
+2024-03-09,21:00,La Liga,Matchweek 28,Sat,Away,L,0,2,Girona,0.2,1.9,40.0,11598.0,Unai García,3-5-1-1,Mateo Busquets,Match Report,,7.0,1.0,20.1,0.0,0,0,Osasuna
+2024-03-16,16:15,La Liga,Matchweek 29,Sat,Home,L,2,4,Real Madrid,0.7,2.9,36.0,22430.0,Unai García,3-5-2,Juan Martínez,Match Report,,10.0,4.0,18.7,0.0,0,0,Osasuna
+2024-03-30,16:15,La Liga,Matchweek 30,Sat,Away,W,3,0,Almería,1.0,0.8,49.0,10565.0,Sergio Herrera,4-4-2,Pablo González,Match Report,,6.0,4.0,16.4,0.0,0,0,Osasuna
+2024-04-15,21:00,La Liga,Matchweek 31,Mon,Home,L,0,1,Valencia,1.9,0.2,65.0,19480.0,David García,4-4-2,José Luis Munuera,Match Report,,12.0,1.0,18.0,0.0,0,1,Osasuna
+2024-04-20,16:15,La Liga,Matchweek 32,Sat,Away,L,1,2,Rayo Vallecano,0.5,0.5,36.0,12617.0,David García,4-3-3,Mario Melero,Match Report,,6.0,2.0,20.8,0.0,0,0,Osasuna
+2024-04-28,16:15,La Liga,Matchweek 33,Sun,Away,L,0,3,Granada,0.8,2.6,62.0,13825.0,Sergio Herrera,4-3-3,Alejandro Muñíz,Match Report,,11.0,2.0,21.1,3.0,0,0,Osasuna
+2024-05-05,14:00,La Liga,Matchweek 34,Sun,Home,L,0,2,Betis,0.8,1.1,42.0,18300.0,Sergio Herrera,4-5-1,Víctor García,Match Report,,12.0,2.0,16.3,0.0,0,0,Osasuna
+2024-05-11,21:00,La Liga,Matchweek 35,Sat,Away,D,2,2,Athletic Club,1.0,1.4,33.0,45273.0,Sergio Herrera,4-1-4-1,José Sánchez,Match Report,,13.0,3.0,23.1,0.0,0,0,Osasuna
+2024-05-14,19:30,La Liga,Matchweek 36,Tue,Home,D,1,1,Mallorca,0.4,1.0,52.0,17852.0,Rubén García,4-3-3,Francisco Hernández,Match Report,,10.0,4.0,22.1,0.0,0,0,Osasuna
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,4,1,Atlético Madrid,1.8,1.6,44.0,58401.0,Sergio Herrera,4-1-4-1,Pablo González,Match Report,,15.0,6.0,13.5,0.0,0,0,Osasuna
+2024-05-25,14:00,La Liga,Matchweek 38,Sat,Home,D,1,1,Villarreal,0.9,1.6,43.0,18385.0,Lucas Torró,4-1-4-1,Mario Melero,Match Report,,12.0,6.0,14.9,0.0,0,0,Osasuna
+2023-08-13,21:30,La Liga,Matchweek 1,Sun,Home,D,0,0,Barcelona,0.6,1.4,26.0,13410.0,Djené,4-5-1,César Soto,Match Report,,5.0,2.0,15.6,0.0,0,0,Getafe
+2023-08-20,19:00,La Liga,Matchweek 2,Sun,Away,L,0,3,Girona,0.7,1.4,37.0,11784.0,Djené,4-2-3-1,Jorge Figueroa,Match Report,,9.0,2.0,17.9,1.0,0,0,Getafe
+2023-08-28,19:30,La Liga,Matchweek 3,Mon,Home,W,1,0,Alavés,2.2,0.7,47.0,11023.0,Djené,4-4-2,Juan Martínez,Match Report,,14.0,3.0,13.4,0.0,1,1,Getafe
+2023-09-02,16:15,La Liga,Matchweek 4,Sat,Away,L,1,2,Real Madrid,0.4,2.8,24.0,66747.0,Djené,4-1-3-2,Mario Melero,Match Report,,6.0,2.0,19.9,0.0,0,0,Getafe
+2023-09-17,14:00,La Liga,Matchweek 5,Sun,Home,W,3,2,Osasuna,0.5,1.1,44.0,9808.0,Djené,4-4-2,Alejandro Hernández,Match Report,,11.0,6.0,13.5,0.0,0,0,Getafe
+2023-09-24,14:00,La Liga,Matchweek 6,Sun,Away,L,3,4,Real Sociedad,1.4,2.0,39.0,29568.0,Djené,4-2-3-1,Juan Pulido,Match Report,,9.0,6.0,18.2,0.0,1,1,Getafe
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Away,D,2,2,Athletic Club,1.4,0.7,51.0,43091.0,David Soria,5-4-1,Isidro Díaz de Mera,Match Report,,13.0,5.0,16.9,0.0,0,0,Getafe
+2023-09-30,14:00,La Liga,Matchweek 8,Sat,Home,D,0,0,Villarreal,0.9,0.1,64.0,11255.0,Djené,4-4-2,Mateo Busquets,Match Report,,22.0,9.0,19.5,0.0,0,0,Getafe
+2023-10-08,18:30,La Liga,Matchweek 9,Sun,Away,D,2,2,Celta Vigo,0.7,3.1,26.0,17953.0,Djené,4-4-2,José Sánchez,Match Report,,3.0,2.0,9.1,0.0,0,0,Getafe
+2023-10-21,16:15,La Liga,Matchweek 10,Sat,Home,D,1,1,Betis,1.5,1.1,45.0,13926.0,Damián Suárez,4-4-2,César Soto,Match Report,,13.0,3.0,15.9,0.0,0,0,Getafe
+2023-10-28,18:30,La Liga,Matchweek 11,Sat,Away,D,0,0,Mallorca,0.2,0.9,41.0,15310.0,Djené,4-4-2,Pablo González,Match Report,,8.0,0.0,23.1,0.0,0,0,Getafe
+2023-11-01,18:30,Copa del Rey,First round,Wed,Away,W,12,0,Tardienta,,,70.0,1200.0,Carles Aleñá,4-4-2,Víctor García,Match Report,,35.0,25.0,,,0,0,Getafe
+2023-11-06,21:00,La Liga,Matchweek 12,Mon,Home,W,1,0,Cádiz,1.2,0.5,45.0,9853.0,Djené,4-4-2,Ricardo de Burgos,Match Report,,13.0,3.0,21.2,0.0,0,0,Getafe
+2023-11-11,18:30,La Liga,Matchweek 13,Sat,Away,D,1,1,Granada,2.3,1.7,42.0,18103.0,David Soria,4-2-3-1,Alejandro Muñíz,Match Report,,10.0,6.0,15.0,0.0,0,0,Getafe
+2023-11-25,18:30,La Liga,Matchweek 14,Sat,Home,W,2,1,Almería,1.2,1.8,53.0,10906.0,Damián Suárez,4-4-2,Alejandro Hernández,Match Report,,18.0,5.0,17.1,0.0,0,0,Getafe
+2023-12-01,20:00,La Liga,Matchweek 15,Fri,Away,L,0,2,Las Palmas,0.9,1.5,30.0,21912.0,Djené,4-4-1-1,Mateo Busquets,Match Report,,12.0,4.0,22.0,0.0,0,0,Getafe
+2023-12-05,19:00,Copa del Rey,Second round,Tue,Away,W,2,1,Atzeneta,,,49.0,5000.0,Damián Suárez,4-4-2,José Luis Munuera,Match Report,,9.0,4.0,,,0,0,Getafe
+2023-12-08,21:00,La Liga,Matchweek 16,Fri,Home,W,1,0,Valencia,0.7,0.1,67.0,11515.0,Djené,4-4-2,Guillermo Cuadra,Match Report,,8.0,6.0,17.7,0.0,0,0,Getafe
+2023-12-16,18:30,La Liga,Matchweek 17,Sat,Away,W,3,0,Sevilla,2.4,1.0,43.0,30005.0,Djené,4-4-2,Juan Pulido,Match Report,,12.0,5.0,21.7,1.0,2,2,Getafe
+2023-12-19,21:30,La Liga,Matchweek 18,Tue,Away,D,3,3,Atlético Madrid,2.0,2.0,58.0,46401.0,Jaime Mata,4-4-2,José Luis Munuera,Match Report,,28.0,8.0,18.4,0.0,1,1,Getafe
+2024-01-02,17:00,La Liga,Matchweek 19,Tue,Home,L,0,2,Rayo Vallecano,0.4,1.9,38.0,11204.0,Djené,4-4-2,Jorge Figueroa,Match Report,,5.0,0.0,18.0,0.0,0,0,Getafe
+2024-01-06,17:00,Copa del Rey,Round of 32,Sat,Away,W,1,0,Espanyol,,,47.0,15197.0,David Soria,4-4-2,Mario Melero,Match Report,,13.0,2.0,,,0,0,Getafe
+2024-01-16,20:00,Copa del Rey,Round of 16,Tue,Home,L,1,3,Sevilla,,,66.0,12581.0,Djené,4-4-2,Alejandro Muñíz,Match Report,,16.0,3.0,,,0,0,Getafe
+2024-01-21,14:00,La Liga,Matchweek 21,Sun,Away,L,2,3,Osasuna,1.4,1.2,57.0,18811.0,Djené,4-4-2,José Sánchez,Match Report,,10.0,7.0,16.0,0.0,0,0,Getafe
+2024-01-29,21:00,La Liga,Matchweek 22,Mon,Home,W,2,0,Granada,1.3,1.9,40.0,10382.0,Djené,4-4-2,Víctor García,Match Report,,7.0,4.0,15.9,0.0,0,0,Getafe
+2024-02-01,21:00,La Liga,Matchweek 20,Thu,Home,L,0,2,Real Madrid,0.8,2.0,42.0,15264.0,Djené,4-4-2,Ricardo de Burgos,Match Report,,10.0,2.0,21.1,0.0,0,0,Getafe
+2024-02-04,18:30,La Liga,Matchweek 23,Sun,Away,D,1,1,Betis,1.5,1.6,46.0,53336.0,Djené,4-4-2,Juan Pulido,Match Report,,10.0,1.0,17.0,0.0,1,1,Getafe
+2024-02-11,14:00,La Liga,Matchweek 24,Sun,Home,W,3,2,Celta Vigo,2.1,1.2,48.0,11502.0,Djené,4-4-2,Alejandro Hernández,Match Report,,11.0,4.0,15.8,1.0,0,0,Getafe
+2024-02-16,21:00,La Liga,Matchweek 25,Fri,Away,D,1,1,Villarreal,0.8,1.2,45.0,16869.0,Djené,4-4-2,Javier Alberola,Match Report,,11.0,1.0,19.9,1.0,0,0,Getafe
+2024-02-24,16:15,La Liga,Matchweek 26,Sat,Away,L,0,4,Barcelona,0.5,3.1,33.0,36803.0,Djené,4-5-1,Alejandro Muñíz,Match Report,,10.0,4.0,23.3,0.0,0,0,Getafe
+2024-03-02,18:30,La Liga,Matchweek 27,Sat,Home,D,3,3,Las Palmas,2.3,1.6,28.0,7623.0,Jaime Mata,4-3-3,Pablo González,Match Report,,16.0,5.0,17.8,1.0,0,0,Getafe
+2024-03-09,14:00,La Liga,Matchweek 28,Sat,Away,L,0,1,Valencia,1.3,0.8,49.0,37961.0,Djené,4-4-2,Juan Pulido,Match Report,,15.0,5.0,17.6,0.0,0,0,Getafe
+2024-03-16,18:30,La Liga,Matchweek 29,Sat,Home,W,1,0,Girona,1.2,1.8,41.0,12912.0,Djené,4-1-4-1,José Luis Munuera,Match Report,,11.0,3.0,19.9,1.0,0,0,Getafe
+2024-03-30,14:00,La Liga,Matchweek 30,Sat,Home,L,0,1,Sevilla,1.6,0.8,66.0,10139.0,Djené,4-1-4-1,Javier Villanueva,Match Report,,18.0,5.0,19.5,1.0,0,0,Getafe
+2024-04-13,16:15,La Liga,Matchweek 31,Sat,Away,D,0,0,Rayo Vallecano,0.3,1.0,37.0,12868.0,Djené,4-4-1-1,Jorge Figueroa,Match Report,,7.0,0.0,24.2,1.0,0,0,Getafe
+2024-04-21,14:00,La Liga,Matchweek 32,Sun,Home,D,1,1,Real Sociedad,0.5,1.2,41.0,12228.0,Djené,4-2-3-1,Víctor García,Match Report,,6.0,2.0,18.5,1.0,0,0,Getafe
+2024-04-27,16:15,La Liga,Matchweek 33,Sat,Away,W,3,1,Almería,1.7,2.4,44.0,7874.0,Djené,4-2-3-1,Guillermo Cuadra,Match Report,,8.0,5.0,17.9,1.0,0,0,Getafe
+2024-05-03,21:00,La Liga,Matchweek 34,Fri,Home,L,0,2,Athletic Club,4.5,0.6,64.0,12149.0,Djené,4-2-3-1,Jesús Gil,Match Report,,33.0,8.0,17.7,1.0,0,1,Getafe
+2024-05-12,14:00,La Liga,Matchweek 35,Sun,Away,L,0,1,Cádiz,0.5,1.5,55.0,16592.0,Djené,5-3-2,Ricardo de Burgos,Match Report,,10.0,4.0,22.9,0.0,0,0,Getafe
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Home,L,0,3,Atlético Madrid,0.6,1.3,45.0,13027.0,David Soria,4-4-1-1,Mario Melero,Match Report,,8.0,3.0,20.8,1.0,0,0,Getafe
+2024-05-18,21:00,La Liga,Matchweek 37,Sat,Away,L,0,1,Alavés,0.3,1.2,52.0,18709.0,David Soria,5-3-2,Jorge Figueroa,Match Report,,10.0,4.0,22.1,0.0,0,0,Getafe
+2024-05-26,14:00,La Liga,Matchweek 38,Sun,Home,L,1,2,Mallorca,0.9,1.4,50.0,9545.0,Djené,4-1-4-1,Víctor García,Match Report,,16.0,6.0,20.7,2.0,0,0,Getafe
+2023-08-13,17:00,La Liga,Matchweek 1,Sun,Home,L,0,2,Osasuna,1.0,1.0,53.0,20269.0,Iago Aspas,4-4-2,Pablo González,Match Report,,11.0,0.0,15.5,0.0,0,0,Celta Vigo
+2023-08-19,17:00,La Liga,Matchweek 2,Sat,Away,D,1,1,Real Sociedad,1.0,0.7,47.0,30354.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,17.0,6.0,18.1,1.0,0,0,Celta Vigo
+2023-08-25,21:30,La Liga,Matchweek 3,Fri,Home,L,0,1,Real Madrid,1.2,1.4,37.0,23057.0,Iago Aspas,5-3-2,Isidro Díaz de Mera,Match Report,,13.0,4.0,14.6,0.0,0,0,Celta Vigo
+2023-09-01,22:00,La Liga,Matchweek 4,Fri,Away,W,3,2,Almería,1.5,3.0,37.0,14196.0,Iago Aspas,5-4-1,Ricardo de Burgos,Match Report,,14.0,7.0,14.4,0.0,0,0,Celta Vigo
+2023-09-16,18:30,La Liga,Matchweek 5,Sat,Home,L,0,1,Mallorca,1.3,0.8,60.0,18693.0,Iago Aspas,3-4-3,José Luis Munuera,Match Report,,16.0,4.0,16.4,0.0,0,0,Celta Vigo
+2023-09-23,18:30,La Liga,Matchweek 6,Sat,Away,L,2,3,Barcelona,1.5,1.6,26.0,43272.0,Iago Aspas,5-3-2,Mario Melero,Match Report,,13.0,7.0,15.2,0.0,0,0,Celta Vigo
+2023-09-28,19:00,La Liga,Matchweek 7,Thu,Home,D,1,1,Alavés,0.6,2.6,46.0,16852.0,Iago Aspas,5-3-2,César Soto,Match Report,,8.0,0.0,24.8,2.0,0,0,Celta Vigo
+2023-10-02,20:00,La Liga,Matchweek 8,Mon,Away,L,1,2,Las Palmas,1.5,1.7,27.0,22472.0,Carl Starfelt,5-3-2,Javier Alberola,Match Report,,11.0,3.0,19.0,1.0,0,0,Celta Vigo
+2023-10-08,18:30,La Liga,Matchweek 9,Sun,Home,D,2,2,Getafe,3.1,0.7,74.0,17953.0,Iago Aspas,4-4-2,José Sánchez,Match Report,,25.0,10.0,19.0,0.0,0,1,Celta Vigo
+2023-10-21,21:00,La Liga,Matchweek 10,Sat,Home,L,0,3,Atlético Madrid,0.9,1.8,36.0,20282.0,Iago Aspas,4-3-3,Guillermo Cuadra,Match Report,,16.0,3.0,17.7,0.0,0,0,Celta Vigo
+2023-10-27,21:00,La Liga,Matchweek 11,Fri,Away,L,0,1,Girona,0.2,0.6,35.0,12671.0,Iago Aspas,4-4-2,Isidro Díaz de Mera,Match Report,,4.0,2.0,18.9,0.0,0,0,Celta Vigo
+2023-11-01,15:30,Copa del Rey,First round,Wed,Away,W,4,0,Turégano,,,75.0,2200.0,Iván Villar,4-4-2,Mario Melero,Match Report,,19.0,7.0,,,0,0,Celta Vigo
+2023-11-04,18:30,La Liga,Matchweek 12,Sat,Home,D,1,1,Sevilla,2.1,0.9,39.0,19023.0,Iago Aspas,4-4-2,Alejandro Hernández,Match Report,,15.0,3.0,12.6,1.0,0,0,Celta Vigo
+2023-11-10,21:00,La Liga,Matchweek 13,Fri,Away,L,3,4,Athletic Club,2.1,4.6,42.0,44435.0,Iago Aspas,4-4-2,Juan Pulido,Match Report,,12.0,4.0,21.2,0.0,0,1,Celta Vigo
+2023-11-25,16:15,La Liga,Matchweek 14,Sat,Away,D,0,0,Valencia,0.8,0.5,45.0,43375.0,Iago Aspas,4-4-2,César Soto,Match Report,,13.0,1.0,21.9,1.0,0,0,Celta Vigo
+2023-12-04,21:00,La Liga,Matchweek 15,Mon,Home,D,1,1,Cádiz,2.4,0.3,68.0,17302.0,Iago Aspas,4-4-2,Jesús Gil,Match Report,,26.0,7.0,17.9,2.0,0,0,Celta Vigo
+2023-12-07,21:00,Copa del Rey,Second round,Thu,Away,W,2,1,Sestao,,,48.0,3365.0,Kevin Vázquez,4-4-2,Pablo González,Match Report,,6.0,3.0,,,1,1,Celta Vigo
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Away,D,0,0,Rayo Vallecano,0.1,1.2,37.0,11796.0,Kevin Vázquez,4-4-2,Víctor García,Match Report,,4.0,2.0,22.3,0.0,0,0,Celta Vigo
+2023-12-16,14:00,La Liga,Matchweek 17,Sat,Home,W,1,0,Granada,1.4,0.5,39.0,18027.0,Iago Aspas,4-4-2,José Sánchez,Match Report,,11.0,4.0,17.2,0.0,0,0,Celta Vigo
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Away,L,2,3,Villarreal,1.3,2.4,51.0,14687.0,Kevin Vázquez,4-4-2,César Soto,Match Report,,15.0,4.0,16.4,0.0,0,0,Celta Vigo
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Home,W,2,1,Betis,2.7,1.4,40.0,21105.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,18.0,5.0,23.4,2.0,1,1,Celta Vigo
+2024-01-07,12:00,Copa del Rey,Round of 32,Sun,Away,W,4,2,Amorebieta,,,55.0,1300.0,Kevin Vázquez,4-2-3-1,José Luis Munuera,Match Report,,15.0,4.0,,,0,0,Celta Vigo
+2024-01-13,16:15,La Liga,Matchweek 20,Sat,Away,D,1,1,Mallorca,0.6,1.8,43.0,21130.0,Iago Aspas,5-3-2,Víctor García,Match Report,,6.0,2.0,17.4,1.0,0,0,Celta Vigo
+2024-01-17,11:00,Copa del Rey,Round of 16,Wed,Away,W,3,1,Valencia,,,37.0,44456.0,Kevin Vázquez,4-2-3-1,Ricardo de Burgos,Match Report,,15.0,6.0,,,1,1,Celta Vigo
+2024-01-20,21:00,La Liga,Matchweek 21,Sat,Home,L,0,1,Real Sociedad,0.3,0.8,49.0,20901.0,Iago Aspas,4-4-2,Jorge Figueroa,Match Report,,6.0,2.0,21.8,1.0,0,0,Celta Vigo
+2024-01-23,21:30,Copa del Rey,Quarter-finals,Tue,Home,L,1,2,Real Sociedad,,,47.0,20903.0,Kevin Vázquez,4-2-3-1,César Soto,Match Report,,9.0,2.0,,,0,0,Celta Vigo
+2024-01-28,14:00,La Liga,Matchweek 22,Sun,Home,L,0,1,Girona,0.6,0.9,40.0,20684.0,Iago Aspas,3-4-3,Mario Melero,Match Report,,10.0,5.0,15.5,0.0,0,0,Celta Vigo
+2024-02-04,16:15,La Liga,Matchweek 23,Sun,Away,W,3,0,Osasuna,1.1,1.1,30.0,20030.0,Renato Tapia,3-4-3,Javier Alberola,Match Report,,6.0,5.0,15.1,0.0,0,0,Celta Vigo
+2024-02-11,14:00,La Liga,Matchweek 24,Sun,Away,L,2,3,Getafe,1.2,2.1,52.0,11502.0,Renato Tapia,3-4-3,Alejandro Hernández,Match Report,,9.0,4.0,14.9,1.0,0,0,Celta Vigo
+2024-02-17,18:30,La Liga,Matchweek 25,Sat,Home,L,1,2,Barcelona,0.8,1.5,34.0,23096.0,Iago Aspas,4-4-2,Juan Pulido,Match Report,,13.0,4.0,19.8,0.0,0,0,Celta Vigo
+2024-02-25,14:00,La Liga,Matchweek 26,Sun,Away,D,2,2,Cádiz,0.7,2.2,35.0,18123.0,Iago Aspas,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,7.0,3.0,14.8,0.0,0,0,Celta Vigo
+2024-03-01,21:00,La Liga,Matchweek 27,Fri,Home,W,1,0,Almería,1.5,0.1,66.0,18005.0,Carl Starfelt,4-4-2,José Sánchez,Match Report,,15.0,6.0,15.0,0.0,0,0,Celta Vigo
+2024-03-10,18:30,La Liga,Matchweek 28,Sun,Away,L,0,4,Real Madrid,0.8,3.4,38.0,73644.0,Iago Aspas,5-3-2,Mario Melero,Match Report,,11.0,1.0,17.1,0.0,0,0,Celta Vigo
+2024-03-17,14:00,La Liga,Matchweek 29,Sun,Away,W,2,1,Sevilla,1.6,1.7,64.0,36544.0,Iago Aspas,3-4-3,Francisco Hernández,Match Report,,18.0,5.0,19.3,0.0,0,0,Celta Vigo
+2024-03-31,14:00,La Liga,Matchweek 30,Sun,Home,D,0,0,Rayo Vallecano,0.8,0.6,61.0,21505.0,Iago Aspas,3-4-3,Alejandro Hernández,Match Report,,13.0,0.0,18.7,1.0,0,0,Celta Vigo
+2024-04-12,21:00,La Liga,Matchweek 31,Fri,Away,L,1,2,Betis,1.6,1.2,53.0,48938.0,Iago Aspas,3-4-3,Juan Martínez,Match Report,,12.0,5.0,12.3,0.0,0,0,Celta Vigo
+2024-04-20,14:00,La Liga,Matchweek 32,Sat,Home,W,4,1,Las Palmas,4.0,1.0,32.0,21256.0,Iago Aspas,3-4-3,Francisco Hernández,Match Report,,21.0,13.0,15.3,0.0,0,0,Celta Vigo
+2024-04-27,18:30,La Liga,Matchweek 33,Sat,Away,L,0,3,Alavés,0.2,2.3,62.0,18039.0,Iago Aspas,3-4-3,Juan Pulido,Match Report,,4.0,0.0,22.9,0.0,0,0,Celta Vigo
+2024-05-05,16:15,La Liga,Matchweek 34,Sun,Home,W,3,2,Villarreal,3.9,0.6,53.0,19548.0,Iago Aspas,3-4-3,César Soto,Match Report,,22.0,6.0,16.8,0.0,1,1,Celta Vigo
+2024-05-12,16:15,La Liga,Matchweek 35,Sun,Away,L,0,1,Atlético Madrid,0.4,1.4,44.0,63014.0,Iago Aspas,3-4-3,Jorge Figueroa,Match Report,,6.0,2.0,20.6,0.0,0,0,Celta Vigo
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Home,W,2,1,Athletic Club,0.7,0.2,53.0,21301.0,Iván Villar,3-4-3,Víctor García,Match Report,,10.0,4.0,16.3,0.0,0,0,Celta Vigo
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,2,1,Granada,1.7,1.9,51.0,11473.0,Iago Aspas,3-5-2,Javier Alberola,Match Report,,8.0,5.0,12.7,0.0,0,0,Celta Vigo
+2024-05-26,16:15,La Liga,Matchweek 38,Sun,Home,D,2,2,Valencia,1.5,2.0,54.0,21878.0,Iago Aspas,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,8.0,3.0,19.6,0.0,1,1,Celta Vigo
+2023-08-11,22:00,La Liga,Matchweek 1,Fri,Home,L,1,2,Valencia,0.7,1.1,55.0,34184.0,Jesús Navas,4-2-3-1,José Sánchez,Match Report,,9.0,3.0,19.5,0.0,0,0,Sevilla
+2023-08-16,22:00,Super Cup,UEFA Super Cup,Wed,Away,D,1 (4),1 (5),eng Manchester City,,,26.0,,Jesús Navas,4-2-3-1,François Letexier,Match Report,,8.0,4.0,,,0,0,Sevilla
+2023-08-21,19:00,La Liga,Matchweek 2,Mon,Away,L,3,4,Alavés,0.6,1.8,66.0,15308.0,Jesús Navas,4-2-3-1,Guillermo Cuadra,Match Report,,12.0,2.0,24.3,2.0,0,0,Sevilla
+2023-08-26,21:30,La Liga,Matchweek 3,Sat,Home,L,1,2,Girona,1.7,1.7,52.0,29304.0,Jesús Navas,4-2-3-1,Jesús Gil,Match Report,,21.0,4.0,17.8,3.0,0,0,Sevilla
+2023-09-17,18:30,La Liga,Matchweek 5,Sun,Home,W,1,0,Las Palmas,1.7,1.0,43.0,40578.0,Jesús Navas,4-2-3-1,Juan Martínez,Match Report,,26.0,9.0,18.0,1.0,0,0,Sevilla
+2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,fr Lens,0.8,1.3,56.0,33544.0,Ivan Rakitić,4-2-3-1,Tobias Stieler,Match Report,,10.0,5.0,13.1,0.0,0,0,Sevilla
+2023-09-23,16:15,La Liga,Matchweek 6,Sat,Away,D,0,0,Osasuna,0.8,1.4,56.0,19670.0,Ivan Rakitić,4-2-3-1,Javier Villanueva,Match Report,,15.0,3.0,21.4,2.0,0,0,Sevilla
+2023-09-26,19:00,La Liga,Matchweek 7,Tue,Home,W,5,1,Almería,2.2,1.8,46.0,35729.0,Jesús Navas,4-2-3-1,Guillermo Cuadra,Match Report,,18.0,9.0,13.2,0.0,0,0,Sevilla
+2023-09-29,21:00,La Liga,Matchweek 8,Fri,Away,L,0,1,Barcelona,1.1,2.4,42.0,41116.0,Ivan Rakitić,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,12.0,3.0,13.2,0.0,0,0,Sevilla
+2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,nl PSV Eindhoven,1.3,2.6,37.0,34206.0,Jesús Navas,4-2-3-1,Daniele Orsato,Match Report,,10.0,2.0,15.8,0.0,0,0,Sevilla
+2023-10-07,21:00,La Liga,Matchweek 9,Sat,Home,D,2,2,Rayo Vallecano,1.0,1.0,64.0,35817.0,Fernando,4-2-3-1,Isidro Díaz de Mera,Match Report,,22.0,6.0,19.5,1.0,0,0,Sevilla
+2023-10-21,18:30,La Liga,Matchweek 10,Sat,Home,D,1,1,Real Madrid,1.5,1.6,49.0,41212.0,Jesús Navas,4-3-3,Ricardo de Burgos,Match Report,,17.0,6.0,18.3,0.0,0,0,Sevilla
+2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,eng Arsenal,0.8,1.9,57.0,39595.0,Jesús Navas,4-2-3-1,Glenn Nyberg,Match Report,,11.0,2.0,17.7,0.0,0,0,Sevilla
+2023-10-28,21:00,La Liga,Matchweek 11,Sat,Away,D,2,2,Cádiz,1.2,1.1,66.0,18886.0,Ivan Rakitić,4-3-3,César Soto,Match Report,,20.0,10.0,16.8,0.0,0,0,Sevilla
+2023-11-01,15:30,Copa del Rey,First round,Wed,Away,W,3,0,Quintanar,,,80.0,4500.0,Fernando,4-2-2-2,Juan Martínez,Match Report,,20.0,5.0,,,0,0,Sevilla
+2023-11-04,18:30,La Liga,Matchweek 12,Sat,Away,D,1,1,Celta Vigo,0.9,2.1,61.0,19023.0,Jesús Navas,4-3-3,Alejandro Hernández,Match Report,,13.0,5.0,15.8,0.0,0,0,Sevilla
+2023-11-08,20:00,Champions Lg,Group stage,Wed,Away,L,0,2,eng Arsenal,0.0,1.5,38.0,60024.0,Fernando,4-2-3-1,István Kovács,Match Report,,1.0,1.0,22.0,0.0,0,0,Sevilla
+2023-11-12,18:30,La Liga,Matchweek 13,Sun,Home,D,1,1,Betis,0.7,1.8,61.0,42222.0,Jesús Navas,4-1-4-1,Jesús Gil,Match Report,,13.0,4.0,23.0,0.0,0,0,Sevilla
+2023-11-26,16:15,La Liga,Matchweek 14,Sun,Away,L,1,2,Real Sociedad,0.6,0.7,51.0,33879.0,Jesús Navas,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,8.0,2.0,13.4,0.0,0,0,Sevilla
+2023-11-29,18:45,Champions Lg,Group stage,Wed,Home,L,2,3,nl PSV Eindhoven,1.8,2.2,40.0,29403.0,Jesús Navas,4-3-3,Davide Massa,Match Report,,11.0,4.0,15.6,0.0,0,0,Sevilla
+2023-12-03,18:30,La Liga,Matchweek 15,Sun,Home,D,1,1,Villarreal,1.8,1.2,57.0,33898.0,Ivan Rakitić,4-3-3,Isidro Díaz de Mera,Match Report,,18.0,4.0,14.7,1.0,0,0,Sevilla
+2023-12-06,21:00,Copa del Rey,Second round,Wed,Away,W,2,0,Atlético Astorga,,,67.0,2050.0,Sergio Ramos,3-4-3,Alejandro Muñíz,Match Report,,16.0,11.0,,,1,1,Sevilla
+2023-12-09,21:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Mallorca,0.6,0.5,65.0,16041.0,Ivan Rakitić,4-3-3,Javier Alberola,Match Report,,19.0,5.0,23.3,0.0,0,0,Sevilla
+2023-12-12,18:45,Champions Lg,Group stage,Tue,Away,L,1,2,fr Lens,1.3,1.4,65.0,37456.0,Ivan Rakitić,3-5-1-1,Felix Zwayer,Match Report,,9.0,3.0,18.4,0.0,1,1,Sevilla
+2023-12-16,18:30,La Liga,Matchweek 17,Sat,Home,L,0,3,Getafe,1.0,2.4,57.0,30005.0,Ivan Rakitić,5-3-2,Juan Pulido,Match Report,,12.0,4.0,17.5,0.0,0,0,Sevilla
+2023-12-19,21:30,La Liga,Matchweek 18,Tue,Away,W,3,0,Granada,0.5,0.9,48.0,16534.0,Sergio Ramos,3-5-2,Mateo Busquets,Match Report,,12.0,5.0,22.3,0.0,0,0,Sevilla
+2023-12-23,16:15,La Liga,Matchweek 4,Sat,Away,L,0,1,Atlético Madrid,0.3,0.9,50.0,64308.0,Ivan Rakitić,3-5-2,César Soto,Match Report,,8.0,2.0,22.8,1.0,0,0,Sevilla
+2024-01-04,19:15,La Liga,Matchweek 19,Thu,Home,L,0,2,Athletic Club,0.7,1.3,61.0,28366.0,Sergio Ramos,5-3-2,José Sánchez,Match Report,,11.0,2.0,15.0,1.0,0,0,Sevilla
+2024-01-07,16:00,Copa del Rey,Round of 32,Sun,Away,W,2,1,Racing Ferrol,,,58.0,11011.0,Sergio Ramos,4-4-2,Guillermo Cuadra,Match Report,,16.0,5.0,,,0,0,Sevilla
+2024-01-12,21:00,La Liga,Matchweek 20,Fri,Home,L,2,3,Alavés,2.2,2.0,68.0,34225.0,Jesús Navas,4-4-2,Alejandro Hernández,Match Report,,18.0,3.0,15.5,0.0,1,1,Sevilla
+2024-01-16,20:00,Copa del Rey,Round of 16,Tue,Away,W,3,1,Getafe,,,34.0,12581.0,Sergio Ramos,3-5-2,Alejandro Muñíz,Match Report,,7.0,5.0,,,0,0,Sevilla
+2024-01-21,21:00,La Liga,Matchweek 21,Sun,Away,L,1,5,Girona,0.7,2.3,45.0,13092.0,Jesús Navas,5-3-2,Pablo González,Match Report,,9.0,3.0,18.0,0.0,0,0,Sevilla
+2024-01-25,21:00,Copa del Rey,Quarter-finals,Thu,Away,L,0,1,Atlético Madrid,,,43.0,60169.0,Jesús Navas,3-5-2,Jesús Gil,Match Report,,6.0,1.0,,,0,0,Sevilla
+2024-01-28,18:30,La Liga,Matchweek 22,Sun,Home,D,1,1,Osasuna,0.8,1.2,44.0,36640.0,Jesús Navas,3-5-2,Guillermo Cuadra,Match Report,,10.0,5.0,22.0,0.0,0,0,Sevilla
+2024-02-05,21:00,La Liga,Matchweek 23,Mon,Away,W,2,1,Rayo Vallecano,1.3,1.8,34.0,12546.0,Jesús Navas,4-4-2,Francisco Hernández,Match Report,,10.0,6.0,24.4,0.0,0,0,Sevilla
+2024-02-11,18:30,La Liga,Matchweek 24,Sun,Home,W,1,0,Atlético Madrid,1.0,1.5,39.0,31528.0,Jesús Navas,4-4-2,Javier Villanueva,Match Report,,10.0,6.0,16.0,0.0,0,0,Sevilla
+2024-02-17,21:00,La Liga,Matchweek 25,Sat,Away,D,0,0,Valencia,0.0,1.0,46.0,44506.0,Jesús Navas,3-5-2,César Soto,Match Report,,1.0,1.0,9.8,0.0,0,0,Sevilla
+2024-02-25,21:00,La Liga,Matchweek 26,Sun,Away,L,0,1,Real Madrid,0.8,1.0,36.0,74969.0,Sergio Ramos,5-3-2,Isidro Díaz de Mera,Match Report,,4.0,1.0,8.5,0.0,0,0,Sevilla
+2024-03-02,14:00,La Liga,Matchweek 27,Sat,Home,W,3,2,Real Sociedad,2.0,1.5,39.0,35884.0,Jesús Navas,5-3-2,Mateo Busquets,Match Report,,12.0,5.0,14.3,1.0,0,0,Sevilla
+2024-03-11,21:00,La Liga,Matchweek 28,Mon,Away,D,2,2,Almería,2.4,2.0,56.0,13095.0,Jesús Navas,5-3-2,Ricardo de Burgos,Match Report,,19.0,6.0,13.1,0.0,0,0,Sevilla
+2024-03-17,14:00,La Liga,Matchweek 29,Sun,Home,L,1,2,Celta Vigo,1.7,1.6,36.0,36544.0,Jesús Navas,5-3-2,Francisco Hernández,Match Report,,11.0,4.0,15.6,0.0,0,0,Sevilla
+2024-03-30,14:00,La Liga,Matchweek 30,Sat,Away,W,1,0,Getafe,0.8,1.6,34.0,10139.0,Sergio Ramos,5-3-2,Javier Villanueva,Match Report,,10.0,3.0,22.9,0.0,0,0,Sevilla
+2024-04-14,13:00,La Liga,Matchweek 31,Sun,Away,W,2,0,Las Palmas,2.1,0.1,37.0,23698.0,Sergio Ramos,5-3-2,Alejandro Muñíz,Match Report,,10.0,3.0,13.2,0.0,0,0,Sevilla
+2024-04-22,21:00,La Liga,Matchweek 32,Mon,Home,W,2,1,Mallorca,1.1,0.7,54.0,35203.0,Jesús Navas,5-3-2,Alejandro Hernández,Match Report,,11.0,4.0,19.0,1.0,0,0,Sevilla
+2024-04-28,21:00,La Liga,Matchweek 33,Sun,Away,D,1,1,Betis,1.4,1.8,50.0,55770.0,Jesús Navas,4-4-2,José Sánchez,Match Report,,10.0,1.0,17.5,0.0,0,0,Sevilla
+2024-05-05,21:00,La Liga,Matchweek 34,Sun,Home,W,3,0,Granada,1.7,0.4,60.0,32658.0,Jesús Navas,3-4-3,Mateo Busquets,Match Report,,11.0,5.0,11.6,0.0,0,0,Sevilla
+2024-05-11,16:15,La Liga,Matchweek 35,Sat,Away,L,2,3,Villarreal,1.7,3.1,41.0,16862.0,Jesús Navas,5-3-2,Isidro Díaz de Mera,Match Report,,7.0,3.0,13.6,0.0,1,1,Sevilla
+2024-05-15,19:30,La Liga,Matchweek 36,Wed,Home,L,0,1,Cádiz,1.3,2.5,56.0,35805.0,Jesús Navas,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,14.0,3.0,19.3,0.0,0,0,Sevilla
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,L,0,2,Athletic Club,0.9,1.6,47.0,44717.0,Jesús Navas,3-4-3,Juan Pulido,Match Report,,9.0,4.0,16.3,0.0,0,0,Sevilla
+2024-05-26,21:00,La Liga,Matchweek 38,Sun,Home,L,1,2,Barcelona,1.5,1.3,39.0,34888.0,Sergio Ramos,3-4-3,Javier Villanueva,Match Report,,15.0,6.0,13.6,1.0,0,0,Sevilla
+2023-08-12,18:30,La Liga,Matchweek 1,Sat,Away,D,1,1,Las Palmas,1.6,0.9,32.0,24100.0,Dani Rodríguez,5-3-2,Víctor García,Match Report,,10.0,2.0,19.6,0.0,0,1,Mallorca
+2023-08-18,19:30,La Liga,Matchweek 2,Fri,Home,L,0,1,Villarreal,0.4,1.8,40.0,17775.0,Antonio Raillo,5-3-2,Javier Alberola,Match Report,,8.0,1.0,17.4,0.0,0,0,Mallorca
+2023-08-26,19:30,La Liga,Matchweek 3,Sat,Away,L,2,3,Granada,2.6,1.4,47.0,16368.0,Dani Rodríguez,5-3-2,Francisco Hernández,Match Report,,9.0,5.0,12.4,0.0,0,1,Mallorca
+2023-09-03,16:15,La Liga,Matchweek 4,Sun,Home,D,0,0,Athletic Club,0.4,0.6,33.0,17043.0,Dani Rodríguez,5-3-2,Jorge Figueroa,Match Report,,8.0,1.0,17.9,0.0,0,0,Mallorca
+2023-09-16,18:30,La Liga,Matchweek 5,Sat,Away,W,1,0,Celta Vigo,0.8,1.3,40.0,18693.0,Dani Rodríguez,5-4-1,José Luis Munuera,Match Report,,7.0,3.0,17.1,0.0,0,0,Mallorca
+2023-09-23,14:00,La Liga,Matchweek 6,Sat,Away,L,3,5,Girona,1.8,3.2,44.0,11511.0,Dani Rodríguez,5-4-1,Pablo González,Match Report,,14.0,4.0,17.8,0.0,1,1,Mallorca
+2023-09-26,21:30,La Liga,Matchweek 7,Tue,Home,D,2,2,Barcelona,0.8,1.9,31.0,19939.0,Dani Rodríguez,5-3-2,Alejandro Muñíz,Match Report,,10.0,5.0,16.4,0.0,0,0,Mallorca
+2023-09-30,16:15,La Liga,Matchweek 8,Sat,Away,D,2,2,Rayo Vallecano,1.5,2.3,40.0,11991.0,Dani Rodríguez,4-4-2,Mario Melero,Match Report,,9.0,4.0,16.3,0.0,0,0,Mallorca
+2023-10-07,18:30,La Liga,Matchweek 9,Sat,Home,D,1,1,Valencia,0.6,0.5,49.0,17659.0,Dani Rodríguez,4-4-2,Francisco Hernández,Match Report,,9.0,5.0,15.7,0.0,0,0,Mallorca
+2023-10-21,14:00,La Liga,Matchweek 10,Sat,Away,L,0,1,Real Sociedad,1.9,1.3,44.0,31279.0,Dani Rodríguez,5-3-2,Jorge Figueroa,Match Report,,18.0,6.0,13.9,1.0,0,0,Mallorca
+2023-10-28,18:30,La Liga,Matchweek 11,Sat,Home,D,0,0,Getafe,0.9,0.2,59.0,15310.0,Dani Rodríguez,4-4-2,Pablo González,Match Report,,15.0,4.0,17.4,0.0,0,0,Mallorca
+2023-11-01,18:30,Copa del Rey,First round,Wed,Away,W,4,0,Boiro,,,73.0,2000.0,Abdón Prats,4-4-2,Alberola Rojas,Match Report,,23.0,12.0,,,2,2,Mallorca
+2023-11-04,16:15,La Liga,Matchweek 12,Sat,Away,L,0,2,Betis,0.6,2.2,43.0,50909.0,Antonio Raillo,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,8.0,1.0,22.6,0.0,0,0,Mallorca
+2023-11-25,21:00,La Liga,Matchweek 14,Sat,Away,L,0,1,Atlético Madrid,1.1,1.7,32.0,58119.0,Dani Rodríguez,5-4-1,Juan Martínez,Match Report,,8.0,1.0,16.0,0.0,0,0,Mallorca
+2023-11-29,21:00,La Liga,Matchweek 13,Wed,Home,D,1,1,Cádiz,1.1,0.3,67.0,13821.0,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,,16.0,3.0,21.0,1.0,0,0,Mallorca
+2023-12-03,14:00,La Liga,Matchweek 15,Sun,Home,D,0,0,Alavés,0.8,0.3,63.0,15090.0,Antonio Raillo,4-2-3-1,Jorge Figueroa,Match Report,,7.0,3.0,18.6,0.0,0,0,Mallorca
+2023-12-06,19:00,Copa del Rey,Second round,Wed,Away,W,3,0,Valle Egüés,,,71.0,1400.0,Dani Rodríguez,3-4-3,Ricardo de Burgos,Match Report,,20.0,9.0,,,0,0,Mallorca
+2023-12-09,21:00,La Liga,Matchweek 16,Sat,Home,W,1,0,Sevilla,0.5,0.6,35.0,16041.0,Antonio Raillo,3-5-1-1,Javier Alberola,Match Report,,6.0,3.0,25.9,0.0,0,0,Mallorca
+2023-12-17,14:00,La Liga,Matchweek 17,Sun,Away,D,0,0,Almería,1.9,0.3,47.0,11936.0,Antonio Raillo,3-4-3,Pablo González,Match Report,,20.0,2.0,15.5,0.0,0,0,Mallorca
+2023-12-21,21:30,La Liga,Matchweek 18,Thu,Home,W,3,2,Osasuna,1.1,1.6,42.0,14192.0,Antonio Raillo,3-4-3,Mario Melero,Match Report,,15.0,8.0,16.4,0.0,0,0,Mallorca
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Away,L,0,1,Real Madrid,0.6,1.7,33.0,72394.0,Antonio Raillo,5-4-1,Alejandro Muñíz,Match Report,,7.0,0.0,14.0,0.0,0,0,Mallorca
+2024-01-07,12:00,Copa del Rey,Round of 32,Sun,Away,W,3,0,Burgos,,,54.0,10653.0,Abdón Prats,3-4-3,Isidro Díaz de Mera,Match Report,,10.0,5.0,,,0,0,Mallorca
+2024-01-13,16:15,La Liga,Matchweek 20,Sat,Home,D,1,1,Celta Vigo,1.8,0.6,57.0,21130.0,Antonio Raillo,5-4-1,Víctor García,Match Report,,17.0,6.0,15.3,0.0,0,0,Mallorca
+2024-01-16,21:00,Copa del Rey,Round of 16,Tue,Away,W,1,0,Tenerife,,,50.0,20176.0,Abdón Prats,3-4-3,Mario Melero,Match Report,Required Extra Time,11.0,5.0,,,0,0,Mallorca
+2024-01-20,16:15,La Liga,Matchweek 21,Sat,Away,D,1,1,Villarreal,0.4,1.9,49.0,16479.0,Antonio Raillo,5-4-1,Miguel Ángel Ortiz Arias,Match Report,,8.0,2.0,16.6,1.0,0,0,Mallorca
+2024-01-24,19:30,Copa del Rey,Quarter-finals,Wed,Home,W,3,2,Girona,,,25.0,19950.0,Antonio Raillo,5-3-2,José Luis Munuera,Match Report,,14.0,6.0,,,1,1,Mallorca
+2024-01-27,21:00,La Liga,Matchweek 22,Sat,Home,L,0,1,Betis,1.5,0.4,53.0,20051.0,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,,14.0,1.0,16.4,0.0,0,0,Mallorca
+2024-02-02,21:00,La Liga,Matchweek 23,Fri,Away,L,0,4,Athletic Club,0.4,1.7,38.0,47061.0,Antonio Raillo,5-4-1,Jorge Figueroa,Match Report,,6.0,2.0,19.0,0.0,0,0,Mallorca
+2024-02-06,21:00,Copa del Rey,Semi-finals,Tue,Home,D,0,0,Real Sociedad,,,31.0,22051.0,Dani Rodríguez,5-3-2,Alejandro Muñíz,Match Report,Leg 1 of 2,5.0,0.0,,,0,0,Mallorca
+2024-02-11,16:15,La Liga,Matchweek 24,Sun,Home,W,2,1,Rayo Vallecano,0.9,1.6,49.0,16735.0,Antonio Raillo,5-4-1,José Luis Munuera,Match Report,,8.0,5.0,14.5,0.0,0,0,Mallorca
+2024-02-18,18:30,La Liga,Matchweek 25,Sun,Home,L,1,2,Real Sociedad,0.1,1.1,33.0,18153.0,Antonio Raillo,5-3-2,Pablo González,Match Report,,4.0,1.0,19.9,0.0,0,0,Mallorca
+2024-02-24,18:30,La Liga,Matchweek 26,Sat,Away,D,1,1,Alavés,2.2,0.5,48.0,16102.0,Martin Valjent,5-4-1,Víctor García,Match Report,,15.0,7.0,14.9,0.0,0,0,Mallorca
+2024-02-27,21:30,Copa del Rey,Semi-finals,Tue,Away,D,1 (5),1 (4),Real Sociedad,,,39.0,35781.0,Antonio Raillo,5-3-2,Jesús Gil,Match Report,Leg 2 of 2; Mallorca won,6.0,1.0,,,0,0,Mallorca
+2024-03-03,18:30,La Liga,Matchweek 27,Sun,Home,W,1,0,Girona,1.2,1.0,40.0,17769.0,Antonio Raillo,5-3-2,Francisco Hernández,Match Report,,16.0,1.0,17.7,0.0,0,0,Mallorca
+2024-03-08,21:00,La Liga,Matchweek 28,Fri,Away,L,0,1,Barcelona,0.6,2.0,37.0,38225.0,Antonio Raillo,5-3-2,Javier Villanueva,Match Report,,9.0,3.0,14.2,0.0,0,0,Mallorca
+2024-03-16,14:00,La Liga,Matchweek 29,Sat,Home,W,1,0,Granada,1.6,0.4,52.0,16477.0,Antonio Raillo,5-3-2,Ricardo de Burgos,Match Report,,18.0,8.0,16.0,0.0,0,0,Mallorca
+2024-03-30,18:30,La Liga,Matchweek 30,Sat,Away,D,0,0,Valencia,0.9,1.5,47.0,42567.0,Jaume Costa,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,11.0,3.0,15.7,0.0,0,0,Mallorca
+2024-04-06,22:00,Copa del Rey,Final,Sat,Away,D,1 (2),1 (4),Athletic Club,,,32.0,57619.0,Antonio Raillo,5-3-2,José Luis Munuera,Match Report,Athletic Club won on penalty kicks following extra time,13.0,5.0,,,0,0,Mallorca
+2024-04-13,18:30,La Liga,Matchweek 31,Sat,Home,L,0,1,Real Madrid,0.6,1.5,44.0,23244.0,Antonio Raillo,5-4-1,José Sánchez,Match Report,,6.0,2.0,15.1,0.0,0,0,Mallorca
+2024-04-22,21:00,La Liga,Matchweek 32,Mon,Away,L,1,2,Sevilla,0.7,1.1,46.0,35203.0,Antonio Raillo,5-4-1,Alejandro Hernández,Match Report,,8.0,5.0,12.5,0.0,0,0,Mallorca
+2024-04-28,14:00,La Liga,Matchweek 33,Sun,Away,D,1,1,Cádiz,0.9,0.4,42.0,18174.0,Antonio Raillo,5-4-1,Isidro Díaz de Mera,Match Report,,9.0,2.0,23.4,1.0,0,0,Mallorca
+2024-05-04,21:00,La Liga,Matchweek 34,Sat,Home,L,0,1,Atlético Madrid,0.2,0.7,59.0,20519.0,Antonio Raillo,5-3-2,Javier Alberola,Match Report,,7.0,4.0,17.8,0.0,0,0,Mallorca
+2024-05-11,14:00,La Liga,Matchweek 35,Sat,Home,W,1,0,Las Palmas,0.3,0.4,44.0,16050.0,Antonio Raillo,5-3-2,Juan Martínez,Match Report,,7.0,2.0,17.3,0.0,0,0,Mallorca
+2024-05-14,19:30,La Liga,Matchweek 36,Tue,Away,D,1,1,Osasuna,1.0,0.4,48.0,17852.0,Antonio Raillo,5-4-1,Francisco Hernández,Match Report,,10.0,4.0,14.6,0.0,0,0,Mallorca
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,D,2,2,Almería,3.0,0.4,52.0,20573.0,Antonio Raillo,5-3-2,Ricardo de Burgos,Match Report,,29.0,8.0,17.7,0.0,0,0,Mallorca
+2024-05-26,14:00,La Liga,Matchweek 38,Sun,Away,W,2,1,Getafe,1.4,0.9,50.0,9545.0,Antonio Raillo,4-1-4-1,Víctor García,Match Report,,9.0,4.0,14.1,0.0,0,0,Mallorca
+2023-08-12,18:30,La Liga,Matchweek 1,Sat,Home,D,1,1,Mallorca,0.9,1.6,68.0,24100.0,Jonathan Viera,4-5-1,Víctor García,Match Report,,4.0,1.0,29.7,0.0,1,1,Las Palmas
+2023-08-18,21:30,La Liga,Matchweek 2,Fri,Away,L,0,1,Valencia,0.5,1.5,61.0,41053.0,Jonathan Viera,4-3-3,Javier Villanueva,Match Report,,7.0,1.0,23.6,1.0,0,0,Las Palmas
+2023-08-25,18:30,La Liga,Matchweek 3,Fri,Home,D,0,0,Real Sociedad,0.9,1.0,52.0,25335.0,Jonathan Viera,4-3-3,Guillermo Cuadra,Match Report,,11.0,5.0,18.6,0.0,0,0,Las Palmas
+2023-09-03,14:00,La Liga,Matchweek 4,Sun,Away,L,0,1,Girona,1.1,1.0,54.0,11619.0,Jonathan Viera,4-2-3-1,Mateo Busquets,Match Report,,10.0,5.0,20.6,1.0,0,0,Las Palmas
+2023-09-17,18:30,La Liga,Matchweek 5,Sun,Away,L,0,1,Sevilla,1.0,1.7,57.0,40578.0,Jonathan Viera,4-2-3-1,Juan Martínez,Match Report,,14.0,2.0,22.0,0.0,0,0,Las Palmas
+2023-09-24,17:30,La Liga,Matchweek 6,Sun,Home,W,1,0,Granada,0.6,0.0,56.0,24848.0,Jonathan Viera,4-5-1,Ricardo de Burgos,Match Report,,10.0,3.0,20.7,1.0,0,0,Las Palmas
+2023-09-27,19:00,La Liga,Matchweek 7,Wed,Away,L,0,2,Real Madrid,0.7,1.7,52.0,65017.0,Jonathan Viera,4-5-1,José Luis Munuera,Match Report,,16.0,2.0,21.5,1.0,0,0,Las Palmas
+2023-10-02,20:00,La Liga,Matchweek 8,Mon,Home,W,2,1,Celta Vigo,1.7,1.5,73.0,22472.0,Kirian Rodríguez,4-5-1,Javier Alberola,Match Report,,15.0,4.0,22.2,0.0,1,1,Las Palmas
+2023-10-08,14:00,La Liga,Matchweek 9,Sun,Away,W,2,1,Villarreal,1.1,1.0,51.0,16249.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,Match Report,,7.0,4.0,22.3,1.0,1,1,Las Palmas
+2023-10-22,13:00,La Liga,Matchweek 10,Sun,Home,L,0,1,Rayo Vallecano,1.3,1.4,60.0,24548.0,Kirian Rodríguez,4-5-1,Javier Villanueva,Match Report,,11.0,5.0,19.9,0.0,0,1,Las Palmas
+2023-10-28,14:00,La Liga,Matchweek 11,Sat,Away,W,2,1,Almería,0.9,0.3,59.0,12132.0,Kirian Rodríguez,4-5-1,Francisco Hernández,Match Report,,10.0,3.0,20.1,0.0,0,0,Las Palmas
+2023-10-31,21:00,Copa del Rey,First round,Tue,Away,W,3,0,Manacor,,,78.0,2600.0,Omenuke Mfulu,4-2-3-1,Jorge Figueroa,Match Report,,12.0,5.0,,,0,0,Las Palmas
+2023-11-03,20:00,La Liga,Matchweek 12,Fri,Home,W,2,1,Atlético Madrid,0.4,1.2,52.0,30080.0,Kirian Rodríguez,4-5-1,Mario Melero,Match Report,,9.0,3.0,19.5,0.0,0,0,Las Palmas
+2023-11-11,18:30,La Liga,Matchweek 13,Sat,Away,D,1,1,Osasuna,0.4,1.0,54.0,20125.0,Kirian Rodríguez,4-1-4-1,Jorge Figueroa,Match Report,,6.0,1.0,18.7,1.0,0,0,Las Palmas
+2023-11-26,21:00,La Liga,Matchweek 14,Sun,Away,L,0,1,Betis,0.6,1.4,61.0,48132.0,Kirian Rodríguez,4-1-4-1,Víctor García,Match Report,,15.0,4.0,23.4,0.0,0,0,Las Palmas
+2023-12-01,20:00,La Liga,Matchweek 15,Fri,Home,W,2,0,Getafe,1.5,0.9,70.0,21912.0,Kirian Rodríguez,4-5-1,Mateo Busquets,Match Report,,11.0,6.0,17.5,1.0,0,0,Las Palmas
+2023-12-06,21:00,Copa del Rey,Second round,Wed,Away,W,2,1,Tudelano,,,79.0,6000.0,Omenuke Mfulu,4-3-3,Juan Martínez,Match Report,Required Extra Time,28.0,7.0,,,0,0,Las Palmas
+2023-12-09,14:00,La Liga,Matchweek 16,Sat,Away,W,1,0,Alavés,0.4,1.9,59.0,15971.0,Kirian Rodríguez,4-5-1,José Luis Munuera,Match Report,,9.0,2.0,20.1,1.0,0,0,Las Palmas
+2023-12-17,17:30,La Liga,Matchweek 17,Sun,Home,D,1,1,Cádiz,0.7,1.6,64.0,25275.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,Match Report,,7.0,2.0,23.1,3.0,0,0,Las Palmas
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Away,L,0,1,Athletic Club,0.3,3.4,50.0,39471.0,Enzo Loiodice,4-5-1,Juan Martínez,Match Report,,5.0,1.0,17.5,0.0,0,0,Las Palmas
+2024-01-04,20:30,La Liga,Matchweek 19,Thu,Home,L,1,2,Barcelona,0.7,2.4,44.0,31712.0,Kirian Rodríguez,4-3-3,Pablo González,Match Report,,12.0,3.0,19.6,0.0,0,0,Las Palmas
+2024-01-07,21:00,Copa del Rey,Round of 32,Sun,Away,L,0,2,Tenerife,,,74.0,21427.0,Omenuke Mfulu,4-5-1,Ricardo de Burgos,Match Report,,10.0,1.0,,,0,0,Las Palmas
+2024-01-13,13:00,La Liga,Matchweek 20,Sat,Home,W,3,0,Villarreal,0.8,2.0,54.0,24485.0,Kirian Rodríguez,4-3-3,Javier Villanueva,Match Report,,8.0,3.0,18.8,0.0,0,0,Las Palmas
+2024-01-20,14:00,La Liga,Matchweek 21,Sat,Away,W,2,0,Rayo Vallecano,0.7,1.6,55.0,12477.0,Kirian Rodríguez,4-5-1,Mario Melero,Match Report,,10.0,5.0,21.0,0.0,0,0,Las Palmas
+2024-01-27,15:15,La Liga,Matchweek 22,Sat,Home,L,1,2,Real Madrid,0.7,2.3,53.0,32037.0,Kirian Rodríguez,4-5-1,César Soto,Match Report,,7.0,2.0,16.6,0.0,0,0,Las Palmas
+2024-02-03,16:15,La Liga,Matchweek 23,Sat,Away,D,1,1,Granada,1.0,0.1,77.0,17941.0,Kirian Rodríguez,4-5-1,Mateo Busquets,Match Report,,16.0,6.0,18.7,2.0,0,0,Las Palmas
+2024-02-10,20:00,La Liga,Matchweek 24,Sat,Home,W,2,0,Valencia,1.3,0.5,72.0,25633.0,Kirian Rodríguez,4-5-1,Guillermo Cuadra,Match Report,,8.0,3.0,14.5,0.0,0,0,Las Palmas
+2024-02-17,14:00,La Liga,Matchweek 25,Sat,Away,L,0,5,Atlético Madrid,0.7,3.5,64.0,61196.0,Kirian Rodríguez,4-5-1,Jorge Figueroa,Match Report,,11.0,2.0,22.5,0.0,0,0,Las Palmas
+2024-02-25,17:30,La Liga,Matchweek 26,Sun,Home,D,1,1,Osasuna,0.7,0.7,71.0,25075.0,Kirian Rodríguez,4-5-1,José Luis Munuera,Match Report,,9.0,3.0,16.6,1.0,0,0,Las Palmas
+2024-03-02,18:30,La Liga,Matchweek 27,Sat,Away,D,3,3,Getafe,1.6,2.3,72.0,7623.0,Kirian Rodríguez,4-5-1,Pablo González,Match Report,,14.0,5.0,22.5,0.0,0,0,Las Palmas
+2024-03-10,15:15,La Liga,Matchweek 28,Sun,Home,L,0,2,Athletic Club,1.2,1.1,70.0,27316.0,Kirian Rodríguez,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,14.0,2.0,19.8,1.0,0,0,Las Palmas
+2024-03-17,15:15,La Liga,Matchweek 29,Sun,Home,L,0,1,Almería,0.9,0.8,65.0,22865.0,Kirian Rodríguez,4-5-1,Víctor García,Match Report,,21.0,6.0,21.2,0.0,0,0,Las Palmas
+2024-03-30,21:00,La Liga,Matchweek 30,Sat,Away,L,0,1,Barcelona,0.3,1.7,31.0,46788.0,Kirian Rodríguez,4-5-1,Mateo Busquets,Match Report,,8.0,0.0,20.4,1.0,0,0,Las Palmas
+2024-04-14,13:00,La Liga,Matchweek 31,Sun,Home,L,0,2,Sevilla,0.1,2.1,63.0,23698.0,Kirian Rodríguez,4-5-1,Alejandro Muñíz,Match Report,,5.0,2.0,30.6,1.0,0,0,Las Palmas
+2024-04-20,14:00,La Liga,Matchweek 32,Sat,Away,L,1,4,Celta Vigo,1.0,4.0,68.0,21256.0,Kirian Rodríguez,4-5-1,Francisco Hernández,Match Report,,9.0,4.0,15.2,0.0,0,0,Las Palmas
+2024-04-27,13:00,La Liga,Matchweek 33,Sat,Home,L,0,2,Girona,1.6,1.9,61.0,18734.0,Kirian Rodríguez,4-5-1,Jorge Figueroa,Match Report,,9.0,4.0,17.7,0.0,0,1,Las Palmas
+2024-05-04,14:00,La Liga,Matchweek 34,Sat,Away,L,0,2,Real Sociedad,0.5,0.6,48.0,29330.0,Kirian Rodríguez,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,7.0,1.0,19.9,1.0,0,0,Las Palmas
+2024-05-11,14:00,La Liga,Matchweek 35,Sat,Away,L,0,1,Mallorca,0.4,0.3,56.0,16050.0,Kirian Rodríguez,4-5-1,Juan Martínez,Match Report,,7.0,1.0,23.5,1.0,0,0,Las Palmas
+2024-05-16,18:30,La Liga,Matchweek 36,Thu,Home,D,2,2,Betis,2.3,1.3,57.0,22606.0,Kirian Rodríguez,4-2-3-1,Javier Villanueva,Match Report,,16.0,9.0,16.4,2.0,0,0,Las Palmas
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,D,0,0,Cádiz,0.6,0.9,51.0,18950.0,Kirian Rodríguez,4-3-3,César Soto,Match Report,,9.0,1.0,14.5,0.0,0,0,Las Palmas
+2024-05-26,15:15,La Liga,Matchweek 38,Sun,Home,D,1,1,Alavés,1.0,2.5,65.0,23043.0,Kirian Rodríguez,4-2-3-1,Francisco Hernández,Match Report,,9.0,4.0,20.0,0.0,0,0,Las Palmas
+2023-08-11,19:30,La Liga,Matchweek 1,Fri,Away,W,2,0,Almería,2.1,1.4,40.0,14837.0,Óscar Trejo,4-2-3-1,Javier Alberola,Match Report,,8.0,2.0,21.8,1.0,2,2,Rayo Vallecano
+2023-08-21,21:30,La Liga,Matchweek 2,Mon,Away,W,2,0,Granada,2.1,1.2,52.0,17338.0,Óscar Trejo,4-4-2,Pablo González,Match Report,,17.0,9.0,17.6,2.0,0,0,Rayo Vallecano
+2023-08-28,21:30,La Liga,Matchweek 3,Mon,Home,L,0,7,Atlético Madrid,0.6,3.4,56.0,13966.0,Óscar Trejo,4-2-3-1,José Luis Munuera,Match Report,,12.0,3.0,19.2,0.0,0,0,Rayo Vallecano
+2023-09-02,21:00,La Liga,Matchweek 4,Sat,Away,L,0,1,Betis,1.5,1.0,45.0,50619.0,Óscar Valentín,4-4-2,Alejandro Muñíz,Match Report,,15.0,6.0,20.2,1.0,0,0,Rayo Vallecano
+2023-09-15,21:00,La Liga,Matchweek 5,Fri,Home,W,2,0,Alavés,2.6,0.7,51.0,12116.0,Óscar Valentín,4-2-3-1,Víctor García,Match Report,,19.0,10.0,20.6,1.0,1,1,Rayo Vallecano
+2023-09-24,16:15,La Liga,Matchweek 6,Sun,Home,D,1,1,Villarreal,1.2,1.6,42.0,12865.0,Óscar Valentín,4-2-3-1,Jorge Figueroa,Match Report,,11.0,6.0,19.3,1.0,0,0,Rayo Vallecano
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Away,D,0,0,Cádiz,0.3,0.6,48.0,18505.0,Óscar Valentín,4-2-3-1,Francisco Hernández,Match Report,,9.0,4.0,28.2,1.0,0,0,Rayo Vallecano
+2023-09-30,16:15,La Liga,Matchweek 8,Sat,Home,D,2,2,Mallorca,2.3,1.5,60.0,11991.0,Isaac Palazón Camacho,4-2-3-1,Mario Melero,Match Report,,18.0,4.0,22.0,3.0,1,1,Rayo Vallecano
+2023-10-07,21:00,La Liga,Matchweek 9,Sat,Away,D,2,2,Sevilla,1.0,1.0,36.0,35817.0,Óscar Valentín,4-4-2,Isidro Díaz de Mera,Match Report,,7.0,4.0,20.7,1.0,0,0,Rayo Vallecano
+2023-10-22,13:00,La Liga,Matchweek 10,Sun,Away,W,1,0,Las Palmas,1.4,1.3,40.0,24548.0,Óscar Valentín,4-4-2,Javier Villanueva,Match Report,,11.0,3.0,25.5,2.0,1,1,Rayo Vallecano
+2023-10-29,16:15,La Liga,Matchweek 11,Sun,Home,D,2,2,Real Sociedad,1.0,2.0,55.0,12790.0,Isaac Palazón Camacho,4-4-1-1,Mateo Busquets,Match Report,,16.0,7.0,22.5,3.0,0,0,Rayo Vallecano
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,W,6,0,Atl Lugones,,,77.0,1800.0,Bebé,4-2-3-1,Alejandro Muñíz,Match Report,,27.0,13.0,,,1,2,Rayo Vallecano
+2023-11-05,21:00,La Liga,Matchweek 12,Sun,Away,D,0,0,Real Madrid,0.1,2.2,37.0,70220.0,Óscar Valentín,4-1-4-1,Juan Martínez,Match Report,,4.0,0.0,23.3,0.0,0,0,Rayo Vallecano
+2023-11-11,14:00,La Liga,Matchweek 13,Sat,Home,L,1,2,Girona,1.7,4.5,46.0,13177.0,Óscar Valentín,4-4-2,Pablo González,Match Report,,22.0,9.0,18.7,0.0,0,0,Rayo Vallecano
+2023-11-25,14:00,La Liga,Matchweek 14,Sat,Home,D,1,1,Barcelona,0.7,1.0,33.0,14148.0,Óscar Valentín,4-4-2,José Luis Munuera,Match Report,,10.0,4.0,23.6,0.0,0,0,Rayo Vallecano
+2023-12-02,16:15,La Liga,Matchweek 15,Sat,Away,L,0,4,Athletic Club,0.5,1.3,49.0,44689.0,Óscar Valentín,4-2-3-1,Francisco Hernández,Match Report,,11.0,3.0,22.0,1.0,0,0,Rayo Vallecano
+2023-12-06,12:00,Copa del Rey,Second round,Wed,Away,W,2,0,Yeclano,,,72.0,4700.0,Bebé,4-1-4-1,Mario Melero,Match Report,,13.0,5.0,,,0,0,Rayo Vallecano
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Home,D,0,0,Celta Vigo,1.2,0.1,63.0,11796.0,Óscar Valentín,4-2-3-1,Víctor García,Match Report,,18.0,4.0,15.6,0.0,0,0,Rayo Vallecano
+2023-12-15,21:00,La Liga,Matchweek 17,Fri,Away,L,0,1,Osasuna,0.7,1.2,40.0,18586.0,Óscar Valentín,4-4-2,Javier Villanueva,Match Report,,10.0,3.0,23.1,3.0,0,0,Rayo Vallecano
+2023-12-19,19:00,La Liga,Matchweek 18,Tue,Home,L,0,1,Valencia,0.3,0.3,59.0,12290.0,Isaac Palazón Camacho,4-4-2,Javier Alberola,Match Report,,7.0,1.0,20.9,2.0,0,0,Rayo Vallecano
+2024-01-02,17:00,La Liga,Matchweek 19,Tue,Away,W,2,0,Getafe,1.9,0.4,62.0,11204.0,Óscar Valentín,4-4-2,Jorge Figueroa,Match Report,,12.0,7.0,20.0,1.0,0,0,Rayo Vallecano
+2024-01-06,19:00,Copa del Rey,Round of 32,Sat,Away,W,2,0,Huesca,,,55.0,2629.0,Unai López,4-4-2,César Soto,Match Report,Required Extra Time,23.0,8.0,,,0,0,Rayo Vallecano
+2024-01-17,21:30,Copa del Rey,Round of 16,Wed,Away,L,1,3,Girona,,,45.0,7911.0,Óscar Valentín,4-3-3,Jorge Figueroa,Match Report,,21.0,3.0,,,0,0,Rayo Vallecano
+2024-01-20,14:00,La Liga,Matchweek 21,Sat,Home,L,0,2,Las Palmas,1.6,0.7,45.0,12477.0,Óscar Valentín,4-4-2,Mario Melero,Match Report,,16.0,3.0,17.2,1.0,0,0,Rayo Vallecano
+2024-01-27,14:00,La Liga,Matchweek 22,Sat,Away,D,0,0,Real Sociedad,0.1,0.2,49.0,32528.0,Óscar Valentín,4-4-2,Alejandro Hernández,Match Report,,5.0,0.0,28.3,1.0,0,0,Rayo Vallecano
+2024-01-31,21:00,La Liga,Matchweek 20,Wed,Away,L,1,2,Atlético Madrid,0.4,1.0,46.0,47003.0,Óscar Valentín,3-4-3,César Soto,Match Report,,10.0,2.0,19.2,0.0,0,0,Rayo Vallecano
+2024-02-05,21:00,La Liga,Matchweek 23,Mon,Home,L,1,2,Sevilla,1.8,1.3,66.0,12546.0,Óscar Valentín,4-4-2,Francisco Hernández,Match Report,,22.0,5.0,20.2,1.0,0,0,Rayo Vallecano
+2024-02-11,16:15,La Liga,Matchweek 24,Sun,Away,L,1,2,Mallorca,1.6,0.9,51.0,16735.0,Óscar Valentín,4-2-3-1,José Luis Munuera,Match Report,,11.0,4.0,22.7,2.0,0,0,Rayo Vallecano
+2024-02-18,14:00,La Liga,Matchweek 25,Sun,Home,D,1,1,Real Madrid,1.1,1.1,41.0,14354.0,Óscar Valentín,4-4-2,Alejandro Muñíz,Match Report,,7.0,2.0,19.7,0.0,1,1,Rayo Vallecano
+2024-02-26,21:00,La Liga,Matchweek 26,Mon,Away,L,0,3,Girona,0.5,2.2,46.0,8923.0,Óscar Valentín,4-2-3-1,Ricardo de Burgos,Match Report,,7.0,1.0,25.6,0.0,0,0,Rayo Vallecano
+2024-03-02,16:15,La Liga,Matchweek 27,Sat,Home,D,1,1,Cádiz,0.7,1.0,53.0,12272.0,Óscar Valentín,4-2-3-1,Javier Alberola,Match Report,,9.0,5.0,16.3,0.0,0,0,Rayo Vallecano
+2024-03-10,14:00,La Liga,Matchweek 28,Sun,Away,L,0,1,Alavés,0.6,0.6,66.0,16519.0,Isaac Palazón Camacho,4-2-3-1,José Luis Munuera,Match Report,,9.0,3.0,23.5,0.0,0,0,Rayo Vallecano
+2024-03-17,18:30,La Liga,Matchweek 29,Sun,Home,W,2,0,Betis,0.7,0.8,39.0,13264.0,Óscar Valentín,4-2-3-1,Juan Pulido,Match Report,,8.0,4.0,19.9,2.0,0,0,Rayo Vallecano
+2024-03-31,14:00,La Liga,Matchweek 30,Sun,Away,D,0,0,Celta Vigo,0.6,0.8,39.0,21505.0,Óscar Valentín,4-2-3-1,Alejandro Hernández,Match Report,,8.0,2.0,18.7,0.0,0,0,Rayo Vallecano
+2024-04-13,16:15,La Liga,Matchweek 31,Sat,Home,D,0,0,Getafe,1.0,0.3,63.0,12868.0,Óscar Valentín,4-4-2,Jorge Figueroa,Match Report,,12.0,2.0,22.0,2.0,0,0,Rayo Vallecano
+2024-04-20,16:15,La Liga,Matchweek 32,Sat,Home,W,2,1,Osasuna,0.5,0.5,64.0,12617.0,Óscar Valentín,4-4-2,Mario Melero,Match Report,,17.0,6.0,22.9,2.0,0,0,Rayo Vallecano
+2024-04-28,18:30,La Liga,Matchweek 33,Sun,Away,L,0,3,Villarreal,1.0,1.4,54.0,17869.0,Isaac Palazón Camacho,4-2-3-1,Pablo González,Match Report,,20.0,4.0,22.3,3.0,0,0,Rayo Vallecano
+2024-05-05,21:00,La Liga,Matchweek 34,Sun,Home,L,0,1,Almería,1.4,0.4,68.0,10864.0,Óscar Valentín,4-4-2,Francisco Hernández,Match Report,,27.0,10.0,22.9,4.0,0,0,Rayo Vallecano
+2024-05-12,18:30,La Liga,Matchweek 35,Sun,Away,D,0,0,Valencia,0.6,1.3,49.0,42642.0,Óscar Valentín,4-2-3-1,Juan Pulido,Match Report,,12.0,1.0,18.0,0.0,0,0,Rayo Vallecano
+2024-05-15,19:30,La Liga,Matchweek 36,Wed,Home,W,2,1,Granada,2.5,1.2,33.0,12738.0,Óscar Valentín,4-2-3-1,Isidro Díaz de Mera,Match Report,,18.0,9.0,17.9,3.0,0,0,Rayo Vallecano
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,L,0,3,Barcelona,1.3,1.3,28.0,35823.0,Óscar Valentín,4-1-4-1,Jesús Gil,Match Report,,15.0,4.0,21.0,1.0,0,0,Rayo Vallecano
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Home,L,0,1,Athletic Club,1.1,0.9,63.0,13090.0,Radamel Falcao,4-2-3-1,José Luis Munuera,Match Report,,17.0,4.0,21.6,2.0,0,0,Rayo Vallecano
+2023-08-14,19:30,La Liga,Matchweek 1,Mon,Home,W,1,0,Alavés,0.7,0.3,45.0,19306.0,Fali,4-4-2,Isidro Díaz de Mera,Match Report,,12.0,3.0,17.6,1.0,0,0,Cadiz
+2023-08-20,19:30,La Liga,Matchweek 2,Sun,Away,L,0,2,Barcelona,1.1,3.4,26.0,39603.0,Álex Fernández,4-4-2,Alejandro Muñíz,Match Report,,10.0,1.0,12.0,0.0,0,0,Cadiz
+2023-08-26,19:00,La Liga,Matchweek 3,Sat,Home,D,1,1,Almería,1.6,0.3,52.0,18653.0,Isaac Carcelen,4-4-2,Víctor García,Match Report,,11.0,3.0,15.9,1.0,0,0,Cadiz
+2023-09-01,19:30,La Liga,Matchweek 4,Fri,Home,W,3,1,Villarreal,2.1,0.3,43.0,18557.0,Isaac Carcelen,4-4-2,Juan Pulido,Match Report,,17.0,3.0,22.1,0.0,1,1,Cadiz
+2023-09-16,14:00,La Liga,Matchweek 5,Sat,Away,L,0,3,Athletic Club,0.3,2.9,35.0,42881.0,Isaac Carcelen,4-4-2,Guillermo Cuadra,Match Report,,5.0,4.0,21.8,1.0,0,0,Cadiz
+2023-09-24,18:30,La Liga,Matchweek 6,Sun,Away,D,1,1,Betis,0.2,1.8,37.0,56087.0,Isaac Carcelen,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,5.0,1.0,16.2,0.0,0,0,Cadiz
+2023-09-27,21:30,La Liga,Matchweek 7,Wed,Home,D,0,0,Rayo Vallecano,0.6,0.3,52.0,18505.0,Isaac Carcelen,4-4-2,Francisco Hernández,Match Report,,9.0,2.0,18.0,0.0,0,0,Cadiz
+2023-10-01,21:00,La Liga,Matchweek 8,Sun,Away,L,2,3,Atlético Madrid,0.8,2.7,31.0,53421.0,Jeremías Ledesma,5-3-2,Javier Villanueva,Match Report,,8.0,4.0,21.8,0.0,0,0,Cadiz
+2023-10-07,14:00,La Liga,Matchweek 9,Sat,Home,L,0,1,Girona,0.4,1.2,27.0,16438.0,Isaac Carcelen,4-4-2,Juan Martínez,Match Report,,8.0,2.0,17.6,0.0,0,0,Cadiz
+2023-10-23,21:00,La Liga,Matchweek 10,Mon,Away,L,0,2,Valencia,0.6,1.5,39.0,41647.0,Isaac Carcelen,4-4-2,Pablo González,Match Report,,5.0,4.0,9.9,0.0,0,0,Cadiz
+2023-10-28,21:00,La Liga,Matchweek 11,Sat,Home,D,2,2,Sevilla,1.1,1.2,34.0,18886.0,Isaac Carcelen,4-4-2,César Soto,Match Report,,10.0,5.0,18.3,2.0,0,0,Cadiz
+2023-11-06,21:00,La Liga,Matchweek 12,Mon,Away,L,0,1,Getafe,0.5,1.2,55.0,9853.0,Isaac Carcelen,4-4-2,Ricardo de Burgos,Match Report,,6.0,2.0,17.4,0.0,0,0,Cadiz
+2023-11-26,18:30,La Liga,Matchweek 14,Sun,Home,L,0,3,Real Madrid,1.2,1.6,39.0,20325.0,Jeremías Ledesma,5-4-1,Guillermo Cuadra,Match Report,,13.0,4.0,20.0,3.0,0,0,Cadiz
+2023-11-29,21:00,La Liga,Matchweek 13,Wed,Away,D,1,1,Mallorca,0.3,1.1,33.0,13821.0,Isaac Carcelen,4-4-2,Javier Villanueva,Match Report,,6.0,3.0,31.9,2.0,0,0,Cadiz
+2023-12-04,21:00,La Liga,Matchweek 15,Mon,Away,D,1,1,Celta Vigo,0.3,2.4,32.0,17302.0,Isaac Carcelen,4-4-2,Jesús Gil,Match Report,,2.0,1.0,17.7,0.0,0,0,Cadiz
+2023-12-07,19:00,Copa del Rey,Second round,Thu,Away,L,1,2,Arandina,,,55.0,4100.0,José Mari,4-4-2,Francisco Hernández,Match Report,,11.0,5.0,,,0,0,Cadiz
+2023-12-10,18:30,La Liga,Matchweek 16,Sun,Home,D,1,1,Osasuna,0.9,1.6,45.0,18356.0,Isaac Carcelen,4-4-2,Juan Martínez,Match Report,,12.0,5.0,17.2,0.0,0,0,Cadiz
+2023-12-17,17:30,La Liga,Matchweek 17,Sun,Away,D,1,1,Las Palmas,1.6,0.7,36.0,25275.0,Isaac Carcelen,4-4-2,Alejandro Muñíz,Match Report,,13.0,5.0,16.0,0.0,0,0,Cadiz
+2023-12-21,19:00,La Liga,Matchweek 18,Thu,Home,D,0,0,Real Sociedad,1.0,0.5,40.0,17693.0,Isaac Carcelen,4-4-2,Javier Villanueva,Match Report,,10.0,2.0,16.8,0.0,0,0,Cadiz
+2024-01-03,17:00,La Liga,Matchweek 19,Wed,Away,L,0,2,Granada,0.8,3.0,45.0,17732.0,Isaac Carcelen,4-4-2,Juan Pulido,Match Report,,15.0,2.0,18.6,2.0,0,0,Cadiz
+2024-01-14,16:15,La Liga,Matchweek 20,Sun,Home,L,1,4,Valencia,1.1,1.9,57.0,18622.0,Isaac Carcelen,4-5-1,Isidro Díaz de Mera,Match Report,,9.0,1.0,21.9,2.0,1,1,Cadiz
+2024-01-19,21:00,La Liga,Matchweek 21,Fri,Away,L,0,1,Alavés,0.3,2.0,51.0,15838.0,Jeremías Ledesma,4-4-2,Alejandro Muñíz,Match Report,,9.0,1.0,17.8,0.0,0,0,Cadiz
+2024-01-28,16:15,La Liga,Matchweek 22,Sun,Home,D,0,0,Athletic Club,0.4,0.2,43.0,18839.0,Isaac Carcelen,4-4-2,Mateo Busquets,Match Report,,9.0,2.0,23.6,2.0,0,0,Cadiz
+2024-02-04,14:00,La Liga,Matchweek 23,Sun,Away,D,0,0,Villarreal,0.7,1.2,41.0,17183.0,Isaac Carcelen,4-4-2,Pablo González,Match Report,,8.0,2.0,14.3,1.0,0,0,Cadiz
+2024-02-09,21:00,La Liga,Matchweek 24,Fri,Home,L,0,2,Betis,0.8,1.0,53.0,15346.0,Jeremías Ledesma,4-4-2,Ricardo de Burgos,Match Report,,14.0,5.0,17.8,0.0,0,0,Cadiz
+2024-02-17,16:15,La Liga,Matchweek 25,Sat,Away,L,0,2,Osasuna,0.5,2.0,44.0,19525.0,Jeremías Ledesma,4-4-2,Francisco Hernández,Match Report,,5.0,1.0,15.9,0.0,0,0,Cadiz
+2024-02-25,14:00,La Liga,Matchweek 26,Sun,Home,D,2,2,Celta Vigo,2.2,0.7,65.0,18123.0,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,19.0,6.0,18.2,2.0,0,0,Cadiz
+2024-03-02,16:15,La Liga,Matchweek 27,Sat,Away,D,1,1,Rayo Vallecano,1.0,0.7,47.0,12272.0,Jeremías Ledesma,4-4-2,Javier Alberola,Match Report,,16.0,5.0,16.7,0.0,0,0,Cadiz
+2024-03-09,16:15,La Liga,Matchweek 28,Sat,Home,W,2,0,Atlético Madrid,1.1,0.9,40.0,15917.0,Jeremías Ledesma,4-4-2,Pablo González,Match Report,,7.0,3.0,16.0,0.0,0,0,Cadiz
+2024-03-15,21:00,La Liga,Matchweek 29,Fri,Away,L,0,2,Real Sociedad,0.8,1.9,37.0,31000.0,Jeremías Ledesma,4-4-2,César Soto,Match Report,,13.0,2.0,20.0,1.0,0,0,Cadiz
+2024-03-29,21:00,La Liga,Matchweek 30,Fri,Home,W,1,0,Granada,1.6,0.5,59.0,15422.0,Jeremías Ledesma,4-4-2,Guillermo Cuadra,Match Report,,13.0,5.0,16.0,0.0,0,0,Cadiz
+2024-04-13,21:00,La Liga,Matchweek 31,Sat,Home,L,0,1,Barcelona,1.0,0.9,38.0,19607.0,Jeremías Ledesma,4-4-2,Juan Pulido,Match Report,,14.0,3.0,17.5,0.0,0,0,Cadiz
+2024-04-20,21:00,La Liga,Matchweek 32,Sat,Away,L,1,4,Girona,1.6,2.1,43.0,12665.0,Jeremías Ledesma,4-4-2,Javier Alberola,Match Report,,12.0,5.0,15.9,0.0,0,0,Cadiz
+2024-04-28,14:00,La Liga,Matchweek 33,Sun,Home,D,1,1,Mallorca,0.4,0.9,58.0,18174.0,Jeremías Ledesma,4-4-2,Isidro Díaz de Mera,Match Report,,10.0,2.0,22.2,0.0,0,0,Cadiz
+2024-05-04,16:15,La Liga,Matchweek 34,Sat,Away,L,0,3,Real Madrid,0.9,2.3,30.0,72654.0,Jeremías Ledesma,4-5-1,Javier Villanueva,Match Report,,7.0,2.0,14.5,0.0,0,0,Cadiz
+2024-05-12,14:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Getafe,1.5,0.5,45.0,16592.0,Jeremías Ledesma,4-4-2,Ricardo de Burgos,Match Report,,12.0,5.0,20.2,1.0,1,1,Cadiz
+2024-05-15,19:30,La Liga,Matchweek 36,Wed,Away,W,1,0,Sevilla,2.5,1.3,44.0,35805.0,Jeremías Ledesma,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,19.0,7.0,19.9,0.0,0,0,Cadiz
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,D,0,0,Las Palmas,0.9,0.6,49.0,18950.0,Jeremías Ledesma,4-4-2,César Soto,Match Report,,10.0,3.0,16.3,0.0,0,0,Cadiz
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Away,L,1,6,Almería,0.5,2.9,54.0,7558.0,Álex Fernández,4-2-3-1,Mateo Busquets,Match Report,,12.0,4.0,23.0,0.0,0,0,Cadiz
+2023-08-11,19:30,La Liga,Matchweek 1,Fri,Home,L,0,2,Rayo Vallecano,1.4,2.1,60.0,14837.0,Lucas Robertone,4-2-3-1,Javier Alberola,Match Report,,19.0,5.0,19.7,0.0,0,0,Almeria
+2023-08-19,19:30,La Liga,Matchweek 2,Sat,Home,L,1,3,Real Madrid,1.3,2.0,43.0,17561.0,Lucas Robertone,4-2-3-1,José Sánchez,Match Report,,20.0,8.0,17.5,0.0,0,0,Almeria
+2023-08-26,19:00,La Liga,Matchweek 3,Sat,Away,D,1,1,Cádiz,0.3,1.6,48.0,18653.0,Juan Brandáriz,4-2-3-1,Víctor García,Match Report,,5.0,2.0,17.6,1.0,0,0,Almeria
+2023-09-01,22:00,La Liga,Matchweek 4,Fri,Home,L,2,3,Celta Vigo,3.0,1.5,63.0,14196.0,Lucas Robertone,4-2-3-1,Ricardo de Burgos,Match Report,,16.0,5.0,15.9,0.0,0,0,Almeria
+2023-09-17,16:15,La Liga,Matchweek 5,Sun,Away,L,1,2,Villarreal,1.5,0.9,38.0,18467.0,Lucas Robertone,4-2-3-1,Francisco Hernández,Match Report,,17.0,7.0,19.8,2.0,0,0,Almeria
+2023-09-23,21:00,La Liga,Matchweek 6,Sat,Home,D,2,2,Valencia,2.6,0.8,61.0,14266.0,Lucas Robertone,4-2-3-1,Mateo Busquets,Match Report,,17.0,10.0,15.2,2.0,0,0,Almeria
+2023-09-26,19:00,La Liga,Matchweek 7,Tue,Away,L,1,5,Sevilla,1.8,2.2,54.0,35729.0,Gonzalo Melero,4-4-2,Guillermo Cuadra,Match Report,,9.0,0.0,15.2,0.0,1,1,Almeria
+2023-10-01,14:00,La Liga,Matchweek 8,Sun,Home,D,3,3,Granada,2.9,2.9,49.0,14264.0,Gonzalo Melero,4-3-3,Pablo González,Match Report,,17.0,5.0,16.6,0.0,0,0,Almeria
+2023-10-06,21:00,La Liga,Matchweek 9,Fri,Away,L,0,3,Athletic Club,0.1,1.9,41.0,43677.0,Adri Embarba,4-4-2,Víctor García,Match Report,,4.0,1.0,23.6,0.0,0,0,Almeria
+2023-10-22,16:15,La Liga,Matchweek 10,Sun,Away,L,2,5,Girona,1.0,1.9,34.0,12884.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,9.0,5.0,22.4,1.0,0,0,Almeria
+2023-10-28,14:00,La Liga,Matchweek 11,Sat,Home,L,1,2,Las Palmas,0.3,0.9,41.0,12132.0,Lucas Robertone,4-2-3-1,Francisco Hernández,Match Report,,10.0,4.0,23.3,0.0,0,0,Almeria
+2023-10-31,21:00,Copa del Rey,First round,Tue,Away,W,2,0,CF Talavera de la Reina,,,48.0,3118.0,Gonzalo Melero,4-2-3-1,Mateo Busquets,Match Report,,12.0,5.0,,,0,0,Almeria
+2023-11-05,14:00,La Liga,Matchweek 12,Sun,Away,L,0,1,Alavés,0.5,2.4,44.0,16380.0,Lucas Robertone,4-2-3-1,Juan Pulido,Match Report,,9.0,3.0,23.2,1.0,0,0,Almeria
+2023-11-11,16:15,La Liga,Matchweek 13,Sat,Home,L,1,3,Real Sociedad,0.4,2.4,47.0,13016.0,Lucas Robertone,4-2-3-1,Isidro Díaz de Mera,Match Report,,7.0,2.0,18.7,1.0,0,0,Almeria
+2023-11-25,18:30,La Liga,Matchweek 14,Sat,Away,L,1,2,Getafe,1.8,1.2,47.0,10906.0,Lucas Robertone,4-2-3-1,Alejandro Hernández,Match Report,,13.0,4.0,15.6,0.0,0,0,Almeria
+2023-12-03,16:15,La Liga,Matchweek 15,Sun,Home,D,0,0,Betis,2.4,0.5,62.0,14253.0,Lucas Robertone,4-2-3-1,Alejandro Muñíz,Match Report,,20.0,8.0,18.7,0.0,0,0,Almeria
+2023-12-06,12:00,Copa del Rey,Second round,Wed,Away,L,0,1,Barbastro,,,73.0,3000.0,Juan Brandáriz,4-4-2,Víctor García,Match Report,,11.0,4.0,,,0,0,Almeria
+2023-12-10,14:00,La Liga,Matchweek 16,Sun,Away,L,1,2,Atlético Madrid,1.3,2.2,43.0,55473.0,Lucas Robertone,3-4-1-2,Ricardo de Burgos,Match Report,,19.0,6.0,17.3,0.0,0,0,Almeria
+2023-12-17,14:00,La Liga,Matchweek 17,Sun,Home,D,0,0,Mallorca,0.3,1.9,53.0,11936.0,Lucas Robertone,3-4-3,Pablo González,Match Report,,7.0,1.0,24.4,2.0,0,0,Almeria
+2023-12-20,19:00,La Liga,Matchweek 18,Wed,Away,L,2,3,Barcelona,1.6,3.4,35.0,34471.0,Juan Brandáriz,5-3-2,Guillermo Cuadra,Match Report,,10.0,5.0,13.7,0.0,0,0,Almeria
+2024-01-04,17:00,La Liga,Matchweek 19,Thu,Away,L,0,1,Osasuna,0.2,1.3,48.0,20391.0,Lucas Robertone,4-2-3-1,César Soto,Match Report,,4.0,0.0,19.0,0.0,0,0,Almeria
+2024-01-14,14:00,La Liga,Matchweek 20,Sun,Home,D,0,0,Girona,1.7,0.3,46.0,12111.0,Lucas Robertone,4-1-4-1,Mateo Busquets,Match Report,,20.0,3.0,18.0,1.0,0,0,Almeria
+2024-01-21,16:15,La Liga,Matchweek 21,Sun,Away,L,2,3,Real Madrid,0.9,2.2,27.0,72044.0,Lucas Robertone,5-4-1,Francisco Hernández,Match Report,,10.0,2.0,22.5,0.0,0,0,Almeria
+2024-01-26,21:00,La Liga,Matchweek 22,Fri,Home,L,0,3,Alavés,1.4,1.8,64.0,13817.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,19.0,7.0,20.0,2.0,0,0,Almeria
+2024-02-03,14:00,La Liga,Matchweek 23,Sat,Away,L,1,2,Valencia,1.9,1.4,52.0,42877.0,Gonzalo Melero,4-2-3-1,Alejandro Muñíz,Match Report,,15.0,4.0,20.7,0.0,0,0,Almeria
+2024-02-12,21:00,La Liga,Matchweek 24,Mon,Home,D,0,0,Athletic Club,0.9,0.7,39.0,12863.0,Lucas Robertone,4-2-3-1,Víctor García,Match Report,,10.0,4.0,19.4,0.0,0,0,Almeria
+2024-02-18,16:15,La Liga,Matchweek 25,Sun,Away,D,1,1,Granada,1.4,2.0,42.0,18756.0,Lucas Robertone,4-2-3-1,Jesús Gil,Match Report,,13.0,3.0,24.7,1.0,0,0,Almeria
+2024-02-24,21:00,La Liga,Matchweek 26,Sat,Home,D,2,2,Atlético Madrid,0.5,1.5,40.0,14472.0,Lucas Robertone,4-2-3-1,Javier Alberola,Match Report,,9.0,4.0,21.7,0.0,0,0,Almeria
+2024-03-01,21:00,La Liga,Matchweek 27,Fri,Away,L,0,1,Celta Vigo,0.1,1.5,34.0,18005.0,Lucas Robertone,4-2-3-1,José Sánchez,Match Report,,3.0,0.0,19.6,0.0,0,0,Almeria
+2024-03-11,21:00,La Liga,Matchweek 28,Mon,Home,D,2,2,Sevilla,2.0,2.4,44.0,13095.0,Adri Embarba,4-2-3-1,Ricardo de Burgos,Match Report,,14.0,4.0,20.0,0.0,0,0,Almeria
+2024-03-17,15:15,La Liga,Matchweek 29,Sun,Away,W,1,0,Las Palmas,0.8,0.9,35.0,22865.0,Lucas Robertone,4-2-3-1,Víctor García,Match Report,,3.0,2.0,13.6,0.0,0,0,Almeria
+2024-03-30,16:15,La Liga,Matchweek 30,Sat,Home,L,0,3,Osasuna,0.8,1.0,51.0,10565.0,Lucas Robertone,4-3-3,Pablo González,Match Report,,12.0,5.0,19.8,1.0,0,0,Almeria
+2024-04-14,21:00,La Liga,Matchweek 31,Sun,Away,D,2,2,Real Sociedad,1.6,1.5,50.0,26520.0,Lucas Robertone,4-2-3-1,Isidro Díaz de Mera,Match Report,,6.0,2.0,19.8,0.0,1,1,Almeria
+2024-04-21,16:15,La Liga,Matchweek 32,Sun,Home,L,1,2,Villarreal,1.8,1.6,57.0,10601.0,Lucas Robertone,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,24.0,5.0,16.1,0.0,0,0,Almeria
+2024-04-27,16:15,La Liga,Matchweek 33,Sat,Home,L,1,3,Getafe,2.4,1.7,56.0,7874.0,Lucas Robertone,4-2-3-1,Guillermo Cuadra,Match Report,,21.0,10.0,16.6,2.0,0,0,Almeria
+2024-05-05,21:00,La Liga,Matchweek 34,Sun,Away,W,1,0,Rayo Vallecano,0.4,1.4,32.0,10864.0,Adri Embarba,4-2-3-1,Francisco Hernández,Match Report,,7.0,2.0,19.6,0.0,0,0,Almeria
+2024-05-12,21:00,La Liga,Matchweek 35,Sun,Away,L,2,3,Betis,1.2,0.8,52.0,48622.0,Lucas Robertone,4-3-3,Alejandro Muñíz,Match Report,,14.0,7.0,20.5,0.0,0,0,Almeria
+2024-05-16,21:30,La Liga,Matchweek 36,Thu,Home,L,0,2,Barcelona,0.9,1.6,36.0,15543.0,Lucas Robertone,4-2-3-1,Javier Alberola,Match Report,,12.0,3.0,21.3,0.0,0,0,Almeria
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,D,2,2,Mallorca,0.4,3.0,48.0,20573.0,Fernando,4-2-3-1,Ricardo de Burgos,Match Report,,7.0,3.0,23.7,0.0,0,0,Almeria
+2024-05-25,18:30,La Liga,Matchweek 38,Sat,Home,W,6,1,Cádiz,2.9,0.5,46.0,7558.0,Fernando,4-2-3-1,Mateo Busquets,Match Report,,27.0,12.0,17.3,1.0,0,0,Almeria
+2023-08-14,21:30,La Liga,Matchweek 1,Mon,Away,L,1,3,Atlético Madrid,0.9,2.4,54.0,56164.0,Carlos Neva,5-3-2,Juan Pulido,Match Report,,7.0,4.0,14.1,0.0,0,0,Granada
+2023-08-21,21:30,La Liga,Matchweek 2,Mon,Home,L,0,2,Rayo Vallecano,1.2,2.1,48.0,17338.0,Carlos Neva,4-3-3,Pablo González,Match Report,,14.0,7.0,16.1,0.0,0,0,Granada
+2023-08-26,19:30,La Liga,Matchweek 3,Sat,Home,W,3,2,Mallorca,1.4,2.6,53.0,16368.0,Carlos Neva,4-4-2,Francisco Hernández,Match Report,,9.0,3.0,21.3,1.0,1,1,Granada
+2023-09-02,14:00,La Liga,Matchweek 4,Sat,Away,L,3,5,Real Sociedad,0.8,2.3,39.0,27808.0,Víctor Díaz,3-4-3,Javier Villanueva,Match Report,,8.0,5.0,18.5,0.0,0,0,Granada
+2023-09-18,21:00,La Liga,Matchweek 5,Mon,Home,L,2,4,Girona,1.6,2.8,43.0,17323.0,Víctor Díaz,4-4-2,Isidro Díaz de Mera,Match Report,,12.0,5.0,17.5,2.0,0,0,Granada
+2023-09-24,17:30,La Liga,Matchweek 6,Sun,Away,L,0,1,Las Palmas,0.0,0.6,44.0,24848.0,Antonio Puertas,4-4-1-1,Ricardo de Burgos,Match Report,,2.0,1.0,33.7,1.0,0,0,Granada
+2023-09-28,19:00,La Liga,Matchweek 7,Thu,Home,D,1,1,Betis,1.8,0.9,39.0,18936.0,Antonio Puertas,4-4-2,Víctor García,Match Report,,18.0,7.0,15.8,1.0,0,0,Granada
+2023-10-01,14:00,La Liga,Matchweek 8,Sun,Away,D,3,3,Almería,2.9,2.9,51.0,14264.0,Antonio Puertas,4-4-2,Pablo González,Match Report,,17.0,2.0,14.6,0.0,1,2,Granada
+2023-10-08,21:00,La Liga,Matchweek 9,Sun,Home,D,2,2,Barcelona,0.8,3.0,20.0,20354.0,Carlos Neva,5-4-1,César Soto,Match Report,,7.0,2.0,21.8,0.0,0,0,Granada
+2023-10-20,21:00,La Liga,Matchweek 10,Fri,Away,L,0,2,Osasuna,0.6,2.1,42.0,19739.0,Carlos Neva,4-2-3-1,Mateo Busquets,Match Report,,13.0,3.0,14.2,0.0,0,0,Granada
+2023-10-30,21:00,La Liga,Matchweek 11,Mon,Home,L,2,3,Villarreal,2.1,1.6,46.0,16638.0,Antonio Puertas,4-2-3-1,Javier Villanueva,Match Report,,18.0,8.0,12.8,0.0,0,0,Granada
+2023-11-02,19:00,Copa del Rey,First round,Thu,Away,L,0,3,Arosa,,,74.0,3100.0,Víctor Díaz,4-4-2,Ricardo de Burgos,Match Report,Match awarded to Arosa,22.0,6.0,,,0,0,Granada
+2023-11-05,16:15,La Liga,Matchweek 12,Sun,Away,L,0,1,Valencia,0.5,1.2,49.0,44922.0,Carlos Neva,4-2-3-1,Víctor García,Match Report,,6.0,1.0,19.7,2.0,0,0,Granada
+2023-11-11,18:30,La Liga,Matchweek 13,Sat,Home,D,1,1,Getafe,1.7,2.3,58.0,18103.0,Carlos Neva,4-2-2-2,Alejandro Muñíz,Match Report,,12.0,6.0,17.8,0.0,0,0,Granada
+2023-11-24,21:00,La Liga,Matchweek 14,Fri,Away,L,1,3,Alavés,1.1,0.8,57.0,15705.0,Carlos Neva,4-3-3,Javier Alberola,Match Report,,10.0,3.0,23.1,0.0,1,1,Granada
+2023-12-02,18:30,La Liga,Matchweek 15,Sat,Away,L,0,2,Real Madrid,0.1,1.8,29.0,70685.0,Carlos Neva,4-4-2,Pablo González,Match Report,,2.0,0.0,40.5,0.0,0,0,Granada
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Home,D,1,1,Athletic Club,0.7,1.1,48.0,12849.0,Carlos Neva,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,7.0,2.0,14.9,0.0,0,0,Granada
+2023-12-16,14:00,La Liga,Matchweek 17,Sat,Away,L,0,1,Celta Vigo,0.5,1.4,61.0,18027.0,Carlos Neva,4-2-3-1,José Sánchez,Match Report,,7.0,2.0,14.2,0.0,0,0,Granada
+2023-12-19,21:30,La Liga,Matchweek 18,Tue,Home,L,0,3,Sevilla,0.9,0.5,52.0,16534.0,Antonio Puertas,4-1-4-1,Mateo Busquets,Match Report,,12.0,3.0,13.9,0.0,0,0,Granada
+2024-01-03,17:00,La Liga,Matchweek 19,Wed,Home,W,2,0,Cádiz,3.0,0.8,55.0,17732.0,Carlos Neva,4-4-2,Juan Pulido,Match Report,,15.0,8.0,14.4,1.0,0,0,Granada
+2024-01-13,21:00,La Liga,Matchweek 20,Sat,Away,L,0,1,Betis,0.5,1.8,43.0,50197.0,Carlos Neva,4-4-2,Guillermo Cuadra,Match Report,,6.0,2.0,17.2,0.0,0,0,Granada
+2024-01-22,21:00,La Liga,Matchweek 21,Mon,Home,L,0,1,Atlético Madrid,0.6,1.2,53.0,18704.0,Carlos Neva,4-3-3,Juan Martínez,Match Report,,17.0,1.0,18.0,0.0,0,0,Granada
+2024-01-29,21:00,La Liga,Matchweek 22,Mon,Away,L,0,2,Getafe,1.9,1.3,60.0,10382.0,Carlos Neva,4-3-3,Víctor García,Match Report,,15.0,3.0,18.5,0.0,0,1,Granada
+2024-02-03,16:15,La Liga,Matchweek 23,Sat,Home,D,1,1,Las Palmas,0.1,1.0,23.0,17941.0,Carlos Neva,4-1-4-1,Mateo Busquets,Match Report,,3.0,1.0,14.5,0.0,0,0,Granada
+2024-02-11,21:00,La Liga,Matchweek 24,Sun,Away,D,3,3,Barcelona,1.4,2.3,35.0,41901.0,Ignasi Miquel,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,11.0,5.0,14.6,0.0,0,0,Granada
+2024-02-18,16:15,La Liga,Matchweek 25,Sun,Home,D,1,1,Almería,2.0,1.4,58.0,18756.0,Carlos Neva,4-3-3,Jesús Gil,Match Report,,19.0,7.0,19.2,2.0,0,0,Granada
+2024-03-03,14:00,La Liga,Matchweek 27,Sun,Away,L,1,5,Villarreal,0.5,2.0,52.0,15896.0,Carlos Neva,3-4-3,Juan Pulido,Match Report,,9.0,3.0,23.2,1.0,0,0,Granada
+2024-03-09,18:30,La Liga,Matchweek 28,Sat,Home,L,2,3,Real Sociedad,1.7,2.1,37.0,9214.0,Carlos Neva,4-4-2,Juan Martínez,Match Report,,12.0,5.0,17.9,0.0,1,1,Granada
+2024-03-16,14:00,La Liga,Matchweek 29,Sat,Away,L,0,1,Mallorca,0.4,1.6,48.0,16477.0,Carlos Neva,4-4-2,Ricardo de Burgos,Match Report,,8.0,3.0,20.9,0.0,0,0,Granada
+2024-03-29,21:00,La Liga,Matchweek 30,Fri,Away,L,0,1,Cádiz,0.5,1.6,41.0,15422.0,Carlos Neva,5-4-1,Guillermo Cuadra,Match Report,,10.0,2.0,21.4,1.0,0,0,Granada
+2024-04-04,20:00,La Liga,Matchweek 26,Thu,Home,L,0,1,Valencia,0.6,0.4,57.0,15107.0,Carlos Neva,4-4-2,Alejandro Hernández,Match Report,,13.0,3.0,23.2,1.0,0,0,Granada
+2024-04-14,16:15,La Liga,Matchweek 31,Sun,Home,W,2,0,Alavés,1.3,0.3,38.0,13398.0,Carlos Neva,4-4-2,Víctor García,Match Report,,8.0,2.0,20.4,1.0,1,1,Granada
+2024-04-19,21:00,La Liga,Matchweek 32,Fri,Away,D,1,1,Athletic Club,0.2,1.5,33.0,45917.0,Antonio Puertas,4-4-2,Javier Villanueva,Match Report,,5.0,0.0,23.4,0.0,0,0,Granada
+2024-04-28,16:15,La Liga,Matchweek 33,Sun,Home,W,3,0,Osasuna,2.6,0.8,38.0,13825.0,Carlos Neva,4-4-2,Alejandro Muñíz,Match Report,,12.0,4.0,14.8,0.0,0,0,Granada
+2024-05-05,21:00,La Liga,Matchweek 34,Sun,Away,L,0,3,Sevilla,0.4,1.7,40.0,32658.0,Carlos Neva,4-4-2,Mateo Busquets,Match Report,,8.0,3.0,26.3,0.0,0,0,Granada
+2024-05-11,18:30,La Liga,Matchweek 35,Sat,Home,L,0,4,Real Madrid,1.0,1.5,42.0,20058.0,Carlos Neva,4-4-2,Pablo González,Match Report,,12.0,1.0,13.6,0.0,0,0,Granada
+2024-05-15,19:30,La Liga,Matchweek 36,Wed,Away,L,1,2,Rayo Vallecano,1.2,2.5,67.0,12738.0,Carlos Neva,4-2-3-1,Isidro Díaz de Mera,Match Report,,10.0,1.0,18.2,1.0,0,0,Granada
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Home,L,1,2,Celta Vigo,1.9,1.7,49.0,11473.0,Carlos Neva,4-3-3,Javier Alberola,Match Report,,10.0,3.0,19.8,0.0,0,1,Granada
+2024-05-24,21:00,La Liga,Matchweek 38,Fri,Away,L,0,7,Girona,1.0,4.6,30.0,12813.0,Sergio Ruiz,4-2-3-1,Alejandro Muñíz,Match Report,,10.0,2.0,18.0,0.0,0,0,Granada
